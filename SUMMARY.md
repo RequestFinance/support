@@ -36,6 +36,7 @@
 
 ## Legal
 
+* [Legal notice](legal/legal-notice.md)
 * [Terms & Conditions](terms-and-conditions.md)
 * [Privacy](privacy.md)
 * [Cookies](cookies.md)
