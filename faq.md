@@ -149,6 +149,18 @@ When paying from a Gnosis Safe, you can batch payments for invoices that you hav
 
 Paying in batch without Gnosis Safe will be available soon, [don't miss future updates](https://twitter.com/RequestFinance).
 
+### Why can't I make a batch payment of my bills/payroll?
+
+Batch payments for bills are only supported if;
+
+* The bill is approved (-> click to select a bill and approve it first)
+* The bill is payable in an ERC-20 token (Note: tokens native to the blockchain, like ETH are not supported for batch payment)
+
+Batch payments for payroll payments are only supported if;
+
+* There is no payroll payment set up that is "awaiting payment" (-> create a payroll payment first)
+* The bill is payable in an ERC-20 token (Note: tokens native to the blockchain, like ETH are not supported for batch payment)
+
 ### What is a digital currency or cryptocurrency?
 
 Digital currency, or cryptocurrency, is often referred to as programmable money. Like the Internet in the 90s was for communication to become digital. Cryptocurrencies and their applications represent the internet of money. There are currently over 7000 cryptocurrencies listed on the popular tracker CoinMarketCap.
