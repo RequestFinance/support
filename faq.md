@@ -145,21 +145,21 @@ Please do not use Metamask mobile's internal browser. Always prefer Chrome to br
 
 ### How to batch multiple payments into one transaction?
 
-When paying from a Gnosis Safe, you can batch payments for invoices that you have already accepted. [Have a look at this demo.](https://youtu.be/-jJvIsgxQmk)
+To make a batch payment, simply click on "Batch Payment" on the "[Bills](https://app.request.finance/pay/bills)" or "[Payroll](https://app.request.finance/salaries)" menu. For bills you need to make sure they are approved before you can pay them as part of one transaction.&#x20;
 
-Paying in batch without Gnosis Safe will be available soon, [don't miss future updates](https://twitter.com/RequestFinance).
+[Have a look at this demo](https://youtu.be/-jJvIsgxQmk) to see how this works with Gnosis Safe.&#x20;
 
 ### Why can't I make a batch payment of my bills/payroll?
 
-Batch payments for bills are only supported if;
+Batch payments for bills are only supported if:
 
 * The bill is approved (-> click to select a bill and approve it first)
-* The bill is payable in an ERC-20 token (Note: tokens native to the blockchain, like ETH are not supported for batch payment)
+* The bill is payable in an ERC-20 token (note: tokens native to the blockchain, like ETH on Ethereum, are not supported for batch payment)
 
-Batch payments for payroll payments are only supported if;
+Batch payments for payroll payments are only supported if:
 
-* There is no payroll payment set up that is "awaiting payment" (-> create a payroll payment first)
-* The bill is payable in an ERC-20 token (Note: tokens native to the blockchain, like ETH are not supported for batch payment)
+* The payroll payment set up is "awaiting payment" (-> create a payroll payment first)
+* The bill is payable in an ERC-20 token (note: tokens native to the blockchain, like ETH on Ethereum, are not supported for batch payment)
 
 ### What is a digital currency or cryptocurrency?
 
