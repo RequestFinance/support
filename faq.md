@@ -147,8 +147,6 @@ Please do not use Metamask mobile's internal browser. Always prefer Chrome to br
 
 To make a batch payment, simply click on "Batch Payment" on the "[Bills](https://app.request.finance/pay/bills)" or "[Payroll](https://app.request.finance/salaries)" menu. For bills you need to make sure they are approved before you can pay them as part of one transaction.&#x20;
 
-[Have a look at this demo](https://youtu.be/-jJvIsgxQmk) to see how this works with Gnosis Safe.&#x20;
-
 ### Why can't I make a batch payment of my bills/payroll?
 
 Batch payments for bills are only supported if:
