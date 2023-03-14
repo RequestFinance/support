@@ -309,9 +309,7 @@ Please view the table below for more details:&#x20;
 | Pay a bill                                                   | Y     | Y               | N          | N        |
 | Void a bill                                                  | Y     | Y               | N          | N        |
 | **Payroll**                                                  |       |                 |            |          |
-| View the “Salaries” menu                                     | Y     | Y               | Y          | N        |
-| View the “Sent Salaries” submenu                             | Y     | Y               | Y          | N        |
-| View the “Received Salaries” submenu                         | Y     | Y               | Y          | N        |
+| View the “Payroll” menu                                      | Y     | Y               | Y          | N        |
 | View payroll for employees                                   | Y     | Y               | Y          | N        |
 | Create a payment                                             | Y     | Y               | N          | N        |
 | Void a payment                                               | Y     | Y               | N          | N        |
