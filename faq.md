@@ -348,7 +348,7 @@ Please view the table below for more details:&#x20;
 
 Each additional team member is priced at $10 per team member per calendar month. The first calendar month a team member is added is free.&#x20;
 
-Example: if you add a team member during March 2023, we won't bill you for this team member for the remaining period of March. The first billing period will be April 2023 and you will receive a bill at the beginning of May 2023 in your Request Finance account in the "Bills" menu.&#x20;
+Example: if you add a team member during May 2023, we won't bill you for this team member for the remaining period of May. The first billing period will be June 2023 and you will receive a bill at the beginning of July 2023 in your Request Finance account in the "Bills" menu.&#x20;
 
 ### How will I pay for the Organization feature?
 
