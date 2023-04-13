@@ -263,11 +263,7 @@ There are two reasons for this, which are as follows:
 1. When you are paying for an invoice denominated in fiat prices are calculated on-chain via ChainLink, we ask for a little extra during each payment to account for any exchange rate discrepancies by the time your transaction gets confirmed. e.g. imagine paying a EUR denominated with DAI and the transaction takes a few minutes to confirm, when we check with ChainLink the EUR/DAI price may have dropped slightly. Because of this, we require a small % extra to cover the full amount. After the transaction has been completed, any excess is sent back directly to the payer.
 2. When you are paying via our swap mechanism the swaps can occur slippage from the exchange (e.g. DAI/USDT swap may cause 0.1% slippage + also fees) so again, we ask for extra. After the transaction has been completed, any excess is sent back directly to the payer.
 
-## Organization
-
-{% hint style="info" %}
-The Organization feature is currently under development and the content below is subject to change. If you like to participate in the upcoming beta, please reach out to [support@request.finance](https://mail:support@request.finance).&#x20;
-{% endhint %}
+## Team
 
 ### What roles are available?
 
@@ -344,13 +340,13 @@ Please view the table below for more details:&#x20;
 | **Referral**                                                 |       |                 |            |          |
 | View the “Referral” menu                                     | Y     | N               | N          | N        |
 
-### What is the pricing for the Organization feature?
+### What is the pricing for the Team feature?
 
 Each additional team member is priced at $10 per team member per calendar month. The first calendar month a team member is added is free.&#x20;
 
 Example: if you add a team member during May 2023, we won't bill you for this team member for the remaining period of May. The first billing period will be June 2023 and you will receive a bill at the beginning of July 2023 in your Request Finance account in the "Bills" menu.&#x20;
 
-### How will I pay for the Organization feature?
+### How will I pay for the Team feature?
 
 When you add your first team member to your Request Finance account, we will ask you for your preferred payment method. You can choose from the following networks & currencies:&#x20;
 
