@@ -6,6 +6,6 @@ Request Finance is the trade name of REQUEST LABS, a French “société par act
 
 **Director of the publication:** Mr. LASSUYT Christophe, President.
 
-**Hosting:** The website https://www.request.finance/ is hosted by Webflow, Inc, whose headquarter is located at 398 11th St - San Francisco - USA; you can contact them at privacy@webflow.com.
+**Hosting:** The website [https://www.request.finance/](https://www.request.finance/) is hosted by Webflow, Inc; you can contact them at [privacy@webflow.com](mailto:privacy@webflow.com). Your data are stored in Europe, as you will see in our [Privacy policy](https://support.request.finance/legal/privacy)!
 
 You can contact us at support@request.finance
