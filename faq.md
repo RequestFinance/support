@@ -254,6 +254,12 @@ When you pay through our solution using a currency for the first time, you have 
 
 By default, you only approve the amount of tokens required to pay the current invoice (or slightly more - see the Payment sections). This means that for each invoice you will pay through our solution you will have to go through the approval step. If you want, you can make a one-time unlimited approval by checking the box within the approval dialog. This means that our contracts will be able to access your tokens whenever you perform a payment. This way you will be able to skip the approval step the next time you have an invoice to pay. Aside the gain of time, you will also save money since you will pay for the approval transaction fees only once.
 
+### Approving with Metamask
+
+When approving with Metamask, please make sure to choose the "Use Default" option in the Metamask prompt to make sure that the approval amount provided by Request Finance is used. Using any other option may prevent you from being able to pay.
+
+Metamask may display a warning message when doing this. Be assured that you will only pay the amount displayed in the Request Finance app, even when choosing unlimited approval.&#x20;
+
 ## Payments
 
 ### Why do we ask for slightly more than your payment total?
