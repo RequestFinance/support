@@ -1,450 +1,268 @@
 # Terms & Conditions
 
-These Terms govern:
+Who are we?
 
-* the use of Request and,
-* any other related Agreement or legal relationship with the Ownerin a legally binding way. Capitalized words are defined in the relevant dedicated section of this document.
+Request Finance (hereinafter "Request" or “Request Finance”) is the trade name of REQUEST LABS, a French “société par actions simplifiée” (simplified joint stock company) with a capital of 1000 euros, whose headquarters is located at 722 Route de Norcier - 74160 Saint-Julien-en-Genevois; registered in the Thonon-les-Bains RCS under No. 880 400 106, and represented by its President, Mr. LASSUYT Christophe.
 
-{% hint style="info" %}
-As a general guideline, Request favors cooperation over competition, compliance over non compliance, decentralization over centralization, and interoperability over a closed system. However, we set up terms and conditions to protect both our users’ and our contributors' efforts in case it would be needed.
-{% endhint %}
+The Request protocol is provided by Request Network Stiftung, Baarerstrasse 82, ℅ Abafin Treuhand AG - 6302 Zug, Switzerland.
 
-The User must read this document carefully.
+## What should you know at a glance? <a href="#docs-internal-guid-8d7328fd-7fff-2e0e-c011-b87490d58ef4" id="docs-internal-guid-8d7328fd-7fff-2e0e-c011-b87490d58ef4"></a>
 
-Nothing in these Terms creates any relationship of employment, agency, or partnership between the involved parties.
+* **Acceptance**. By using our Services, you agree that you have read, understood, and accept all of the Terms & Conditions, [the Cookie Policy](https://support.request.finance/legal/cookies), and [the Privacy Policy](https://support.request.finance/legal/privacy).
+* **“You” or “your”** means you as a professional and the company, organization, and/or entity electronically accessing our Services.
+* **Our DNA**. Request Finance is a professional web application for Companies, DAOs, and professionals to easily manage crypto invoices, salaries, and expenses in a fast and non-custodial way. You will find a non-exhaustive list of our Services [here](https://www.request.finance/).
+* **Privacy**. We respect your privacy, as explained in the [Cookie Policy](https://support.request.finance/legal/cookies) and [Privacy Policy](https://support.request.finance/legal/privacy).&#x20;
+* **Termination**. You may request to terminate your account anytime at support@request.finance.&#x20;
+* **IP**. All legal rights, including all intellectual property rights, are Request’s property.&#x20;
+* **Disclaimer**. Request does not monitor, authorize or check the correctness or completeness of transactions before you authorize them.
+* **Warranty**. Our Services are provided "as is" and “as available”.
+* **Liability**. To the maximum extent permitted by the applicable laws, Request will not be liable for any damage or loss arising from your use of our Services.
+* **Law & jurisdiction**. Use of our Services is governed by the laws of France and subject to the exclusive jurisdiction of the commercial court of Paris.
 
-Request is provided by:
+## What about these Terms & Conditions? <a href="#docs-internal-guid-a7e5b3b8-7fff-c6ee-a25a-959908d2af8c" id="docs-internal-guid-a7e5b3b8-7fff-c6ee-a25a-959908d2af8c"></a>
 
-Request Network Stiftung
+These Terms & Conditions (hereinafter "T\&Cs" or “Terms & Conditions”) govern the use of our “Services”. Services include (a) the access and use of Request websites (including its subdomains) and applications, (b) tools, reporting, and related technologies, (c) all software, features, files, source code, scripts, content, instruction sets, Application Program Interfaces (API) as well as any related documentation, (d) any future or other related service or contractual relationship with Request.&#x20;
 
-Baarerstrasse 82, ℅ Abafin Treuhand AG
+By using our Services, you agree that you have read, understood, and accepted all of the T\&Cs, the [Cookie Policy](https://support.request.finance/legal/cookies), and the [Privacy Policy](https://support.request.finance/legal/privacy) incorporated herein by reference and amended from time to time. You must not use the Services if you don’t agree with those terms. You are responsible for ensuring that all persons who access or use the Services through your device, company account, or internet connection are aware of those documents and that they comply with them.
 
-6302 Zug, Switzerland
+Request reserves the right to amend or otherwise modify these T\&Cs at any time. In such cases, Request will appropriately inform you of these changes. Such changes will only affect our relationship in the future. The continued use of the Services signifies your acceptance of the revised T\&Cs. You can obtain previous versions at first demand. If you do not accept the new T\&Cs, you must stop using our Services and terminate your account immediately.
 
-Owner contact email: privacy@request.finance
+## How to access our Services? <a href="#docs-internal-guid-20890c7f-7fff-e2d1-9448-32d01951cb10" id="docs-internal-guid-20890c7f-7fff-e2d1-9448-32d01951cb10"></a>
 
-"Request" refers to
+### Account registration and termination
 
-* this website, including its subdomains and any other website through which the Owner makes its Service available;
-* applications for mobile, tablet and other smart device systems;
-* the Application Program Interfaces (API);
-* the Service;
-* any applications, sample and content files, source code, scripts, instruction sets or software included as part of the Service, as well as any related documentation;
+To use all features of our Services, you may have to create a user account by providing all required data and information and keeping it updated. Failure to do so can cause the unavailability of some Services. If you forget your password, you must click on "Forgot your password?" and enter your e-mail address. You will then receive an email with instructions to set a new password.
 
-### What the User should know at a glance
+If you are a minor or a protected person, you declare and acknowledge that you have obtained the authorization of the holder(s) of your parental authority, your employer, or of your guardian, who agree to be guarantors of the respect of all the provisions of the present T\&Cs, and who is responsible for your use of our Services.
 
-* The right of withdrawal is important to us. It applies to Worldwide Consumers, not only European ones. The right of withdrawal, also commonly called the right of cancellation in the UK, is consistently referred to as “the right of withdrawal” within this document.
-* Please note that some provisions in these Terms may only apply to certain categories of Users. In particular, certain provisions may only apply to Consumers or to those Users that do not qualify as Consumers. Such limitations are always explicitly mentioned within each affected clause. In the absence of any such mention, clauses apply to all Users.
+You can terminate your account and stop using our Services anytime by directly contacting Request at the contact details provided in this document. All amounts due and/or paid for any monthly or annual subscription are acquired upon subscription and cannot be refunded. Concerning the:
 
-### TERMS OF USE
+* annual subscription, the contract will be renewed for the same duration and excluding any discount and commercial gesture granted the first year, in the absence of denunciation by you at least two (2) months prior to the anniversary date;
+* monthly subscription, the contract may be terminated at any time without prior notice.
 
-Unless otherwise specified, the terms of use detailed in this section apply generally when using Request.
+### Confidentiality and use of the account
 
-Single or additional conditions of use or access may apply in specific scenarios and in such cases are additionally indicated within this document.
+You are responsible for keeping your login credentials confidential and safe. For this reason, you must also choose a password that meets the highest standards of strength. We recommend making it long and using a mix of characters. In no event shall Request be liable for the loss or theft of your login Information or its fraudulent use. You are solely responsible for using your account by others and for actions or statements made through it, whether fraudulent or not. You hold Request harmless from any such claim caused by your fault or negligence.
 
-By using Request, Users confirm to meet the following requirements:
+You are required to immediately and unambiguously inform Request via the contact details indicated in this document if you think your personal information, including but not limited to account, access credentials, or personal data, has been violated, unduly disclosed, or stolen.
 
-* There are no restrictions for Users in terms of being Consumers or Business Users;
+### Minimum configuration of your computer <a href="#docs-internal-guid-35f0ca89-7fff-2d81-9294-2fe64e992fad" id="docs-internal-guid-35f0ca89-7fff-2d81-9294-2fe64e992fad"></a>
 
-#### Account registration
+Use of our Services requires that you have compatible computer equipment, an Internet connection, and a compatible web browser. All costs related to access to the Services and its use, whether hardware, software, or internet access costs, are exclusively at your expense. You are solely responsible for the proper functioning of your computer equipment and its access to the Internet. Our Services may become inaccessible or may not function properly with your web browser, mobile device, and/or operating system without entitling you to any claim or compensation.
 
-To use the Service Users can register or create a User account, providing all required data or information in a complete manner. Failure to do so can cause unavailability of the Service.
+### Availability of our Services
 
-Users are responsible for keeping their login credentials confidential and safe. For this reason, Users are also required to choose passwords that meet the highest standards of strength permitted by Request. We recommend making it long and using a mix of characters.
+Our Services are accessible 24 hours a day, 7 days a week, subject to (i) the occurrence of a case of force majeure, (ii) an event beyond the control of Request, or (iii) an interruption, suspension, or limitation in the context of maintenance and/or updating operations necessary for the proper functioning of our Services.
 
-By registering, Users agree to be fully responsible for all activities that occur under their username and password.
+Request is only bound by an obligation of means concerning the accessibility, operation, and/or availability of the Services. Request reserves the right to interrupt, suspend or limit access without prior notice to all or part of its Services, mainly due to legal, technical, or commercial constraints. It will not give rise to any obligation or compensation.
 
-Users are required to immediately and unambiguously inform the Owner via the contact details indicated in this document, if they think their personal information, including but not limited to User accounts, access credentials or personal data, have been violated, unduly disclosed or stolen.
+### Account suspension and deletion
 
-**Account termination**
+Request reserves the right, at its sole discretion, to suspend or delete any user account and/or domain name and wallet linked to it that it deems inappropriate, suspect, offensive, or in violation of these T\&Cs at any time and without prior notice. Such suspension or deletion shall not entitle you to any claims for compensation, damages, or reimbursement. The suspension or deletion of the account is without prejudice to any other damages that Request may seek in such a case.
 
-Users can terminate their account and stop using the Service at any time by doing the following:
+In addition to the above, Request expressly reserves the right to terminate an account in case of inactivity for 24 (twenty-four) consecutive months. This period is calculated from your last connection to your account. You will be informed by email of the upcoming deactivation of your account during the month preceding the deactivation.
 
-* By directly contacting the Owner at the contact details provided in this document.
+## What are our Services and commitments?
 
-**Account suspension and deletion**
+Unless otherwise specified or recognizable, all content available on our Services is owned or provided by Request or its licensors. Request undertakes its utmost effort to ensure that the content provided on Request infringes no applicable legal provisions or third-party rights. However, it may not always be possible to achieve such a result. In such cases, without prejudice to any legal prerogatives of any third party to enforce their rights, you are kindly asked to preferably **report related complaints using the contact details provided in this document**.
 
-The Owner reserves the right, at its sole discretion, to suspend or delete at any time and without notice, User accounts which it deems inappropriate, offensive or in violation of these Terms.
+### Our Services <a href="#docs-internal-guid-6bad60c1-7fff-5023-7108-a1fefe1d5834" id="docs-internal-guid-6bad60c1-7fff-5023-7108-a1fefe1d5834"></a>
 
-The suspension or deletion of User accounts shall not entitle Users to any claims for compensation, damages or reimbursement.
+You can find more about our Services [here](https://www.request.finance/). Our Services are provided "as is", “as available” and without any other guarantees than those mentioned in those T\&Cs. You are using the Services at your own risk. No advice or information, whether oral or written, obtained during your use of the Services is likely to create any warranty.
 
-The suspension or deletion of accounts due to causes attributable to the User does not exempt the User from paying any applicable fees or prices.
+### Our fees
 
-#### Content on Request
+The fees for our Services are indicated and updated [on this page](https://www.request.finance/pricing) (table included hereunder for your convenience) and/or before any transaction and/or in the quotation made for your particular needs. The fees, which are indicated before the transactions, are deducted directly from your wallet whenever you use our Services. Request reserves the right to modify its prices at any time while guaranteeing the application of the fees in force on the day you use the Services. Request reserves the right to offer promotional offers on its Services from time to time. Any promotional offer will be subject to these T\&Cs, which will prevail in case of disagreement or inconsistency between the terms of the promotional offer and those of the T\&Cs.
 
-Unless where otherwise specified or clearly recognizable, all content available on Request is owned or provided by the Owner or its licensors.
+<figure><img src=".gitbook/assets/Pricing Table June 2023.png" alt=""><figcaption></figcaption></figure>
 
-The Owner undertakes its utmost effort to ensure that the content provided on Request infringes no applicable legal provisions or third-party rights. However, it may not always be possible to achieve such a result.
+### Rights regarding our content - All rights reserved <a href="#docs-internal-guid-e1918169-7fff-8612-d04c-15c306a436a3" id="docs-internal-guid-e1918169-7fff-8612-d04c-15c306a436a3"></a>
 
-In such cases, without prejudice to any legal prerogatives of Users to enforce their rights, Users are kindly asked to preferably report related complaints using the contact details provided in this document.
+Without prejudice to any more specific provision of these T\&Cs, any intellectual property rights, such as copyrights, trademark rights, know-how, illustrations, logo, patent rights, and design rights related to Request, are the exclusive property of Request or its licensors and are subject to the protection granted by applicable laws or international treaties concerning intellectual property. You may not, therefore, use such content in any way that is not necessary or implicit in the proper use of the Services. In particular, but without limitation, you may not copy, download, share, modify, translate, transform, publish, transmit, reverse engineer, decompile, decipher, sell, sublicense, edit, transfer/assign to third parties, or create derivative works from the content available on our Services, nor allow any third party to do so through your account or your device, even without your knowledge. It is also strictly forbidden to represent, sell, reproduce, and/or exploit, in particular for commercial purposes, our websites and applications or one or more of its elements, in whole or in part, in any form and by any means whatsoever, including by "web scraping" techniques, without the prior written consent of Request. Any total or partial reproduction or representation of our Services and/or one or more of its elements, without the prior written permission of Request, constitutes an infringement of the intellectual property rights of Request and/or of the third party licensor and can result in civil and/or criminal proceedings. The information published on our Services is provided strictly and exclusively for information purposes. Request does its best to keep the website up to date and to disseminate reliable and lawful information. However, despite all the care and attention given to the selection of sources and the drafting of content and information, Request cannot guarantee the integrity, accuracy, completeness, timeliness, or other quality of the information published on our Services, except for information relating to prices and essential characteristics of our Services.
 
-**Rights regarding content on Request - All rights reserved**
+Where explicitly stated on our Services, you may download, copy or share some content for personal and non-commercial use, provided that the copyright attributions are correctly implemented. Any applicable statutory limitation or exception to copyright shall stay unaffected.
 
-The Owner holds and reserves all intellectual property rights for any such content.
+### Your content
 
-Users may not therefore use such content in any way that is not necessary or implicit in the proper use of the Service.
+Request may allow you to upload, share or provide your content on our Services. By providing content, you confirm that you are legally allowed to do so and that you are not infringing any statutory provisions and/or third-party rights. You acknowledge and accept that by providing your own content on our Services, you grant Request a non-exclusive, fully paid-up, and royalty-free license to process such content solely for the operation and maintenance of our Services, as contractually required. To the extent permitted by applicable law, you waive any moral rights concerning the content you provide in such a case.
 
-In particular, but without limitation, Users may not copy, download, share (beyond the limits set forth below), modify, translate, transform, publish, transmit, sell, sublicense, edit, transfer/assign to third parties or create derivative works from the content available on Request, nor allow any third party to do so through the User or their device, even without the User's knowledge.
+You are solely liable for any content you upload, post, share, or provide. You acknowledge and accept that Request does not filter or moderate such content. However, Request reserves the right to remove, delete, block, or rectify such content at its discretion and to, without prior notice, deny your access to our Services (i) if any complaint based on such content is received; (ii) if a notice of infringement of intellectual property rights is received; (iii) upon order of a public authority; or (iv) where Request is made aware that the content may represent a risk for other users, third parties and/or the availability of our Services.
 
-Where explicitly stated on Request, the User may download, copy and/or share some content available through Request for its sole personal and non-commercial use and provided that the copyright attributions and all the other attributions requested by the Owner are correctly implemented.
+The removal, deletion, blocking, or rectification of content shall not entitle anybody to compensation, damages, or reimbursement claims.
 
-Any applicable statutory limitation or exception to copyright shall stay unaffected.
+### External resources
 
-#### Content provided by Users
+Through our Services, you may have access to external resources or services provided by third parties (Metamask, Gnosis safe, etc.). You acknowledge and accept that Request has no control over such resources and services and is, therefore, not responsible for their content and availability. Conditions applicable to any resources provided by third parties, including those applicable to any possible grant of rights in content, result from each such third parties’ terms and conditions or, in the absence of those, applicable statutory law. Request has not conducted any security audit, bug bounty, or formal verification (whether internal or external) of the apps integrated or connected to our Services. Request has no control over, does not recommend, endorse, or otherwise take a position on the integrity, functioning of content, and your use of these apps, whose sole responsibility lies with the person from whom such services or content originated. When you access or use those apps, you accept that there are risks in doing so and that you alone assume any such risks when choosing to interact with those apps. Request isn’t liable for any errors or omissions or any damages or loss you might suffer through interacting with those external applications and resources.
 
-The Owner allows Users to upload, share or provide their own content to Request.
+### API usage terms
 
-By providing content to Request, Users confirm that they are legally allowed to do so and that they are not infringing any statutory provisions and/or third-party rights.
+Any use of our API service, including the API through a third-party product/service that accesses our Services, is bound by these T\&Cs. You expressly understand and agree that Request bears no responsibility and shall not be held liable for any damages or losses resulting from the incorrect use of our API or your use of any third-party products/services that access data through our API. You always remain responsible for the integration and use of our API.
 
-**Rights regarding content provided by Users**
+### E-commerce checkout
 
-Users acknowledge and accept that by providing their own content on Request they grant the Owner a non-exclusive, fully paid-up and royalty-free license to process such content solely for the operation and maintenance of Request as contractually required.
+By using the e-commerce checkout module, you accept:
 
-To the extent permitted by applicable law, Users waive any moral rights in connection with content they provide to Request.
+*   It is strictly prohibited to use it for any of the following: to conduct or engage in any
 
-Users acknowledge, accept and confirm that all content they provide through Request is provided subject to the same general conditions set forth for content on Request.
+    illegal, or unlawful activity; to hide or disguise the proceeds of any illegal or unlawful
 
-**Liability for provided content**
+    activity; to engage in any fraudulent or malicious activity;
+*   You, as a data controller, authorize us, as a data processor, to process personal data
 
-Users are solely liable for any content they upload, post, share, or provide through Request. Users acknowledge and accept that the Owner does not filter or moderate such content.
+    controlled by you and provided to us (information about your clients) on your behalf and pursuant to your instructions for the sole purpose of providing our Services. The data will be processed in accordance with the Data Processing Agreement between us. By accepting these T\&Cs, you accept the Data Processing Agreement as well, which can be found on our website;
+* Request reserves the right to suspend, postpone, and/or freeze the Services or to terminate our contract if your actions are violating public order or norms of good morals;
+* You are personally responsible for compliance of your services and products with the national & international laws and regulations applicable to your activities, especially regarding AML/CFT, KYC/B, competitive law, crypto & blockchain regulations, etc.;
+* Within the framework of the transaction carried out by your customer via our module, the possible legal relations are between you and your customers, and in no case between them and Request Finance (which will remain a third party, only in commercial relationship with you).
 
-However, the Owner reserves the right to remove, delete, block or rectify such content at its own discretion and to, without prior notice, deny the uploading User access to Request:
+### Maintenance and support&#x20;
 
-* if any complaint based on such content is received;
-* if a notice of infringement of intellectual property rights is received;
-* upon order of a public authority; or
-* where the Owner is made aware that the content, while being accessible via Request, may represent a risk for Users, third parties and/or the availability of the Service.
+**Corrective and update maintenance**
 
-The removal, deletion, blocking or rectification of content shall not entitle Users that have provided such content or that are liable for it, to any claims for compensation, damages or reimbursement.
+The purpose of corrective maintenance is to correct all Anomalies (being understood as a bug or a malfunction) that may be found in our Services. It is to be specified that this does not concern the Anomalies that could be due to the crypto wallets, exchange accounts, custody solutions, API, or any third-party product/service connected to our Services.
 
-Users agree to hold the Owner harmless from and against any claim asserted and/or damage suffered due to content they provided to or provided through Request.
+You shall notify Request of any Anomaly you find via the in-app chat or by email at support@request.finance; attempting to give a maximum of useful information so that Request may characterize the incident. Request shall then proceed to the diagnosis of the Anomaly, including verifying whether its origin is our Services or not. Request shall inform you of the results of this diagnosis promptly.
 
-#### Access to external resources
+Request ensures the evolutionary maintenance of the Services. The nature and the frequency of these updates shall be left at Request’s discretion. You expressly agree that the updates shall be performed automatically and without prior notice.
 
-Through Request Users may have access to external resources provided by third parties. Users acknowledge and accept that the Owner has no control over such resources and is therefore not responsible for their content and availability.
+There is no right to maintain previous versions of our Services or to any corrective maintenance.
 
-Conditions applicable to any resources provided by third parties, including those applicable to any possible grant of rights in content, result from each such third parties’ terms and conditions or, in the absence of those, applicable statutory law.
+**Technical support**
 
-#### Acceptable use
-
-Request and the Service may only be used within the scope of what they are provided for, under these Terms and applicable law.
-
-Users are solely responsible for making sure that their use of Request and/or the Service violates no applicable law, regulations or third-party rights.
-
-Therefore, the Owner reserves the right to take any appropriate measure to protect its legitimate interests including by denying Users access to Request or the Service, terminating contracts, reporting any misconduct performed through Request or the Service to the competent authorities – such as judicial or administrative authorities - whenever Users engage or are suspected to engage in any of the following activities:
-
-* violate laws, regulations and/or these Terms;
-* infringe any third-party rights;
-* considerably impair the Owner’s legitimate interests;
-* offend the Owner or any third party.
-
-#### API usage terms
-
-Users may access their data relating to Request via the Application Program Interface (API). Any use of the API, including use of the API through a third-party product/service that accesses Request, is bound by these Terms and, in addition, by the following specific terms:
-
-* the User expressly understands and agrees that the Owner bears no responsibility and shall not be held liable for any damages or losses resulting from the User’s use of the API or their use of any third-party products/services that access data through the API.
-
-### User rights
-
-#### Right of withdrawal
-
-Unless exceptions apply, the User may be eligible to withdraw from the contract within the period specified below (generally 14 days), for any reason and without justification. Users can learn more about the withdrawal conditions within this section.
-
-**Who the right of withdrawal applies to**
-
-Unless any applicable exception is mentioned below, Users who are Worldwide Consumers and not only European Consumers are granted a statutory cancellation right, to withdraw from contracts entered into online (distance contracts) within the specified period applicable to their case, for any reason and without justification.
-
-Users that do not fit this qualification, cannot benefit from the rights described in this section.
-
-**Exercising the right of withdrawal**
-
-To exercise their right of withdrawal, Users must send to the Owner an unequivocal statement of their intention to withdraw from the contract.
-
-To this end, Users may use the model withdrawal form available from within the “definitions” section of this document. Users are, however, free to express their intention to withdraw from the contract by making an unequivocal statement in any other suitable way. In order to meet the deadline within which they can exercise such right, Users must send the withdrawal notice before the withdrawal period expires.
-
-When does the withdrawal period expire?
-
-* Regarding the purchase of a service, the withdrawal period expires 14 days after the day that the contract is entered into, unless the User has waived the withdrawal right.
-
-**Effects of withdrawal**
-
-Users who correctly withdraw from a contract will be reimbursed by the Owner for all payments made to the Owner. Such reimbursement shall be made without undue delay and, in any event, no later than 14 days from the day on which the Owner is informed of the User’s decision to withdraw from the contract. Unless otherwise agreed with the User, reimbursements will be made using the same means of payment as used to process the initial transaction. In any event, the User shall not incur any costs or fees as a result of such reimbursement.
-
-**…on the purchase of services**
-
-Where a User exercises the right of withdrawal after having requested that the service be performed before the withdrawal period expires, the User shall pay to the Owner an amount which is in proportion to the part of service provided.
-
-Such payment shall be calculated based on the fee contractually agreed upon, and be proportional to the part of service provided until the time the User withdraws, compared with the full coverage of the contract.
+Besides Anomalies and any questions related to our Services, Request provides technical support consisting of assistance and advice. Such support can be provided through the in-app chat or at support@request.finance.
 
 ### Liability and indemnification
 
-Representations, Warranties, and Risks
+**No Warranty**
 
-* No Representation or Warranty.
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE SERVICES IS AT YOUR SOLE RISK. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL REQUEST, ITS SUBSIDIARIES, AFFILIATES, OFFICERS, DIRECTORS, AGENTS, CO-BRANDERS, PARTNERS, SUPPLIERS, AND EMPLOYEES BE LIABLE FOR:
 
-You expressly understand and agree that your use of the Service is at your sole risk.
+* ANY INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOSS OF PROFITS, LOSS OF TOKENS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES, ARISING OUT OF OR RELATING TO THE USE OF, OR INABILITY TO USE, THE SERVICES;
+* ANY DAMAGE, LOSS, OR INJURY RESULTING FROM HACKING, SCAM, FRAUD, TAMPERING, OR OTHER UNAUTHORIZED ACCESS OR USE OF THE SERVICES OR ACCOUNT OR THE INFORMATION CONTAINED THEREIN;
+* ANY ERRORS, MISTAKES, OR INACCURACIES OF CONTENT OR FOR ANY LOSS OR DAMAGE INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE THROUGH OUR SERVICES;
+* PROPERTY DAMAGE OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR USE OF, OR INABILITY TO USE, THE SERVICES;
+* ANY UNAUTHORIZED ACCESS TO OUR SECURE SERVERS AND/OR ANY AND ALL INFORMATION STORED THEREIN;
+* ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM OUR SERVICES;
+* ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE THAT MAY BE TRANSMITTED TO OR THROUGH OUR SERVICES;
+* THE DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT OF ANY USER OR THIRD PARTY USING OUR SERVICES.
 
-(A) ALL PERSONS, ENTITIES, AGENTS, AND USERS INVOLVED WITH THE SYSTEM AND SOFTWARE ("USERS") MAKE AND EXPRESSLY DISCLAIM ALL REPRESENTATIONS AND WARRANTIES, EXPRESS, IMPLIED OR STATUTORY; AND (B) WITH RESPECT TO THE SYSTEM AND SOFTWARE, USERS AND ALL RELATED ENTITIES AND AGENTS SPECIFICALLY DO NOT REPRESENT AND WARRANT AND EXPRESSLY DISCLAIM ANY REPRESENTATION OR WARRANTY, EXPRESS, IMPLIED OR STATUTORY, INCLUDING WITHOUT LIMITATION, ANY REPRESENTATIONS OR WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, USAGE, SECURITY, SUITABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE, OR AS TO THE WORKMANSHIP OR TECHNICAL CODING THEREOF, OR THE ABSENCE OF ANY DEFECTS THEREIN, WHETHER LATENT OR PATENT. THE USERS OR ANY RELATED ENTITIES OR AGENTS DO NOT REPRESENT OR WARRANT THAT THE SERVICE AND ANY RELATED INFORMATION ARE ACCURATE, COMPLETE, RELIABLE, CURRENT OR ERROR-FREE.\
+IN ANY CASE, IN NO EVENT SHALL REQUEST, AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, DIRECTORS, AGENTS, CO-BRANDERS, PARTNERS, SUPPLIERS, AND EMPLOYEES BE LIABLE FOR ANY CLAIMS, PROCEEDINGS, LIABILITIES, OBLIGATIONS, DAMAGES, LOSSES, OR COSTS IN AN AMOUNT EXCEEDING, TO THE FULLEST EXTENT PROVIDED BY LAW, (a) 100 EUROS; OR (b) THE AMOUNTS PAID BY CUSTOMER TO REQUEST, IF ANY, IN CONNECTION WITH THE SERVICES IN THE 12 MONTH PERIOD PRECEDING THIS APPLICABLE CLAIM.
 
+THIS LIMITATION OF LIABILITY SECTION SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW IN THE APPLICABLE JURISDICTION WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR ANY OTHER BASIS, EVEN IF THE COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES. THEREFORE THE ABOVE LIMITATIONS OR EXCLUSIONS MAY NOT APPLY IN THESE CASES.
 
-* Disclaimer of Fiduciary Duties
+NOTHING IN THESE T\&Cs SHALL LIMIT OR EXCLUDE OUR LIABILITY FOR DEATH OR PERSONAL INJURY CAUSED BY OUR NEGLIGENCE, FOR FRAUDULENT MISREPRESENTATION OR FOR ANY OTHER LIABILITY THAT, BY LAW, MAY NOT BE LIMITED OR EXCLUDED.
 
-TO THE FULLEST EXTENT PERMITTED BY LAW AND NOTWITHSTANDING ANY OTHER PROVISION OF THIS AGREEMENT OR ANY OTHER AGREEMENT CONTEMPLATED HEREIN OR APPLICABLE PROVISIONS OF LAW OR EQUITY OR OTHERWISE, THE PARTIES HERETO HEREBY AGREE TO ELIMINATE ANY AND ALL FIDUCIARY DUTIES THE USERS OR ANY RELATED ENTITIES AND AGENTS MAY HAVE TO THE USER, ITS AFFILIATES, OR THE END USERS OF THE SERVICE, THE SITE OR ITS CONTENT, PROVIDED THAT SUCH EXCLUSION OR LIMITATION OF LIABILITY SHALL NOT EXTEND TO MISAPPROPRIATION OF ASSETS OR FUNDS OF THE USERS, ITS AFFILIATES, OR THE END USERS OF THE SERVICES, SITE OR CONTENT PROVIDED BY THE USERS OR ANY RELATED ENTITIES AND AGENTS OR OTHER ACTS OR OMISSIONS THAT CONSTITUTE A BAD FAITH VIOLATION OF THE IMPLIED CONTRACTUAL COVENANT OF GOOD FAITH AND FAIR DEALING.\
+REQUEST, ITS SUBSIDIARIES, AFFILIATES, LICENSORS, OFFICERS, DIRECTORS, AGENTS, CO-BRANDERS, PARTNERS, SUPPLIERS, AND EMPLOYEES DO NOT WARRANT:
 
+* THAT THE SERVICES WILL MEET YOUR REQUIREMENTS;
+*   THAT THE SERVICES WILL BE AVAILABLE AT ANY PARTICULAR TIME OR
 
-* Sophistication and Risk of Cryptographic Systems
+    LOCATION, UNINTERRUPTED OR SECURE;
+*   THAT ANY DEFECTS OR ERRORS WILL BE CORRECTED, OR THAT THE
 
-By utilizing the Service or interacting with the Content in any way, you represent that you understand the inherent risks associated with cryptographic systems; and warrant that you have an understanding of the usage and intricacies of native cryptographic tokens, like Ether (ETH) and Bitcoin (BTC), smart contract based tokens such as those that follow the Ethereum Token Standard (https://github.com/ethereum/EIPs/issues/20), and blockchain-based software systems.
+    SERVICES ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. ANY CONTENT DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICES ARE DOWNLOADED AT YOUR OWN RISK, AND YOU SHALL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR OR THIRD-PARTY COMPUTER SYSTEM OR MOBILE DEVICE OR LOSS OF DATA THAT RESULTS FROM SUCH DOWNLOAD OR USE OF THE SERVICES.
 
-None of the users own or control any of the underlying software through which blockchain networks are formed. In general, the underlying software for blockchain networks tends to be open source such that anyone can use, copy, modify, and distribute it. By using the Service, you acknowledge and agree (i) that users or related entities are not responsible for operation of the underlying software and networks that there exists no guarantee of functionality, security, or availability of such software and networks; and (ii) that the underlying protocols are subject to sudden changes in operating rules (known as "Forks"), and that such Forks may materially affect the System and Software. It might be discretionarily decided not to support (or cease supporting) the Forked network entirely. You acknowledge and agree that users assume absolutely no responsibility whatsoever in respect of any underlying software protocols, whether Forked or not.\
+IN ADDITION, FOLLOWING ARTICLE 1218 OF THE FRENCH CIVIL CODE, THE RESPONSIBILITY OF REQUEST SHALL NOT BE ENGAGED, IN A GENERAL WAY, IN ALL THE CASES WHERE THE NON-PERFORMANCE OR THE BAD EXECUTION OF ITS SERVICES AND/OR OBLIGATIONS WOULD RESULT FROM A CASE OF FORCE MAJEURE OR FORTUITOUS EVENT INDEPENDENT OF ITS WILL.
 
+THIS T\&Cs DOES NOT CREATE OR IMPOSE ANY FIDUCIARY DUTIES ON REQUEST. TO THE FULLEST EXTENT PERMITTED BY LAW, YOU ACKNOWLEDGE AND AGREE THAT REQUEST OWES NO FIDUCIARY DUTIES OR LIABILITIES TO YOU OR ANY OTHER PARTY.
 
-* Risk of Regulatory Actions in One or More Jurisdictions
+**Risk of cryptocurrencies**&#x20;
 
-The System and Software, Request and ETH could be impacted by one or more regulatory inquiries or regulatory action, which could impede or limit the ability of users to continue to develop, or which could impede or limit your ability to access or use the Service or Ethereum blockchain, including access to your funds.\
+By utilizing our Services, you represent that you understand the inherent risks associated with cryptographic systems; and warrants that you have an understanding of the usage and intricacies of native cryptographic tokens, like Ether (ETH) and USDC, DAI, etc., smart contract-based tokens such as those that follow the Ethereum Token Standard, protocols and blockchain-based software systems. By using our Services, you acknowledge and agree (i) that Request or related entities are not responsible for the operation of the underlying cryptographic systems, software, and networks; (ii) that there exists no guarantee of the functionality, security, or availability of such cryptographic systems, software and networks; and (iii) that the underlying protocols are subject to sudden changes in operating rules (known as "Forks"), and that such Forks may materially affect the Services. Any use or interaction with cryptographic systems requires a comprehensive understanding of applied cryptography and computer science to appreciate inherent risks. You acknowledge that Request might discretionarily decide not to support (or cease supporting) forked networks or any network without prior notice. You also acknowledge and agree that Request assumes no responsibility whatsoever regarding any underlying software protocols, whether forked or not. Our Services rely partly on third-party and open-source software, including the Ethereum Blockchain, and the continued development and support. There is no guarantee that those third parties will maintain their support of their software or that open-source software will continue to be maintained. This may have a material adverse effect on our Services.
 
+You also acknowledge and understand that cryptography is a progressing field. Advances in code cracking or technical advances, such as the development of quantum computers, may present risks to cryptographic systems, software, and networks. It could result in the theft or loss of any user’s cryptographic tokens or property.
 
-* Risk of Weaknesses or Exploits in the Field of Cryptography
+You also understand that blockchain technologies and associated currencies or tokens are highly volatile due to many factors, including but not limited to adoption, speculation, technology, and security risks. You accept that the cost of transacting on such technologies is variable and may increase at any time, causing an impact on any activities taking place on any blockchain. You are responsible for identifying and satisfying all such additional fees and charges.
 
-You acknowledge and understand that Cryptography is a progressing field. Advances in code cracking or technical advances such as the development of quantum computers may present risks to cryptocurrencies and Service or Content, which could result in the theft or loss of your cryptographic tokens or property. To the extent possible, it is intended to update the protocol underlying the Service to account for any advances in cryptography and to incorporate additional security measures, but does not guarantee or otherwise represent full security of the system. By using the Service or accessing Content, you acknowledge these inherent risks.\
+You acknowledge these risks and represent that Request or any related entity or person cannot be held liable for such fluctuations or increased costs.
 
+Request makes no guarantee as to the security of any blockchain or protocol. Request is not liable for hacks, double spending, stolen digital assets, or blockchain attacks.
 
-* Volatility of Cryptocurrency
+The cryptographic systems, software, and networks, écosystem including our Services, could be impacted by one or more local regulatory inquiries or regulatory actions, which could impede or limit the ability of Request to continue to maintain its activities, or which could impede or limit your ability to access or use our Services.
 
-You understand that Ethereum and other blockchain technologies and associated currencies or tokens are highly volatile due to many factors including but not limited to adoption, speculation, technology and security risks. You also acknowledge that the cost of transacting on such technologies is variable and may increase at any time causing impact to any activities taking place on the Ethereum blockchain. You acknowledge these risks and represent that users or any related entity or person cannot be held liable for such fluctuations or increased costs.\
+Before interacting with any protocol, you must always conduct your own due diligence and ensure you comply with all applicable legal and regulatory requirements, including with respect to virtual assets, taxes, securities, and other regulations in your jurisdiction.
 
+**Security & compliance**
 
-* Application Security
+Request enables you to operate transactions directly on a supporting blockchain and to organize and track them. All transactions are conducted directly by you, and you are responsible for all information provided through our Services to effect such transactions. You are solely responsible for evaluating any code or protocol provided by Request. This warning and others later provided by Request in no way evidence or represent an ongoing duty to alert you of all potential risks of utilizing our Services.
 
-You acknowledge that the System and Software is subject to flaws and acknowledge that you are solely responsible for evaluating any code provided by the Services or Content. This warning and others later provided by users in no way evidence or represent an on-going duty to alert you to all of the potential risks of utilizing the Service or Content.\
+The transaction details you submit via our Services may not be completed or substantially delayed due to activity or lack thereof on the blockchain used to process the transaction. Once transaction details have been submitted through your wallet, Request cannot assist you in canceling or modifying your transaction details. Request is not an international payroll or accounting provider and does not provide compliance solutions for payroll and accounting processing. You are solely responsible for compliance with all local laws and regulations. Request makes no warranties that using its Services to facilitate transactions, involving digital assets, enables you to meet any such obligations.
 
+## What about you?&#x20;
 
-* Website Accuracy
+By using our Services, you:
 
-Although it is intended to provide accurate and timely information on the Site and other tools making up the System and Software, the Site (including, without limitation, the Content) or relevant tools may not always be entirely accurate, complete or current and may also include technical inaccuracies or typographical errors. In an effort to continue to provide you with as complete and accurate information as possible, information may be changed or updated from time to time without notice, including without limitation information regarding our policies. Accordingly, you should verify all information before relying on it, and all decisions based on information contained on the Site or relevant tools are your sole responsibility and USERS shall have no liability for such decisions. Links to third-party materials (including without limitation websites) may be provided as a convenience but are not controlled by any entity. You acknowledge and agree that we are not responsible for any aspect of the information, content, or services contained in any third-party materials or on any third party sites accessible or linked to the Site or available via other relevant tools.\
+*   agree to use it in good faith and not to make any use of the Services that would be
 
+    contrary to or violate any laws, regulations, or any third-party rights;
+*   won’t use our Services in any way that could infringe on Request's rights or that could
 
-* Technical Knowledge
+    cause damage to Request and its partners;
+*   won’t use our Services in such a way as to undermine the integrity of Request's
 
-Any use or interaction with the System and Software requires a comprehensive understanding of applied cryptography and computer science in order to appreciate inherent risks, including those listed above. You represent and warrant that you possess relevant knowledge and skills.\
+    technical infrastructure, particularly its computer servers;
+*   won’t use our Services to scam, bribe, or participate in any fraud aimed at a third party or
 
+    another user of our Services;
+*   are solely responsible for the information you upload or provide Request and undertake
 
-#### EU Users
+    to update it when necessary;
+*   must be a legally incorporated and existing company or a natural person of legal age in
 
-**Indemnification**
+    its jurisdiction. You also agree to provide on-demand, legitimate and lawful
 
-The User agrees to indemnify and hold the Owner and its subsidiaries, affiliates, officers, directors, agents, co-branders, partners and employees harmless from and against any claim or demand ⁠— including but not limited to lawyer's fees and costs ⁠— made by any third party due to or in relation with any culpable use of or connection to the Service, violation of these Terms, infringement of any third-party rights or statutory provision by the User or its affiliates, officers, directors, agents, co-branders, partners and employees to the extent allowed by applicable law.
+    documentation proving such status if requested or required by Request;
+*   must have the full right, power, and authority to enter into and comply with these T\&Cs
 
-**Limitation of liability**
+    on behalf of yourself and/or of any company or legal entity;
+*   must not be, and will not be, located in any jurisdiction that is subject to an embargo by
 
-Unless otherwise explicitly stated and without prejudice to applicable statutory product liability provisions, Users shall have no right to claim damages against the Owner (or any natural or legal person acting on its behalf).
+    the United Kingdom, the European Union, or the United States;
+*   must not be on any list of prohibited or restricted parties by those foregoing. For
 
-This does not apply to damages to life, health or physical integrity, damages resulting from the breach of an essential contractual obligation such as any obligation strictly necessary to achieve the purpose of the contract, and/or damages resulting from intent or gross negligence, as long as Request has been appropriately and correctly used by the User.
+    example, on the HMT Sanctions List, the U.S. Treasury Department’s Office of Foreign Asset Control’s sanctions lists, the U.S. commerce department's consolidated screening list, the EU consolidated list of persons, groups, or entities subject to EU Financial Sanctions. Nor do you act on behalf of a person sanctioned thereunder;
+* must understand the functionality, usage, storage, transmission mechanisms, and intricacies associated with tokens, blockchain technology, and related software systems;
+* acknowledge and agree that it is your responsibility to ensure that the correct address is entered when you transfer a digital asset from your wallet to any external address (and only the supported digital assets are selected for such transfers). The transfer of any digital asset to an incorrect address or the transfer of any kind of digital asset that is not supported will result in the irreversible loss of such digital assets. Request shall bear no liability for any such loss;
+* remain responsible for not making double payments;
+*   must understand that transactions on the blockchain are irreversible and may not be
 
-Unless damages have been caused by way of intent or gross negligence, or they affect life, health or physical integrity, the Owner shall only be liable to the extent of typical and foreseeable damages at the moment the contract was entered into.
+    erased and that your wallet address and transactions are displayed permanently and publicly, and that you relinquish any right of rectification or erasure of personal data;
+* will comply with any applicable tax and compliance obligations arising from your use of our Services (such as payment of taxes, display of legal notices, etc.);
+* will not misuse or gain unauthorized access to our Services by knowingly introducing viruses, cross-site scripting, Trojan horses, worms, time-bombs, keystroke loggers, spyware, adware, or other harmful programs or similar computer code designed to affect our Services adversely. If you do so or otherwise attack our Services, Request reserves the right to report any such activity to the relevant law enforcement authorities, and we will cooperate with those authorities as required;
+* won’t use our Services to transmit tokens that are proceeds of criminal or fraudulent activities or to launder any funds;
+* agree to defend, indemnify and hold Request and its subsidiaries, affiliates, officers, directors, agents, co-branders, partners, suppliers, and employees harmless from and against any and all claims or demands, damages, obligations, losses, liabilities, costs or debt, and expenses, including, but not limited to, legal fees and expenses, arising from your violation of these T\&Cs, your violation of any third-party rights, your violation of any statutory law, rule, or regulation or any willful misconduct.
 
-#### Australian Users
+## Good to know
 
-**Limitation of liability**
+### No Waiver
 
-Nothing in these Terms excludes, restricts or modifies any guarantee, condition, warranty, right or remedy which the User may have under the Competition and Consumer Act 2010 (Cth) or any similar State and Territory legislation and which cannot be excluded, restricted or modified (non-excludable right). To the fullest extent permitted by law, our liability to the User, including liability for a breach of a non-excludable right and liability which is not otherwise excluded under these Terms of Use, is limited, at the Owner’s sole discretion, to the re-performance of the services or the payment of the cost of having the services supplied again.
+Request’s failure to assert any right or provision under these T\&Cs shall not constitute a waiver of these last. No waiver shall be considered a further or continuing waiver of such term.
 
-#### US Users
+### Privacy policy
 
-**Disclaimer of Warranties**
+To learn more about our use of personal data, you can refer to our [Privacy Policy](https://support.request.finance/legal/privacy).&#x20;
 
-Request is provided strictly on an “as is” and “as available” basis. Use of the Service is at Users’ own risk. To the maximum extent permitted by applicable law, the Owner expressly disclaims all conditions, representations, and warranties — whether express, implied, statutory or otherwise, including, but not limited to, any implied warranty of merchantability, fitness for a particular purpose, or non-infringement of third-party rights. No advice or information, whether oral or written, obtained by the user from the owner or through the Service will create any warranty not expressly stated herein.
+### Assignment of contract & Independence of the parties
 
-Without limiting the foregoing, the Owner, its subsidiaries, affiliates, licensors, officers, directors, agents, co-branders, partners, suppliers and employees do not warrant that the content is accurate, reliable or correct; that the Service will meet Users’ requirements; that the Service will be available at any particular time or location, uninterrupted or secure; that any defects or errors will be corrected; or that the Service is free of viruses or other harmful components. Any content downloaded or otherwise obtained through the use of the Service is downloaded at users own risk and users shall be solely responsible for any damage to Users’ computer system or mobile device or loss of data that results from such download or Users’ use of the Service.
+Request reserves the right to transfer, assign, dispose of by novation, or subcontract any or all rights or obligations under these T\&Cs. You may not assign or transfer your rights or obligations under these T\&Cs in any way without the written permission of Request.
 
-The Owner does not warrant, endorse, guarantee, or assume responsibility for any product or service advertised or offered by a third party through the Service or any hyperlinked website or service, and the Owner shall not be a party to or in any way monitor any transaction between Users and third-party providers of products or services.
+Nothing in these T\&Cs creates any employment, agency, or partnership relationship between the involved parties.
 
-The Service may become inaccessible or it may not function properly with Users’ web browser, mobile device, and/or operating system. The owner cannot be held liable for any perceived or actual damages arising from Service content, operation, or use of this Service.
+### Contacts & Notice
 
-Federal law, some states, and other jurisdictions, do not allow the exclusion and limitations of certain implied warranties. The above exclusions may not apply to Users. This Agreement gives Users specific legal rights, and Users may also have other rights which vary from state to state. The disclaimers and exclusions under this agreement shall not apply to the extent prohibited by applicable law.
+Communications relating to the use of our Services must be sent to support@request.finance. You must also give notice to Request at support@request.finance. Such notice shall be deemed given within 24 hours of confirmed transmission.
 
-**Limitations of liability**
+### Severability, Language & Entire Agreement
 
-To the maximum extent permitted by applicable law, in no event shall the Owner, and its subsidiaries, affiliates, officers, directors, agents, co-branders, partners, suppliers and employees be liable for
+These T\&Cs, with the Cookie policy and Privacy policy, are the entire contract between you and Request regarding our Services and apply to the maximum extent permitted by relevant law. If a court holds that Request cannot enforce a part of these T\&Cs as written, you and Request will replace those terms with similar terms to the extent enforceable under the relevant law. The rest of these T\&Cs will remain in effect. These T\&Cs supersede any prior contract or oral or written statements regarding your use of our Services. These T\&Cs are concluded in English, and all communications shall be in English, including any notices or information being transmitted. Suppose these T\&Cs or any part of them are translated (for any proceedings, for your convenience or otherwise) into any other language. In that case, the English text of these T\&Cs shall prevail (except where expressly prohibited by law).
 
-* any indirect, punitive, incidental, special, consequential or exemplary damages, including without limitation damages for loss of profits, goodwill, use, data or other intangible losses, arising out of or relating to the use of, or inability to use, the Service; and
-* any damage, loss or injury resulting from hacking, tampering or other unauthorized access or use of the Service or User account or the information contained therein;
-* any errors, mistakes, or inaccuracies of content;
-* personal injury or property damage, of any nature whatsoever, resulting from User access to or use of the Service;
-* any unauthorized access to or use of the Owner’s secure servers and/or any and all personal information stored therein;
-* any interruption or cessation of transmission to or from the Service;
-* any bugs, viruses, trojan horses, or the like that may be transmitted to or through the Service;
-* any errors or omissions in any content or for any loss or damage incurred as a result of the use of any content posted, emailed, transmitted, or otherwise made available through the Service; and/or
-* the defamatory, offensive, or illegal conduct of any User or third party. In no event shall the Owner, and its subsidiaries, affiliates, officers, directors, agents, co-branders, partners, suppliers and employees be liable for any claims, proceedings, liabilities, obligations, damages, losses or costs in an amount exceeding the amount paid by User to the Owner hereunder in the preceding 12 months, or the period of duration of this agreement between the Owner and User, whichever is shorter.
+### Governing law, Jurisdiction & Amicable dispute resolution
 
-This limitation of liability section shall apply to the fullest extent permitted by law in the applicable jurisdiction whether the alleged liability is based on contract, tort, negligence, strict liability, or any other basis, even if the company has been advised of the possibility of such damage.
+THESE T\&CS ARE GOVERNED BY FRENCH LAW. THE EXCLUSIVE COMPETENCE TO DECIDE ON ANY CONTROVERSY RESULTING FROM OR CONNECTED TO THESE T\&CS LIES WITH THE COMMERCIAL COURT OF PARIS.
 
-Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, therefore the above limitations or exclusions may not apply to Users. The terms give User specific legal rights, and User may also have other rights which vary from jurisdiction to jurisdiction. The disclaimers, exclusions, and limitations of liability under the terms shall not apply to the extent prohibited by applicable law.
+WHILE YOUR RIGHT TO TAKE LEGAL ACTION SHALL ALWAYS REMAIN UNAFFECTED, IN THE EVENT OF ANY CONTROVERSY REGARDING THE USE OF OUR SERVICES, YOU MUST ALWAYS CONTACT REQUEST AT THE CONTACT DETAILS PROVIDED IN THIS DOCUMENT. REQUEST WILL PROCESS THE COMPLAINT WITHOUT UNDUE DELAY AND WITHIN 30 DAYS OF RECEIVING IT.
 
-**Indemnification**
+## **Previous Terms & Conditions**
 
-The User agrees to defend, indemnify and hold the Owner and its subsidiaries, affiliates, officers, directors, agents, co-branders, partners, suppliers and employees harmless from and against any and all claims or demands, damages, obligations, losses, liabilities, costs or debt, and expenses, including, but not limited to, legal fees and expenses, arising from
+You can find our previous Terms & Conditions here:&#x20;
 
-* User’s use of and access to the Service, including any data or content transmitted or received by User;
-* User’s violation of these terms, including, but not limited to, User’s breach of any of the representations and warranties set forth in these terms;
-* User’s violation of any third-party rights, including, but not limited to, any right of privacy or intellectual property rights;
-* User’s violation of any statutory law, rule, or regulation;
-* any content that is submitted from User’s account, including third party access with User’s unique username, password or other security measure, if applicable, including, but not limited to, misleading, false, or inaccurate information;
-* User’s willful misconduct; or
-* statutory provision by User or its affiliates, officers, directors, agents, co-branders, partners, suppliers and employees to the extent allowed by applicable law.
-
-### Common provisions
-
-#### No Waiver
-
-The Owner’s failure to assert any right or provision under these Terms shall not constitute a waiver of any such right or provision. No waiver shall be considered a further or continuing waiver of such term or any other term.
-
-#### Service interruption
-
-To ensure the best possible service level, the Owner reserves the right to interrupt the Service for maintenance, system updates or any other changes, informing the Users appropriately.
-
-Within the limits of law, the Owner may also decide to suspend or terminate the Service altogether. If the Service is terminated, the Owner will cooperate with Users to enable them to withdraw Personal Data or information in accordance with applicable law.
-
-Additionally, the Service might not be available due to reasons outside the Owner’s reasonable control, such as “force majeure” (eg. labor actions, infrastructural breakdowns or blackouts etc).
-
-#### Service reselling
-
-Users may not reproduce, duplicate, copy, sell, resell or exploit any portion of Request and of its Service without the Owner’s express prior written permission, granted either directly or through a legitimate reselling program.
-
-#### Privacy policy
-
-To learn more about the use of their Personal Data, Users may refer to the privacy policy of Request.
-
-#### Intellectual property rights
-
-Without prejudice to any more specific provision of these Terms, any intellectual property rights, such as copyrights, trademark rights, patent rights and design rights related to Request are the exclusive property of the Owner or its licensors and are subject to the protection granted by applicable laws or international treaties relating to intellectual property.
-
-All trademarks — nominal or figurative — and all other marks, trade names, service marks, word marks, illustrations, images, or logos appearing in connection with Request are, and remain, the exclusive property of the Owner or its licensors and are subject to the protection granted by applicable laws or international treaties related to intellectual property.
-
-#### Changes to these Terms
-
-The Owner reserves the right to amend or otherwise modify these Terms at any time. In such cases, the Owner will appropriately inform the User of these changes.
-
-Such changes will only affect the relationship with the User for the future.
-
-The continued use of the Service will signify the User’s acceptance of the revised Terms. If Users do not wish to be bound by the changes, they must stop using the Service. Failure to accept the revised Terms, may entitle either party to terminate the Agreement.
-
-The applicable previous version will govern the relationship prior to the User's acceptance. The User can obtain any previous version from the Owner.
-
-If required by applicable law, the Owner will specify the date by which the modified Terms will enter into force.
-
-#### Assignment of contract
-
-The Owner reserves the right to transfer, assign, dispose of by novation, or subcontract any or all rights or obligations under these Terms, taking the User’s legitimate interests into account. Provisions regarding changes of these Terms will apply accordingly.
-
-Users may not assign or transfer their rights or obligations under these Terms in any way, without the written permission of the Owner.
-
-#### Contacts
-
-All communications relating to the use of Request must be sent using the contact information stated in this document.
-
-#### Severability
-
-Should any provision of these Terms be deemed or become invalid or unenforceable under applicable law, the invalidity or unenforceability of such provision shall not affect the validity of the remaining provisions, which shall remain in full force and effect.
-
-**EU Users**
-
-Should any provision of these Terms be or be deemed void, invalid or unenforceable, the parties shall do their best to find, in an amicable way, an agreement on valid and enforceable provisions thereby substituting the void, invalid or unenforceable parts.
-
-In case of failure to do so, the void, invalid or unenforceable provisions shall be replaced by the applicable statutory provisions, if so permitted or stated under the applicable law.
-
-Without prejudice to the above, the nullity, invalidity or the impossibility to enforce a particular provision of these Terms shall not nullify the entire Agreement, unless the severed provisions are essential to the Agreement, or of such importance that the parties would not have entered into the contract if they had known that the provision would not be valid, or in cases where the remaining provisions would translate into an unacceptable hardship on any of the parties.
-
-**US Users**
-
-Any such invalid or unenforceable provision will be interpreted, construed and reformed to the extent reasonably required to render it valid, enforceable and consistent with its original intent. These Terms constitute the entire Agreement between Users and the Owner with respect to the subject matter hereof, and supersede all other communications, including but not limited to all prior agreements, between the parties with respect to such subject matter. These Terms will be enforced to the fullest extent permitted by law.
-
-#### Governing law
-
-These Terms are governed by the law of the place where the Owner is based, as disclosed in the relevant section of this document, without regard to conflict of laws principles.
-
-#### Venue of jurisdiction
-
-The exclusive competence to decide on any controversy resulting from or connected to these Terms lies with the courts of the place where the Owner is based, as displayed in the relevant section of this document.
-
-### Dispute resolution
-
-#### Amicable dispute resolution
-
-Users may bring any disputes to the Owner who will try to resolve them amicably.
-
-While Users' right to take legal action shall always remain unaffected, in the event of any controversy regarding the use of Request or the Service, Users are kindly asked to contact the Owner at the contact details provided in this document.
-
-The User may submit the complaint including a brief description and if applicable, the details of the related order, purchase, or account, to the Owner’s email address specified in this document.
-
-The Owner will process the complaint without undue delay and within 21 days of receiving it.
-
-#### Online dispute resolution for Consumers
-
-The European Commission has established an online platform for alternative dispute resolutions that facilitates an out-of-court method for solving any dispute related to and stemming from online sale and service contracts.
-
-As a result, any European Consumer can use such a platform for resolving any dispute stemming from contracts which have been entered into online. The platform is [available at the following link](http://ec.europa.eu/consumers/odr/): [http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/)&#x20;
-
-#### Definitions and legal references
-
-**Request (or this Application)**
-
-The property that enables the provision of the Service.
-
-**Agreement**
-
-Any legally binding or contractual relationship between the Owner and the User, governed by these Terms.
-
-**Business User**
-
-Any User that does not qualify as a Consumer.
-
-**European (or Europe)**
-
-Applies where a User is physically present or has their registered offices within the EU, regardless of nationality.
-
-**Example withdrawal form**
-
-Addressed to:
-
-Request Network Stiftung, 82 Baarerstrasse ℅ Abafin Treuhand AG, 6302 Zug, Switzerland
-
-privacy@request.finance
-
-I/We hereby give notice that I/we withdraw from my/our contract of sale of the following goods/for the provision of the following service:
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (insert a description of the goods/services that are subject to the respective withdrawal)
-
-* Ordered on: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (insert the date)
-* Received on: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (insert the date)
-* Name of consumer(s):\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-* Address of consumer(s):\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-* Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-(sign if this form is notified on paper)
-
-**Owner (or We)**
-
-Indicates the natural person(s) or legal entity that provides Request and/or the Service to Users.
-
-**Product**
-
-A good or service available for purchase through Request, such as e.g. physical goods, digital files, software, booking services etc.
-
-The sale of Products may be part of the Service.
-
-**Service**
-
-The service provided by Request as described in these Terms and on Request.
-
-**Terms**
-
-All provisions applicable to the use of Request and/or the Service as described in this document, including any other related documents or agreements, and as updated from time to time.
-
-**User (or You)**
-
-Indicates any natural person or legal entity using Request.
-
-**Consumer**
-
-Any User qualifying as a natural person who accesses goods or services for personal use, or more generally, acts for purposes outside their trade, business, craft or profession.
+* [Valid till 21st June 2023](https://uploads-ssl.webflow.com/606beb3b434b8b21edd72827/6486e4e7d4b5647da1f309da\_Terms%20%26%20Conditions%2002\_2023%20.pdf)

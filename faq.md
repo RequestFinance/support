@@ -191,13 +191,11 @@ Request Finance is built for all individuals and businesses who are looking to p
 
 ### How much does it cost to use Request Finance?
 
-Issuing invoices will always be free.\
-\
-At the time of payment, the payer will pay the Ethereum gas fees (used to send the funds) and the Request Finance service fee.
+Request Finance has a free subscription as well as paid plans.&#x20;
 
-The Ethereum gas fee is variable depending on how busy the network is at the time of payment. It is not collected by Request.
+If you just want to use Request Finance to issue invoices to your clients, you can use it for free.&#x20;
 
-The Request Finance service fee can be found at: [https://request.finance/pricing](https://request.finance/pricing)
+If you want to use Request Finance to track and pay your payables, we have subscription plans tailored to your company size. You can view them on our pricing page here: [https://request.finance/pricing](https://request.finance/pricing)
 
 ### How to get a bank statement?
 
@@ -243,6 +241,42 @@ As a Business, you get a Reputation Score based on your behavior.
 If you pay your invoices on time, you will always get 5 stars.
 
 Please don't be late :)
+
+## Subscription
+
+### Do you have a free trial?
+
+Yes. You can use all paid plans entirely for free for 14 days - without commitments. You can switch to the Free plan at any time during your free trial to avoid paying fees.&#x20;
+
+Note that we will bill for any excess payment volume that you incur during your free trial.
+
+### When do I receive a Request Finance bill?
+
+Bills are send based on your subscription period. If you are on a monthly subscription, the bill is usually send on the 1st of the month for the current month.&#x20;
+
+If you are on the yearly subscription, the bill is sent to you every year, starting from the date you signed up.
+
+### How do I pay a Request Finance bill?
+
+Paying a Request Finance is as easy as paying any bill on the platform. Simply navigate to the [“Bills” menu](https://app.request.finance/pay/bills), click on the bill, and pay it from there. At the moment, we only accept payments in cryptocurrency. So you need to use your wallet to pay.
+
+### What currencies do you accept?
+
+At the moment, we only accept payments in cryptocurrency. When you sign up for a paid plan, you can choose in which currency and on which network you want to pay. The available networks and currencies are:&#x20;
+
+* Ethereum: USDC, USDT, DAI
+* Polygon: USDC, USDT, DAI
+* BSC: USDT, USDC
+
+You can change your preferred billing method in the settings [here](https://app.request.finance/company/subscription).&#x20;
+
+### How can I change to another plan?
+
+To update your plan, go to the subscription settings [here](https://app.request.finance/company/subscription).
+
+### How do I cancel my paid plan?
+
+To cancel, simply downgrade to the “Free” plan. You can do this via the subscription settings [here](https://app.request.finance/company/subscription).&#x20;
 
 ## Approval
 
@@ -345,21 +379,3 @@ Please view the table below for more details:&#x20;
 | View the “API” tab                                           | Y     | N               | N          | N        |
 | **Referral**                                                 |       |                 |            |          |
 | View the “Referral” menu                                     | Y     | N               | N          | N        |
-
-### What is the pricing for the Team feature?
-
-Each additional team member is priced at $10 per team member per calendar month. The first calendar month a team member is added is free.&#x20;
-
-Example: if you add a team member during May 2023, we won't bill you for this team member for the remaining period of May. The first billing period will be June 2023 and you will receive a bill at the beginning of July 2023 in your Request Finance account in the "Bills" menu.&#x20;
-
-### How will I pay for the Team feature?
-
-When you add your first team member to your Request Finance account, we will ask you for your preferred payment method. You can choose from the following networks & currencies:&#x20;
-
-* Ethereum: USDC, USDT, DAI
-* Polygon: USDC, USDT
-* BSC: USDT
-
-At the beginning of each month, you will receive a bill automatically into your Request Finance account that you can pay as any other bill. The network and currency the bill is payable in will depend on what you selected when you added your first team member.&#x20;
-
-If you ever need to change your preferred payment method, please reach out to [support@request.finance](https://mail:support@request.finance).&#x20;

@@ -2,14 +2,14 @@
 
 When creating and paying digital currency invoices, there is a difference to be made between **invoice currencies** and **payment currencies.**
 
-The **invoice currency** is the one you choose to issue the invoice in during creation, mainly based on what is required to be compliant following your local tax & accounting laws.&#x20;
+The **invoice currency** is the one you choose to issue the invoice in during creation, mainly based on what is required to be compliant following your local tax & accounting laws.
 
 As an example: In the United States of America it is required to denominate any invoice that you have issued and/or paid in the United States Dollar (USD) for bookkeeping/accounting purposes. Payments can be made in a different currency.
 
 {% hint style="info" %}
 Stuck getting paid in cryptocurrency because you're uncertain on what your accountant will say?
 
-Feel free to let your accountant reach out to us directly through [email](mailto:support@request.finance), or let him/her [schedule a call with us](https://calendly.com/request-invoicing) so that we can answer all questions.&#x20;
+Feel free to let your accountant reach out to us directly through [email](mailto:support@request.finance), or let him/her [schedule a call with us](https://calendly.com/request-invoicing) so that we can answer all questions.
 {% endhint %}
 
 The **payment currency** is the one that you end up receiving when issuing an invoice, or spend when you're on the recipient side of an invoice. These can be traditional currencies like EUR, USD or GBP which you receive on your bank account, or digital currencies (cryptos) like ETH or DAI that you receive on your digital wallet.
@@ -25,7 +25,7 @@ If you denominate your invoice in traditional fiat currency (like USD or GBP) an
 We partnered with Chainlink in order to offer on-chain conversion. For every currency aggregated by Chainlink (for a complete list [on Ethereum check here](https://docs.chain.link/docs/ethereum-addresses/), and [on Polygon here](https://docs.chain.link/docs/matic-addresses/)) we offer the possibility to denominate the invoice in one currency (e.g. EUR or SGD) and to accept payments in another one (e.g. GRT or USDT).
 
 {% hint style="info" %}
-In order to accept cryptos that are not valued by Chainlink oracles, you have to denominate your invoice in the same currency as the payment.&#x20;
+In order to accept cryptos that are not valued by Chainlink oracles, you have to denominate your invoice in the same currency as the payment.
 {% endhint %}
 
 #### How do crypto-payments for fiat invoices work?
@@ -44,7 +44,7 @@ If your transaction fails with `Fail with error 'Amount to pay is over the user 
 
 {% tabs %}
 {% tab title="Invoice currencies supported" %}
-## Traditional currencies supported
+### Traditional currencies supported
 
 * United States Dollar (USD)
 * Euro (EUR)
@@ -55,7 +55,7 @@ If your transaction fails with `Fail with error 'Amount to pay is over the user 
 * Canadian Dollar(CAD)
 * Israeli Shekel(ILS)
 
-## Digital currencies supported
+### Digital currencies supported
 
 * AAVE
 * Aave Dai (aDAI)
@@ -63,7 +63,7 @@ If your transaction fails with `Fail with error 'Amount to pay is over the user 
 * Akropolis (AKRO)
 * Ankr (ANKR)
 * Aragon (ANT)
-* Bitcoin (BTC)&#x20;
+* Bitcoin (BTC)
 * Celo Dollar (cUSD)
 * Celo (cGLD / CELO)
 * Celo Euro (cEUR)
@@ -83,20 +83,20 @@ If your transaction fails with `Fail with error 'Amount to pay is over the user 
 * Request (REQ)
 * The Sandbox (SAND)
 * Tether (USDT)
-* USD Coin (USDC)&#x20;
+* USD Coin (USDC)
 * XSGD (XSGD)
 * Zilliqa (ZIL)
 {% endtab %}
 
 {% tab title="Payment currencies supported" %}
-## Traditional currencies supported
+### Traditional currencies supported
 
-Ask the buyer to pay in these currencies and he will notify you when he pays.&#x20;
+Ask the buyer to pay in these currencies and he will notify you when he pays.
 
 * Bank Transfers
 * Stripe
 
-## Digital currencies with fully support
+### Digital currencies with fully support
 
 By selecting one of these payment currencies, your invoice gets completely smart and Request Invoicing automatically detects when the payment is made.
 
@@ -123,9 +123,9 @@ By selecting one of these payment currencies, your invoice gets completely smart
 * FTM (on Fantom)
 * FUSE (on Fuse)
 
-## Digital currencies on declarative chains
+### Digital currencies on declarative chains
 
-Ask the buyer to pay in these currencies and he will notify you when he pays.&#x20;
+Ask the buyer to pay in these currencies and he will notify you when he pays.
 
 * Bitcoin (BTC)
 * Zilliqa (ZIL)
