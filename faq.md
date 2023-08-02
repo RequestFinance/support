@@ -143,6 +143,30 @@ Please use Chrome mobile app to log in to Request Finance. Once you are ready to
 
 Please do not use Metamask mobile's internal browser. Always prefer Chrome to browse Request Finance. Metamask's internal browser suffers from [an underlying issue](https://github.com/MetaMask/metamask-mobile/issues/4588) that renders it incompatible with Request Finance.
 
+### What is a Crypto2Fiat transfer?
+
+The Crypto2Fiat transfer is a service that allows you to pay your recipients in cryptocurrency while they get fiat in their bank account. For example, you can use USDC, USDT, or DAI to pay your recipients in USD, Euro, or other fiat currencies.
+
+### How does Crypto2Fiat transfer work?
+
+When you use Crypto2Fiat transfer, you must first create an account with our platform. Once you have created an account, you will be prompted to do a KYB with our partner Pay.so Core. Once the KYB is verified and approved, you can pay an invoice just like a normal invoice in cryptocurrency. The fiat currency will be deposited into the recipient’s bank account within a few business days.
+
+### What fiat currencies can I transfer?
+
+We currently support the following currencies for Crypto2Fiat transfer: USD and Euro. But we do look out for more currencies in the future. You can also reach out to us at [support@request.finance](mailto:support@request.finance) to request new currencies.
+
+### What are the fees for Crypto2Fiat transfer?
+
+The fees for Crypto2Fiat transfer vary depending on the pricing subscription plan you are currently in. You can check the pricing subscription plans [here](https://www.request.finance/pricing).
+
+### How long does it take to transfer my crypto to fiat?
+
+Our partner converts the cryptocurrency to fiat amount in seconds. However, the average time to receive funds in the recipient account is 1-3 business days. Occasionally, it may take 5-7 business days for the recipient to get the money in his bank account, depending on the currency. If the delay exceeds seven (7) days, please contact our support team at [support@request.finance](mailto:support@request.finance) so that we can help you.&#x20;
+
+### Can I cancel a Crypto2Fiat transfer?
+
+You can not cancel a Crypto2Fiat transfer once you have paid an invoice using cryptocurrency.
+
 ### How to batch multiple payments into one transaction?
 
 To make a batch payment, simply click on "Batch Payment" on the "[Bills](https://app.request.finance/pay/bills)" or "[Payroll](https://app.request.finance/salaries)" menu. For bills you need to make sure they are approved before you can pay them as part of one transaction.&#x20;
