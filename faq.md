@@ -298,9 +298,17 @@ You can change your preferred billing method in the settings [here](https://app.
 
 To update your plan, go to the subscription settings [here](https://app.request.finance/company/subscription).
 
+### How is extra payment volume outside of my free allowance calculated?
+
+Each paid plan includes a monthly, outgoing payment volume. Outgoing payment volume **above** the included payment volume is charged at 0.50% (Starter), 0.30% (Growth), 0.20% (Pro), or 0.10% (Enterprise). This amount will show up as "overage" on your invoice.&#x20;
+
+Overage is based on the date you made the payment, not the date you received the invoice or created the salary.&#x20;
+
 ### How do I cancel my paid plan?
 
-To cancel, simply downgrade to the “Free” plan. You can do this via the subscription settings [here](https://app.request.finance/company/subscription).&#x20;
+To cancel, simply downgrade to the “Free” plan. You can do this via the subscription settings [here](https://app.request.finance/company/subscription).
+
+&#x20;
 
 ## Approval
 
