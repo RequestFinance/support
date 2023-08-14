@@ -35,8 +35,8 @@
 
 ## Legal
 
-* [Referral Program Terms & Conditions](legal/referral-program-terms-and-conditions.md)
 * [Legal notice](legal/legal-notice.md)
 * [Terms & Conditions](terms-and-conditions.md)
 * [Privacy](privacy.md)
 * [Cookies](cookies.md)
+* [Referral Program Terms & Conditions](legal/referral-program-terms-and-conditions.md)
