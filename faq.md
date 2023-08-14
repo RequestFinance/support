@@ -335,6 +335,48 @@ There are two reasons for this, which are as follows:
 1. When you are paying for an invoice denominated in fiat prices are calculated on-chain via ChainLink, we ask for a little extra during each payment to account for any exchange rate discrepancies by the time your transaction gets confirmed. e.g. imagine paying a EUR denominated with DAI and the transaction takes a few minutes to confirm, when we check with ChainLink the EUR/DAI price may have dropped slightly. Because of this, we require a small % extra to cover the full amount. After the transaction has been completed, any excess is sent back directly to the payer.
 2. When you are paying via our swap mechanism the swaps can occur slippage from the exchange (e.g. DAI/USDT swap may cause 0.1% slippage + also fees) so again, we ask for extra. After the transaction has been completed, any excess is sent back directly to the payer.
 
+## **Referral**
+
+### Where can I find my referral link?
+
+You can find your unique referral link in the referral menu in your Request Finance account [here](https://app.request.finance/referral).
+
+### How much can I earn?
+
+The reward amount depends on the pricing plan that the referred user signs up to.&#x20;
+
+* Free: No reward
+* Starter: one-time payment of $40
+* Growth: one-time payment of $125
+* Pro: one-time payment of $250
+* Enterprise: one-time payment of $500
+
+Rewards are paid for each successful referral.
+
+### When will I receive my reward?
+
+Generally, rewards are paid within 30 days of the referred user successfully paying his regular subscription bill (without discounts). You can find our full Terms and Conditions for the referral program [here](https://support.request.finance/legal/referral-program-terms-and-conditions).
+
+### How do I receive my reward?
+
+Rewards are paid out to the wallet address you specified in the [referral menu](https://app.request.finance/referral). You can choose the currency and network you wish to receive rewards in this menu too.
+
+### I was invited as a Team Member to Request Finance. Who will receive the reward if I make a referral?
+
+The referral link shown to you in Request Finance is your own, unique link. If you make a successful referral with your link, then the reward will be paid out to the wallet you specified in Request Finance.
+
+### Am I eligible for the referral Program?
+
+Any Request Finance user who has received an invitation to the Program directly from Request Finance is eligible. If you have not received an invitation directly from us or don’t have a referral menu, you are not eligible.
+
+### What will the referee get?
+
+By using your link, the referee will get a free month on the subscription plan selected.
+
+### What does the referee need to do for me to earn the Reward?
+
+For you to be eligible for the Reward, your referee must be a new user of Request Finance, sign up using your unique referral link, subscribe to a paying plan, and pay for all of it. You can find our full Terms and Conditions for the referral program [here](https://support.request.finance/legal/referral-program-terms-and-conditions).
+
 ## Team
 
 ### What roles are available?

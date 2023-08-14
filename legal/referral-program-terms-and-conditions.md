@@ -1,6 +1,6 @@
 # Referral Program Terms & Conditions
 
-Last update: 16th of August 2023
+Applicable from: 16th of August 2023
 
 ## Who are we? <a href="#docs-internal-guid-f5a1c120-7fff-955f-1f87-9d275129f3b4" id="docs-internal-guid-f5a1c120-7fff-955f-1f87-9d275129f3b4"></a>
 
