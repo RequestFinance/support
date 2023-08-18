@@ -20,6 +20,7 @@
 * [Fiat-to-crypto payment: Bill your client in EUR and receive EURe (crypto)](https://www.youtube.com/watch?v=k99Q4bI6i2A)
 * [Non-volatile crypto invoices](https://request.network/en/2020/07/14/taking-volatility-out-of-crypto-businesses-with-dai-invoice-payments/)
 * [Accounting proof invoices](https://request.network/en/2020/07/29/keep-accounting-in-your-native-currency-do-business-in-digital-currencies/)
+* [Earn up to $500 when referring Request Finance](https://www.request.finance/post/earn-referral-rewards-in-stablecoins-with-request-finance)
 
 ## Additional Resources
 
