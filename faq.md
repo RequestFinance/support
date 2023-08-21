@@ -167,9 +167,8 @@ Our partner converts the cryptocurrency to fiat amount in seconds. However, the 
 
 The information displayed to a recipient depends on the currency:&#x20;
 
-For USD transfers: The sender will be "Bridge" and the reference will be "Pay.so."
-
-For EUR transfers: "Cheq Payments UAB" and the reference will be whatever was set as the reference by the user.&#x20;
+* For USD transfers: The sender will be "Bridge" and the reference will be "Pay.so."
+* For EUR transfers: "Cheq Payments UAB" and the reference will be whatever was set as the reference by the user.&#x20;
 
 To help identify your payment, we will send a payment notification via email to recipients of a Crypto2Fiat transfer.
 
