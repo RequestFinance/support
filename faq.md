@@ -170,7 +170,7 @@ The information displayed to a recipient depends on the currency:&#x20;
 * For USD transfers: The sender will be "Bridge" and the reference will be "Pay.so."
 * For EUR transfers: The sender will be "Cheq Payments UAB" and the reference will be whatever you set as the reference. By default, the reference is the invoice number of the invoice you paid.
 
-To help identify your payment, we will send a payment notification via email to recipients of a Crypto2Fiat transfer.
+To help identify your payment, we will automatically send a payment notification via email to recipients of a Crypto2Fiat transfer.
 
 ### Can I cancel a Crypto2Fiat transfer?
 
