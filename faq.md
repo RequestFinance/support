@@ -163,6 +163,16 @@ The fees for Crypto2Fiat transfer vary depending on the pricing subscription pla
 
 Our partner converts the cryptocurrency to fiat amount in seconds. However, the average time to receive funds in the recipient account is 1-3 business days. Occasionally, it may take 5-7 business days for the recipient to get the money in his bank account, depending on the currency. If the delay exceeds seven (7) days, please contact our support team at [support@request.finance](mailto:support@request.finance) so that we can help you.&#x20;
 
+### What does the recipient of a Crypto2Fiat transfer see in his bank account?
+
+The information displayed to a recipient depends on the currency:&#x20;
+
+For USD transfers: The sender will be "Bridge" and the reference will be "Pay.so."
+
+For EUR transfers: "Cheq Payments UAB" and the reference will be whatever was set as the reference by the user.&#x20;
+
+To help identify your payment, we will send a payment notification via email to recipients of a Crypto2Fiat transfer.
+
 ### Can I cancel a Crypto2Fiat transfer?
 
 You can not cancel a Crypto2Fiat transfer once you have paid an invoice using cryptocurrency.
