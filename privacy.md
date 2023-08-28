@@ -16,6 +16,8 @@ This policy is part of the legal documentation -with our [Terms & Conditions](ht
 
 Request reserves the right to modify this policy at any time and without prior notice, in particular in order to meet all its operational, legal, and regulatory constraints. Please check this page regularly to stay up-to-date on the latest version.&#x20;
 
+This policy does not govern the processing of personal data carried out on Your behalf, as a data controller, by Request Finance, as a data processor. To learn more about it, please refer to the DPA attached to our Terms & Conditions.
+
 ### What definitions should You know?&#x20;
 
 “Data controller” means the person collecting and processing the Data. The Data controller is Request Finance.&#x20;
