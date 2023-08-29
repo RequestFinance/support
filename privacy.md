@@ -6,7 +6,7 @@ description: Learn more about our privacy policy.
 
 ### Who are we? <a href="#docs-internal-guid-2018b6eb-7fff-ab30-d90e-0eb9d8d76282" id="docs-internal-guid-2018b6eb-7fff-ab30-d90e-0eb9d8d76282"></a>
 
-Request Finance (hereinafter "Request", “we” or “Request Finance”) is the trade name of REQUEST LABS, Request is the one who collects and processes Your Data.&#x20;
+Request Finance (hereinafter "Request", “we”, or “Request Finance”) is the one who collects and processes Your Data.
 
 ### What is this document?&#x20;
 
