@@ -12,6 +12,7 @@ The Request protocol is provided by Request Network Stiftung, Baarerstrasse 82, 
 * **“You” or “your”** means you as a professional and the company, organization, and/or entity electronically accessing our Services.
 * **Our DNA**. Request Finance is a professional web application for Companies, DAOs, and professionals to easily manage crypto invoices, salaries, and expenses in a fast and non-custodial way. You will find a non-exhaustive list of our Services [here](https://www.request.finance/).
 * **Privacy**. We respect your privacy, as explained in the [Cookie Policy](https://support.request.finance/legal/cookies) and [Privacy Policy](https://support.request.finance/legal/privacy).&#x20;
+* **DPA**. The DPA attached to these T\&Cs governs the processing of personal data carried out on Your behalf, as a data controller, by Request Finance, as a data processor.
 * **Termination**. You may request to terminate your account anytime at support@request.finance.&#x20;
 * **IP**. All legal rights, including all intellectual property rights, are Request’s property.&#x20;
 * **Disclaimer**. Request does not monitor, authorize or check the correctness or completeness of transactions before you authorize them.
@@ -89,6 +90,8 @@ Request may allow you to upload, share or provide your content on our Services. 
 You are solely liable for any content you upload, post, share, or provide. You acknowledge and accept that Request does not filter or moderate such content. However, Request reserves the right to remove, delete, block, or rectify such content at its discretion and to, without prior notice, deny your access to our Services (i) if any complaint based on such content is received; (ii) if a notice of infringement of intellectual property rights is received; (iii) upon order of a public authority; or (iv) where Request is made aware that the content may represent a risk for other users, third parties and/or the availability of our Services.
 
 The removal, deletion, blocking, or rectification of content shall not entitle anybody to compensation, damages, or reimbursement claims.
+
+The DPA attached to these T\&Cs governs the processing of personal data carried out on Your behalf, as a data controller, by Request Finance, as a data processor.
 
 ### External resources
 
