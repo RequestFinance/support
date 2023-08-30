@@ -264,6 +264,95 @@ THESE T\&CS ARE GOVERNED BY FRENCH LAW. THE EXCLUSIVE COMPETENCE TO DECIDE ON AN
 
 WHILE YOUR RIGHT TO TAKE LEGAL ACTION SHALL ALWAYS REMAIN UNAFFECTED, IN THE EVENT OF ANY CONTROVERSY REGARDING THE USE OF OUR SERVICES, YOU MUST ALWAYS CONTACT REQUEST AT THE CONTACT DETAILS PROVIDED IN THIS DOCUMENT. REQUEST WILL PROCESS THE COMPLAINT WITHOUT UNDUE DELAY AND WITHIN 30 DAYS OF RECEIVING IT.
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Annex 1 - Data Processing Agreement
+
+This Data Processing Agreement ("DPA") is a part of the T\&Cs. You will be referred to as the “Company” or the “Data Controller” and Request as the “Data Processor” or “Processor”.&#x20;
+
+WHEREAS
+
+1. The Company acts as a Data Controller.
+2. The Company wishes to benefit from the Services, which imply the processing of personal data by to the Data Processor.
+3. The Parties seek to implement a DPA that complies with the requirements of the current legal framework in relation to data processing and with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 (General Data Protection Regulation).
+4. The Parties wish to lay down their rights and obligations.
+
+IT IS AGREED AS FOLLOWS:
+
+#### 1. Definitions and Interpretation
+
+Unless otherwise defined herein, capitalized terms and expressions used in this DPA shall have the following meaning:
+
+* "DPA" means this Data Processing Agreement;
+* "Company Personal Data" means any personal data processed by the Processor or a Subprocessor on behalf of the Company;
+* "Data Protection Laws" means EU Data Protection Laws and, to the extent applicable, the data protection or privacy laws of any other country;
+* "EEA" means the European Economic Area;
+* "EU Data Protection Laws" means EU Directive 95/46/EC, as transposed into domestic legislation of each Member State and as amended, replaced or superseded from time to time, including by the GDPR and laws implementing or supplementing the GDPR;
+* "GDPR" means EU General Data Protection Regulation 2016/679;
+* "Data Transfer" means:
+  * a transfer of Company Personal Data from the Company to the Processor; or
+  * an onward transfer of Company Personal Data from the Processor to a Subprocessor, or between two establishments of the Processor,
+
+in each case, where such transfer would be prohibited by Data Protection Laws (or by the terms of data transfer agreements put in place to address the data transfer restrictions of Data Protection Laws);
+
+* "Subprocessor" means any person appointed by or on behalf of the Processor to process Company Personal Data.
+
+The terms, "Commission", "Controller", "Data Subject", "Member State", "Personal Data", "Personal Data Breach", "Processing" and "Supervisory Authority" shall have the same meaning as in the GDPR, and their cognate terms shall be construed accordingly.
+
+#### 2. Responsibilities
+
+The Processor shall comply with GDPR in the processing of Company Personal Data. The Company will be responsible for complying with all requirements that apply to it under applicable Data Protection Laws.
+
+In particular but without prejudice to the generality of the foregoing, the Company acknowledges and agrees that it will be solely responsible for: (i) the accuracy, quality, and legality of data and the means by which it acquired it; (ii) complying with all necessary transparency and lawfulness requirements under applicable Data Protection Laws for the collection and use of the Company Personal Data, including obtaining any necessary consents and authorizations; (iii) ensuring it has the right to transfer or provide access to, the Company Personal Data to the Processor and SubProcessors. The Company will inform the Processor without undue delay if it is not able to comply with its responsibilities under this section or applicable Data Protection Laws.
+
+#### 3. Processor Personnel
+
+The Processor shall take reasonable steps to ensure the reliability of any employee, agent, or Subprocessor who may have access to the Company Personal Data, ensuring in each case that access is strictly limited to those individuals who need to know/access the relevant Company Personal Data, and to comply with applicable laws, ensuring that all such individuals are subject to confidentiality undertakings or professional or statutory obligations of confidentiality.
+
+#### 4. Security & Instructions
+
+Taking into account the state of the art, the costs of implementation, and the nature, scope, context, and purposes of processing as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons, the Processor shall, in relation to the Company Personal Data, implement appropriate technical and organizational measures to ensure a level of security appropriate to that risk, including, as appropriate, the measures referred to in Article 32(1) of the GDPR.
+
+The  Company agrees that this DPA, together with the Company’s use of the Services, constitutes the complete instructions in relation to the processing of Company Personal Data.
+
+The Company is responsible for independently determining whether the data security provided meets its obligations under applicable Data Protection Laws. The Company is also responsible for its secure use of the Services, including protecting the security of Company Personal Data in transit to and from the Services (including securely backup or encrypting any such Company Personal Data).
+
+#### 5. Subprocessing
+
+The Company agrees the Processor may engage Subprocessors to process Company Personal Data on its behalf. First, the Processor may engage Subprocessors to assist with hosting and infrastructure. Second, the Processor may engage with Subprocessors to support product features and integrations. Third, the Processor may engage with affiliates as Subprocessors for service and support. Some Subprocessors will apply to the Company as default, and some Subprocessors will apply only after opt-in. We will inform you of any planned changes concerning the addition or replacement of other Subprocessors. Where the Processor engages Subprocessors, the Processor will impose data protection terms on the Subprocessors that provide at least the same level of protection for Company Personal Data as those in this DPA (including, where appropriate, standard contractual clauses), to the extent applicable to the nature of the services provided by such Subprocessors. The Processor will remain responsible for each Subprocessor’s compliance with the obligations of this DPA and for any acts or omissions of such Subprocessor that cause a breach of our obligations under this DPA.
+
+#### 6. Data Subject Rights
+
+Taking into account the nature of the processing, the Processor shall assist the Company, insofar as possible, to fulfill the Company’s obligations, as reasonably understood by the Company, to respond to requests to exercise Data Subject rights under the Data Protection Laws.
+
+The Processor shall:
+
+* promptly notify the Company if it receives a request from a Data Subject under any Data Protection Law in respect of Company Personal Data, and
+* ensure it does respond to that request as required by Applicable Laws to which the Processor is subject.
+
+#### 7. Personal Data Breach
+
+The Processor shall notify the Company without undue delay upon the Processor becoming aware of a Personal Data Breach affecting Company Personal Data, providing the Company with sufficient information to allow the Company to meet any obligations to report or inform Data Subjects of the Personal Data Breach under the Data Protection Laws. Processor shall co-operate with the Company and take reasonable commercial steps as are directed by the Company to assist in the investigation, mitigation and remediation of each such Personal Data Breach.
+
+#### 8. Data Protection Impact Assessment and Prior Consultation
+
+The Processor shall provide reasonable assistance to the Company with any data protection impact assessments, and prior consultations with Supervising Authorities or other competent data privacy authorities, which the Company reasonably considers to be required by article 35 or 36 of the GDPR or equivalent provisions of any other Data Protection Law, in each case solely in relation to the processing of Company Personal Data.
+
+#### 9. Deletion or return of Company Personal Data
+
+The Processor shall promptly and, in any event, within two months from the date of cessation of any services involving the Processing of Company Personal Data (the "Cessation Date").
+
+#### 10. Data Transfer
+
+thisThe Processor may transfer or authorize data transfer to countries outside the EU and/or the European Economic Area (EEA). If personal data processed under tis DPA is transferred from a country within the European Economic Area to a country outsidelete Company Personal Data de the European Economic
+
+ArParties shall ensure that the personal data are adequately protected. To achieve this, the Parties shall, unless agreed otherwise, rely on EU-approved standard contractual clauses or other proper clauses to transfer personal data.
+
+#### 11. Audit
+
+Subject to this section, the Processor shall make available to the Company on request all information necessary to demonstrate compliance with this Agreement.\
+
+
 ## **Previous Terms & Conditions**
 
 You can find our previous Terms & Conditions here:&#x20;
