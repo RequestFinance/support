@@ -143,38 +143,71 @@ Please use Chrome mobile app to log in to Request Finance. Once you are ready to
 
 Please do not use Metamask mobile's internal browser. Always prefer Chrome to browse Request Finance. Metamask's internal browser suffers from [an underlying issue](https://github.com/MetaMask/metamask-mobile/issues/4588) that renders it incompatible with Request Finance.
 
-### What is a Crypto2Fiat transfer?
+***
 
-The Crypto2Fiat transfer is a service that allows you to pay your recipients in cryptocurrency while they get fiat in their bank account. For example, you can use USDC, USDT, or DAI to pay your recipients in USD, Euro, or other fiat currencies.
+### What is Crypto to Fiat transfer? <a href="#crypto-to-fiat" id="crypto-to-fiat"></a>
 
-### How does Crypto2Fiat transfer work?
+Crypto to Fiat transfer is a service that enables you as a payer to pay recipients in cryptocurrency while they receive fiat currency directly in their bank accounts. For example, you can use USDC, USDT, or DAI to pay recipients in USD, Euro, or other fiat currencies.
 
-When you use Crypto2Fiat transfer, you must first create an account with our platform. Once you have created an account, you will be prompted to do a KYB with our partner Pay.so Core. Once the KYB is verified and approved, you can pay an invoice just like a normal invoice in cryptocurrency. The fiat currency will be deposited into the recipient’s bank account within a few business days.
+### How does Crypto to Fiat transfer work?
+
+To use Crypto to Fiat transfer, create an account on our platform and complete a KYB (Know Your Business) verification with our partner, Pay.so Core. Once your KYB is verified and approved, you can pay an invoice just like you would with cryptocurrency. The fiat currency will be deposited into the recipient's bank account within a few business days.
+
+### In which jurisdictions does the paying company need to be?
+
+We support countries from all jurisdictions except those registered in the [FATF black and grey list](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html).
+
+### Which cryptocurrencies can I use for payouts?
+
+Currently, we support USDC, with plans to expand to USDT and DAI in the future.
+
+### On which networks may I pay out?
+
+We support transactions on the Polygon and Ethereum networks.
 
 ### What fiat currencies can I transfer?
 
-We currently support the following currencies for Crypto2Fiat transfer: USD and Euro. But we do look out for more currencies in the future. You can also reach out to us at [support@request.finance](mailto:support@request.finance) to request new currencies.
+Currently, we support USD and Euro for Crypto to Fiat transfers. Please note that only ACH transfers for USD and SEPA transfers for Euro are supported. We are exploring additional currencies for the future.
 
-### What are the fees for Crypto2Fiat transfer?
+### Are there any upcoming fiat currencies to be supported?
 
-The fees for Crypto2Fiat transfer vary depending on the pricing subscription plan you are currently in. You can check the pricing subscription plans [here](https://www.request.finance/pricing).
+We are in the process of launching SWIFT for USD and Euro transfers, as well as adding support for GBP and CHF. If you have other currency requests, please contact us at [support@request.finance](mailto:support@request.finance).
 
-### How long does it take to transfer my crypto to fiat?
+### What is the onboarding process, and how long does it take?
 
-Our partner converts the cryptocurrency to fiat amount in seconds. However, the average time to receive funds in the recipient account is 1-3 business days. Occasionally, it may take 5-7 business days for the recipient to get the money in his bank account, depending on the currency. If the delay exceeds seven (7) days, please contact our support team at [support@request.finance](mailto:support@request.finance) so that we can help you.&#x20;
+The onboarding process involves KYB verification for the organization. You'll need to provide basic company information and company documents, including a Certificate of Incorporation and Shareholder Registry. The typical time for verification is 3-5 business days.
 
-### What does the recipient of a Crypto2Fiat transfer see in his bank account?
+### Can individuals without a registered company use Crypto to Fiat?
 
-The information displayed to a recipient depends on the currency:&#x20;
+Currently, only individuals who are US residents are eligible to use the Crypto to Fiat feature.
 
-* For USD transfers: The sender will be "Bridge" and the reference will be "Pay.so."
-* For EUR transfers: The sender will be "Cheq Payments UAB" and the reference will be whatever you set as the reference. By default, the reference is the invoice number of the invoice you paid.
+### What are the fees for Crypto to Fiat transfer?
 
-To help identify your payment, we will automatically send a payment notification via email to recipients of a Crypto2Fiat transfer.
+Fees for Crypto to Fiat transfers vary based on your pricing subscription plan and payment volume. Here's an overview:
 
-### Can I cancel a Crypto2Fiat transfer?
+* Free: 2.5% on payment volume
+* Starter Plan: 2% on payment volume
+* Growth: 1.5% on payment volume
+* Pro: 1% on payment volume
+* Enterprise: Customizable. Please contact us for more information.
 
-You can not cancel a Crypto2Fiat transfer once you have paid an invoice using cryptocurrency.
+### How do I pay fiat invoices via Request Finance?
+
+To pay fiat invoices, initiate payments just as you would with crypto invoices. Your contractor will receive the funds in their bank account within 1-3 business days.
+
+### Can I pay salaries and expenses using Crypto to Fiat?
+
+Currently, Crypto to Fiat is exclusively available for Invoices. However, we are actively working on expanding its functionality to include the payment of salaries and expenses, and we anticipate that this feature will be available in just a few weeks. Stay tuned for updates!
+
+### How long does it take to transfer cryptocurrency to fiat?
+
+Our partner converts cryptocurrency to fiat within seconds. However, it typically takes 1-3 business days for the recipient to receive the funds in their bank account. Occasionally, this period may extend to 5-7 business days depending on the currency. If the delay exceeds seven (7) days, please contact us at [support@request.finance](mailto:support@request.finance) for assistance.
+
+### Can I cancel a Crypto to Fiat transfer?
+
+No, once you have paid an invoice using cryptocurrency, you cannot cancel a Crypto to Fiat transfer.
+
+***
 
 ### How to batch multiple payments into one transaction?
 
