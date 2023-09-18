@@ -147,7 +147,7 @@ Please do not use Metamask mobile's internal browser. Always prefer Chrome to br
 
 ### What is Crypto to Fiat transfer? <a href="#crypto-to-fiat" id="crypto-to-fiat"></a>
 
-Crypto to Fiat transfer is a service that enables you as a payer to pay recipients in cryptocurrency while they receive fiat currency directly in their bank accounts. For example, you can use USDC, USDT, or DAI to pay recipients in USD, Euro, or other fiat currencies.
+Crypto to Fiat transfer is a service that enables you as a payer to pay your contractors  in cryptocurrency while they receive fiat currency directly in their bank accounts. For example, you can use USDC, USDT, or DAI to pay recipients in USD, Euro, or other fiat currencies.
 
 ### How does Crypto to Fiat transfer work?
 
@@ -191,7 +191,7 @@ Fees for Crypto to Fiat transfers vary based on your pricing subscription plan a
 * Pro: 1% on payment volume
 * Enterprise: Customizable. Please contact us for more information.
 
-### How do I pay fiat invoices via Request Finance?
+### How do I pay fiat invoices using Crypto to Fiat via Request Finance?
 
 To pay fiat invoices, initiate payments just as you would with crypto invoices. Your contractor will receive the funds in their bank account within 1-3 business days.
 
