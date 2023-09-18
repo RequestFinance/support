@@ -147,11 +147,11 @@ Please do not use Metamask mobile's internal browser. Always prefer Chrome to br
 
 ### What is Crypto to Fiat transfer? <a href="#crypto-to-fiat" id="crypto-to-fiat"></a>
 
-Crypto to Fiat transfer is a service that enables you as a payer to pay your contractors  in cryptocurrency while they receive fiat currency directly in their bank accounts. For example, you can use USDC, USDT, or DAI to pay recipients in USD, Euro, or other fiat currencies.
+Crypto to Fiat transfer is a service that enables you as a payer to pay your contractors  in cryptocurrency while they receive fiat currency directly in their bank accounts. For example, you can use USDC, USDT, or DAI to pay your contractors in USD, Euro, or other fiat currencies.
 
 ### How does Crypto to Fiat transfer work?
 
-To use Crypto to Fiat transfer, create an account on our platform and complete a KYB (Know Your Business) verification with our partner, Pay.so Core. Once your KYB is verified and approved, you can pay an invoice just like you would with cryptocurrency. The fiat currency will be deposited into the recipient's bank account within a few business days.
+To use Crypto to Fiat transfer, create an account on our platform and complete a KYB (Know Your Business) verification with our partner, Pay.so Core. Once your KYB is verified and approved, you can pay an invoice just like you would with cryptocurrency. The fiat currency will be deposited into the contractor's bank account within a few business days.
 
 ### In which jurisdictions does the paying company need to be?
 
@@ -175,7 +175,7 @@ We are in the process of launching SWIFT for USD and Euro transfers, as well as 
 
 ### What is the onboarding process, and how long does it take?
 
-The onboarding process involves KYB verification for the organization. You'll need to provide basic company information and company documents, including a Certificate of Incorporation and Shareholder Registry. The typical time for verification is 3-5 business days.
+The onboarding process involves KYB verification for the payer's organization. You'll need to provide basic company information and company documents, including a Certificate of Incorporation and Shareholder Registry. The typical time for verification is 3-5 business days.
 
 ### Can individuals without a registered company use Crypto to Fiat?
 
