@@ -106,31 +106,6 @@ Web3 is the new generation of technology that empowers the individual over the i
 \
 Not sure which wallet to use? [Here](https://ethereum.org/en/wallets/find-wallet/) is a helpful guide.
 
-### How do I cancel a pending payment?
-
-You tried to make a payment but the gas price was too low and the transaction is still waiting in the mempool? There are 2 solutions.
-
-In Metamask, you can either "Speed up" (by increasing fees) or "Cancel" a transaction. They detail the cancellation procedure in [this blog post](https://metamask.zendesk.com/hc/en-us/articles/360015489251-How-to-speed-up-or-cancel-a-pending-transaction).
-
-For other wallets that do not offer cancellation, ask in the wallet's community or get in touch with us.
-
-### How do I pay with a Ledger?
-
-Select the Ledger option in the wallet selection window. If the option is not available, it means Ledger is not yet available for this network.
-
-You have to update your Ledger's firmware to the latest version. Here is how to do it:
-
-1. The latest version of Ledger Live
-2. The latest firmware version on the Ledger
-3. Update Ethereum app
-4. Allow Contract data
-
-### How do I pay with a Gnosis Safe?
-
-In your Safe, go to Apps and select Request Finance. Sign in, open the invoice you want to pay, click on "Pay", and when prompted for a wallet selection, pick "Gnosis Safe". If your Safe is configured for multiple signatures, don't forget to tell the other owners to sign as well.
-
-If you encounter any issues using Request Finance with Gnosis Safe, please refer to Gnosis Safe's help center and try enabling third-party cookies, see: [https://help.gnosis-safe.io/en/articles/5955031-why-do-i-need-to-enable-third-party-cookies-for-safe-apps](https://help.gnosis-safe.io/en/articles/5955031-why-do-i-need-to-enable-third-party-cookies-for-safe-apps)
-
 ### How do I pay with a mobile device?
 
 Request Finance is compatible with any wallet that supports WalletConnect.
@@ -307,6 +282,54 @@ As a Business, you get a Reputation Score based on your behavior.
 If you pay your invoices on time, you will always get 5 stars.
 
 Please don't be late :)
+
+
+
+***
+
+## Payment Troubleshooting
+
+### Why do we ask for slightly more than your payment total?
+
+There are two reasons for this, which are as follows:
+
+1. When you are paying for an invoice denominated in fiat prices are calculated on-chain via ChainLink, we ask for a little extra during each payment to account for any exchange rate discrepancies by the time your transaction gets confirmed. e.g. imagine paying a EUR denominated with DAI and the transaction takes a few minutes to confirm, when we check with ChainLink the EUR/DAI price may have dropped slightly. Because of this, we require a small % extra to cover the full amount. After the transaction has been completed, any excess is sent back directly to the payer.
+2. When you are paying via our swap mechanism the swaps can occur slippage from the exchange (e.g. DAI/USDT swap may cause 0.1% slippage + also fees) so again, we ask for extra. After the transaction has been completed, any excess is sent back directly to the payer.
+
+### How do I cancel a pending payment?
+
+You tried to make a payment but the gas price was too low and the transaction is still waiting in the mempool? There are 2 solutions.
+
+In Metamask, you can either "Speed up" (by increasing fees) or "Cancel" a transaction. They detail the cancellation procedure in [this blog post](https://metamask.zendesk.com/hc/en-us/articles/360015489251-How-to-speed-up-or-cancel-a-pending-transaction).
+
+For other wallets that do not offer cancellation, ask in the wallet's community or get in touch with us.
+
+### How do I pay with a Ledger?
+
+Select the Ledger option in the wallet selection window. If the option is not available, it means Ledger is not yet available for this network.
+
+You have to update your Ledger's firmware to the latest version. Here is how to do it:
+
+1. The latest version of Ledger Live
+2. The latest firmware version on the Ledger
+3. Update Ethereum app
+4. Allow Contract data
+
+### How do I pay with a Safe wallet (ex-Gnosis)?
+
+In your Safe, go to Apps and select Request Finance. Sign in, open the invoice you want to pay, click on "Pay", and when prompted for a wallet selection, pick "Gnosis Safe". If your Safe is configured for multiple signatures, don't forget to tell the other owners to sign as well.
+
+If you encounter any issues using Request Finance with Gnosis Safe, please refer to Gnosis Safe's help center and try enabling third-party cookies, see: [https://help.gnosis-safe.io/en/articles/5955031-why-do-i-need-to-enable-third-party-cookies-for-safe-apps](https://help.gnosis-safe.io/en/articles/5955031-why-do-i-need-to-enable-third-party-cookies-for-safe-apps)
+
+### Can I pay with a Safe wallet without signing up to Request Finance?
+
+You need to use the Safe App "WalletConnect" if you want to pay a Request Finance invoice without creating an account.
+
+### I click on "Pay" and nothing pops up
+
+You may have to manually disconnect your wallet and try again. On the top right corner, click on your name, then on your wallet address. A dialog should show the connection details and you can click on "Disconnect". You should be good to go.
+
+***
 
 ## Subscription
 
