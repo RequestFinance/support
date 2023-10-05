@@ -19,8 +19,8 @@ When issuing an invoice, you need to be aware of all local and national requirem
 \
 **For more specific guidance see the following resources:**
 
-[**European Union**](https://ec.europa.eu/taxation\_customs/business/vat/eu-vat-rules-topic/vat-invoicing-rules\_en)\
-\*\*\*\*[United State of America](https://www.ionos.com/startupguide/grow-your-business/requirements-for-a-proper-invoice/)
+[European Union](https://ec.europa.eu/taxation\_customs/business/vat/eu-vat-rules-topic/vat-invoicing-rules\_en)\
+[United State of America](https://www.ionos.com/startupguide/grow-your-business/requirements-for-a-proper-invoice/)
 
 ### **How do I receive digital currencies (cryptocurrencies) for my business?**
 
@@ -28,15 +28,17 @@ In order to receive cryptocurrency, you need a wallet address. These wallet addr
 \
 You control your wallet through an application, just like the online banking app you use now.\
 \
-To accept ETH, DAI, USDT and other \*\*\*\* Ethereum-based \*\*\*\* ERC20 tokens, you will need an Ethereum address. For beginners you can receive all these currencies on a [Coinbase account.](https://www.coinbase.com/signup)\\
+To accept ETH, DAI, USDT, USDC and other Ethereum-based ERC20 tokens, you will need an Ethereum address. For beginners you can receive all these currencies on a [Coinbase account.](https://www.coinbase.com/signup)\\
 
-Once more familiar with handling cryptocurrencies, we recommend moving your funds off exchanges and keep them on a wallet that you own the private keys to. \*\*\*\* [Here](https://ethereum.org/en/wallets/find-wallet/) is a helpful guide on how to do this.
+Once more familiar with handling cryptocurrencies, we recommend moving your funds off exchanges and keep them on a wallet that you own the private keys to. [Here](https://ethereum.org/en/wallets/find-wallet/) is a helpful guide on how to do this.
 
-To get paid on Polygon, Fantom, Fuse, Celo or other blockchains, you need to know how they work. [Metamask ](https://metamask.io)supports all EVM blockchains and lets you access all Request Finance features.
+To get paid on Polygon, Fantom, Fuse, Celo or other EVM blockchains, you need to know how they work. [Metamask ](https://metamask.io)supports all EVM blockchains and lets you access all Request Finance features.
+
+To get paid on Near, visit [https://app.mynearwallet.com/](https://app.mynearwallet.com/). We support these tokens on Near: NEAR, USDC, USDt, USDC.e and USDT.e.
 
 ### How to enable my customers to pay with cryptocurrencies using Request Finance?
 
-By creating an invoice with Request Finance your customers will receive an automatic email with a link to the invoice. All they have to do is click on accept and pay from within the invoice.
+By creating an invoice with Request Finance your customers will receive an automatic email with a link to the invoice. All they have to do is to click on pay from within the invoice.
 
 ### **Can I get paid by credit card?**
 
@@ -94,11 +96,11 @@ Customizing your invoice by adding your company logo is a feature we're currentl
 
 Before you send the first occurrence of a recurring invoice, click on "I want this to be a recurring invoice", at the bottom. The app guides to configuring the recurrence settings.
 
-![](.gitbook/assets/image.png)
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Recurring Invoice option at creation</p></figcaption></figure>
 
 ## **Making payments**
 
-### **How do I pay an invoice in cryptocurrency?**
+#### **How do I pay an invoice in cryptocurrency?**
 
 In order to pay an invoice, you need to use a wallet that has Web3 capability with enough funds to cover the payment amount requested. You also need to have enough funds to pay for the gas (ex: some ETH on Ethereum).
 
@@ -106,57 +108,78 @@ Web3 is the new generation of technology that empowers the individual over the i
 \
 Not sure which wallet to use? [Here](https://ethereum.org/en/wallets/find-wallet/) is a helpful guide.
 
-### How do I pay with a mobile device?
+#### How do I pay with a mobile device?
 
 Request Finance is compatible with any wallet that supports WalletConnect.
 
-### How do I pay while on the road?
+#### How do I pay while on the road?
 
 Please use Chrome mobile app to log in to Request Finance. Once you are ready to pay an invoice, click on the "Pay Now" button and then select "WalletConnect". Your mobile should then offer you to pay with any compatible app installed on your device, including Metamask mobile app, Trust Wallet, etc.
 
-#### Note about Metamask's mobile app:
-
+{% hint style="info" %}
+**Note about Metamask's mobile app:**\
 Please do not use Metamask mobile's internal browser. Always prefer Chrome to browse Request Finance. Metamask's internal browser suffers from [an underlying issue](https://github.com/MetaMask/metamask-mobile/issues/4588) that renders it incompatible with Request Finance.
+{% endhint %}
 
-***
+#### What is a digital currency or cryptocurrency?
 
-### What is Crypto to Fiat transfer? <a href="#crypto-to-fiat" id="crypto-to-fiat"></a>
+Digital currency, or cryptocurrency, is often referred to as programmable money. Like the Internet in the 90s was for communication to become digital. Cryptocurrencies and their applications represent the internet of money. There are currently over 7000 cryptocurrencies listed on the popular tracker CoinMarketCap.
+
+#### How do I pay an invoice partially?
+
+Partially paying a digital currency invoice is currently unavailable and will be released as a feature in a near update.
+
+#### How do I accept an invoice?
+
+Upon receipt of the invoice, you can accept the invoice to let the issuer know if you agree with the terms & conditions.
+
+This is done by logging into your account & clicking on the accept button above the invoice.
+
+#### How do I reject an invoice?
+
+Upon receipt of the invoice, you can reject the invoice to let the issuer know if you disagree with the terms & conditions.
+
+This is done by logging into your account & clicking on the reject button above the invoice.
+
+### Payments with Crypto to Fiat
+
+#### What is Crypto to Fiat transfer? <a href="#crypto-to-fiat" id="crypto-to-fiat"></a>
 
 Crypto to Fiat transfer is a service that enables you as a payer to pay your contractors  in cryptocurrency while they receive fiat currency directly in their bank accounts. For example, you can use USDC, USDT, or DAI to pay your contractors in USD, Euro, or other fiat currencies.
 
-### How does Crypto to Fiat transfer work?
+#### How does Crypto to Fiat transfer work?
 
 To use Crypto to Fiat transfer, create an account on our platform and complete a KYB (Know Your Business) verification with our partner, Pay.so Core. Once your KYB is verified and approved, you can pay an invoice just like you would with cryptocurrency. The fiat currency will be deposited into the contractor's bank account within a few business days.
 
-### In which jurisdictions does the paying company need to be?
+#### In which jurisdictions does the paying company need to be?
 
 We support countries from all jurisdictions except those registered in the [FATF black and grey list](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html).
 
-### Which cryptocurrencies can I use for payouts?
+#### Which cryptocurrencies can I use for payouts?
 
 Currently, we support USDC, with plans to expand to USDT and DAI in the future.
 
-### On which networks may I pay out?
+#### On which networks may I pay out?
 
 We support transactions on the Polygon and Ethereum networks.
 
-### What fiat currencies can I transfer?
+#### What fiat currencies can I transfer?
 
 Currently, we support USD and Euro for Crypto to Fiat transfers. Please note that only ACH transfers for USD and SEPA transfers for Euro are supported. We are exploring additional currencies for the future.
 
-### Are there any upcoming fiat currencies to be supported?
+#### Are there any upcoming fiat currencies to be supported?
 
 We are in the process of launching SWIFT for USD and Euro transfers, as well as adding support for GBP and CHF. If you have other currency requests, please contact us at [support@request.finance](mailto:support@request.finance).
 
-### What is the onboarding process, and how long does it take?
+#### What is the onboarding process, and how long does it take?
 
 The onboarding process involves KYB verification for the payer's organization. You'll need to provide basic company information and company documents, including a Certificate of Incorporation and Shareholder Registry. The typical time for verification is 3-5 business days.
 
-### Can individuals without a registered company use Crypto to Fiat?
+#### Can individuals without a registered company use Crypto to Fiat?
 
 Currently, only individuals who are US residents are eligible to use the Crypto to Fiat feature.
 
-### What are the fees for Crypto to Fiat transfer?
+#### What are the fees for Crypto to Fiat transfer?
 
 Fees for Crypto to Fiat transfers vary based on your pricing subscription plan and payment volume. Here's an overview:
 
@@ -166,29 +189,31 @@ Fees for Crypto to Fiat transfers vary based on your pricing subscription plan a
 * Pro: 1% on payment volume
 * Enterprise: Customizable. Please contact us for more information.
 
-### How do I pay fiat invoices using Crypto to Fiat via Request Finance?
+#### How do I pay fiat invoices using Crypto to Fiat via Request Finance?
 
 To pay fiat invoices, initiate payments just as you would with crypto invoices. Your contractor will receive the funds in their bank account within 1-3 business days.
 
-### Can I pay salaries and expenses using Crypto to Fiat?
+#### Can I pay salaries and expenses using Crypto to Fiat?
 
 Currently, Crypto to Fiat is exclusively available for Invoices. However, we are actively working on expanding its functionality to include the payment of salaries and expenses, and we anticipate that this feature will be available in just a few weeks. Stay tuned for updates!
 
-### How long does it take to transfer cryptocurrency to fiat?
+#### How long does it take to transfer cryptocurrency to fiat?
 
 Our partner converts cryptocurrency to fiat within seconds. However, it typically takes 1-3 business days for the recipient to receive the funds in their bank account. Occasionally, this period may extend to 5-7 business days depending on the currency. If the delay exceeds seven (7) days, please contact us at [support@request.finance](mailto:support@request.finance) for assistance.
 
-### Can I cancel a Crypto to Fiat transfer?
+#### Can I cancel a Crypto to Fiat transfer?
 
 No, once you have paid an invoice using cryptocurrency, you cannot cancel a Crypto to Fiat transfer.
 
 ***
 
-### How to batch multiple payments into one transaction?
+### Batch payments
+
+#### How to batch multiple payments into one transaction?
 
 To make a batch payment, simply click on "Batch Payment" on the "[Bills](https://app.request.finance/pay/bills)" or "[Payroll](https://app.request.finance/salaries)" menu. For bills you need to make sure they are approved before you can pay them as part of one transaction.&#x20;
 
-### Why can't I make a batch payment of my bills/payroll?
+#### Why can't I make a batch payment of my bills/payroll?
 
 Batch payments for bills are only supported if:
 
@@ -200,38 +225,16 @@ Batch payments for payroll payments are only supported if:
 * The payroll payment set up is "awaiting payment" (-> create a payroll payment first)
 * The bill is payable in an ERC-20 token (note: tokens native to the blockchain, like ETH on Ethereum, are not supported for batch payment)
 
-### What is a digital currency or cryptocurrency?
+### Payment Troubleshooting
 
-Digital currency, or cryptocurrency, is often referred to as programmable money. Like the Internet in the 90s was for communication to become digital. Cryptocurrencies and their applications represent the internet of money. There are currently over 7000 cryptocurrencies listed on the popular tracker CoinMarketCap.
-
-### How do I pay an invoice partially?
-
-Partially paying a digital currency invoice is currently unavailable and will be released as a feature in a near update.
-
-### How do I accept an invoice?
-
-Upon receipt of the invoice, you can accept the invoice to let the issuer know if you agree with the terms & conditions.
-
-This is done by logging into your account & clicking on the accept button above the invoice.
-
-### How do I reject an invoice?
-
-Upon receipt of the invoice, you can reject the invoice to let the issuer know if you disagree with the terms & conditions.
-
-This is done by logging into your account & clicking on the reject button above the invoice.
-
-***
-
-## Payment Troubleshooting
-
-### Why do we ask for slightly more than your payment total?
+#### Why do we ask for slightly more than your payment total?
 
 There are two reasons for this, which are as follows:
 
 1. When you are paying for an invoice denominated in fiat prices are calculated on-chain via ChainLink, we ask for a little extra during each payment to account for any exchange rate discrepancies by the time your transaction gets confirmed. e.g. imagine paying a EUR denominated with DAI and the transaction takes a few minutes to confirm, when we check with ChainLink the EUR/DAI price may have dropped slightly. Because of this, we require a small % extra to cover the full amount. After the transaction has been completed, any excess is sent back directly to the payer.
 2. When you are paying via our swap mechanism the swaps can occur slippage from the exchange (e.g. DAI/USDT swap may cause 0.1% slippage + also fees) so again, we ask for extra. After the transaction has been completed, any excess is sent back directly to the payer.
 
-### How do I cancel a pending payment?
+#### How do I cancel a pending payment?
 
 You tried to make a payment but the gas price was too low and the transaction is still waiting in the mempool? There are 2 solutions.
 
@@ -239,7 +242,7 @@ In Metamask, you can either "Speed up" (by increasing fees) or "Cancel" a transa
 
 For other wallets that do not offer cancellation, ask in the wallet's community or get in touch with us.
 
-### How do I pay with a Ledger?
+#### How do I pay with a Ledger?
 
 Select the Ledger option in the wallet selection window. If the option is not available, it means Ledger is not yet available for this network.
 
@@ -250,19 +253,19 @@ You have to update your Ledger's firmware to the latest version. Here is how to 
 3. Update Ethereum app
 4. Allow Contract data
 
-### How do I pay with a Safe wallet (ex-Gnosis)?
+#### How do I pay with a Safe wallet (ex-Gnosis)?
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (1).png>)
 
 From your Safe, go to Apps and select Request Finance. Sign in, open the invoice you want to pay, click on "Pay", and when prompted for a wallet selection, pick "Safe". If your Safe is configured for multiple signatures, don't forget to tell the other owners to sign as well.
 
 If you encounter any issues using Request Finance with Safe, please refer to Safe's help center and try enabling third-party cookies, see: [https://help.safe.global/en/articles/40797-why-do-i-need-to-enable-third-party-cookies-for-safe-apps](https://help.safe.global/en/articles/40797-why-do-i-need-to-enable-third-party-cookies-for-safe-apps)
 
-### Can I pay with a Safe wallet without signing up to Request Finance?
+#### Can I pay with a Safe wallet without signing up to Request Finance?
 
 You need to use the Safe App "WalletConnect" if you want to pay a Request Finance invoice without creating an account.
 
-### I click on "Pay" and nothing pops up
+#### I click on "Pay" and nothing pops up
 
 You may have to manually disconnect your wallet and try again. On the top right corner, click on your name, then on your wallet address. A dialog should show the connection details and you can click on "Disconnect". You should be good to go.
 
