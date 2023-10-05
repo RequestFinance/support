@@ -252,9 +252,11 @@ You have to update your Ledger's firmware to the latest version. Here is how to 
 
 ### How do I pay with a Safe wallet (ex-Gnosis)?
 
-In your Safe, go to Apps and select Request Finance. Sign in, open the invoice you want to pay, click on "Pay", and when prompted for a wallet selection, pick "Gnosis Safe". If your Safe is configured for multiple signatures, don't forget to tell the other owners to sign as well.
+![](<.gitbook/assets/image (1).png>)
 
-If you encounter any issues using Request Finance with Gnosis Safe, please refer to Gnosis Safe's help center and try enabling third-party cookies, see: [https://help.gnosis-safe.io/en/articles/5955031-why-do-i-need-to-enable-third-party-cookies-for-safe-apps](https://help.gnosis-safe.io/en/articles/5955031-why-do-i-need-to-enable-third-party-cookies-for-safe-apps)
+From your Safe, go to Apps and select Request Finance. Sign in, open the invoice you want to pay, click on "Pay", and when prompted for a wallet selection, pick "Safe". If your Safe is configured for multiple signatures, don't forget to tell the other owners to sign as well.
+
+If you encounter any issues using Request Finance with Safe, please refer to Safe's help center and try enabling third-party cookies, see: [https://help.safe.global/en/articles/40797-why-do-i-need-to-enable-third-party-cookies-for-safe-apps](https://help.safe.global/en/articles/40797-why-do-i-need-to-enable-third-party-cookies-for-safe-apps)
 
 ### Can I pay with a Safe wallet without signing up to Request Finance?
 
