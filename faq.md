@@ -367,9 +367,12 @@ To update your plan, go to the subscription settings [here](https://app.request.
 
 ### How is extra payment volume outside of my free allowance calculated?
 
-Each paid plan includes a monthly, outgoing payment volume. Outgoing payment volume **above** the included payment volume is charged at 0.50% (Starter), 0.30% (Growth), 0.20% (Pro), or 0.10% (Enterprise). This amount will show up as "overage" on your invoice.&#x20;
+Each paid plan includes a monthly, outgoing payment volume. Outgoing payment volume **above** the included payment volume is charged at 0.50% (Starter), 0.30% (Growth), 0.20% (Pro). This amount will show up as "overage" on your invoice.&#x20;
 
 Overage is based on the date you made the payment, not the date you received the invoice or created the salary.&#x20;
+
+Doing more than $400,000 USD per month? [Speak to our consultant to access our custom prices.](https://www.request.finance/demo)\
+
 
 ### How do I cancel my paid plan?
 
