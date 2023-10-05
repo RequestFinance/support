@@ -9,7 +9,7 @@ description: >-
 
 ## **Issuing invoices**
 
-## How to create an invoice using Request Finance?
+### How to create an invoice using Request Finance?
 
 Follow the [creating an invoice](getting-started-guide.md#creating-a-digital-currency-invoice-in-a-few-simple-steps) section of our Getting Started Guide, where we dive into the process step-by-step.
 
