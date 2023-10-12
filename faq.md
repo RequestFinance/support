@@ -297,10 +297,6 @@ If you want to use Request Finance to track and pay your payables, we have subsc
 
 Payment terms on an invoice allow the client to know when he should pay. This should be agreed and included in the commercial contract.
 
-A reputation feature is coming soon. Paying on time will be valuable to increase the client’s reputation
-
-We envision to apply automated late fees for late payers. This feature has yet to be prioritized based on user feedback. Let us know if this is something that's useful for you [by sending an email here](mailto:support@request.finance).
-
 ### How do I use the escrow option?
 
 The escrow feature is coming soon. We are building a decentralized escrow feature, replacing the third party by a smart contract to remove the need for trust between businesses.
