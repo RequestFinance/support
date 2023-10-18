@@ -291,11 +291,11 @@ If you want to use Request Finance to track and pay your payables, we have subsc
 
 ### How to get a bank statement?
 
-.csv and .pdf exports are available to export through the [Request Finance dashboard](https://app.request.finance).
+.CSV and .PDF exports are available to export through the [Request Finance dashboard](https://app.request.finance).
 
 ### How do payment terms work? Do we automatically apply late fees?
 
-Payment terms on an invoice allow the client to know when he should pay. This should be agreed and included in the commercial contract.
+Payment terms on an invoice allow the client to know when he should pay. This should be agreed upon and included in the commercial contract.
 
 ### How do I use the escrow option?
 
@@ -313,7 +313,7 @@ When you receive an invoice you may have the option to pay it using another curr
 
 If you choose to do so an on-chain exchange will be called at payment time, and the invoice issuer will receive the currency he expected.
 
-For now this feature is only supported on Ethereum and Polygon between the currencies DAI and USDC.
+For now, this feature is only supported on Ethereum and Polygon between the currencies DAI and USDC.
 
 ### How much does the swap feature cost?
 
@@ -379,6 +379,22 @@ To cancel, simply downgrade to the “Free” plan. You can do this via the subs
 
 ***
 
+## **Account Management**
+
+### How do I change my email?
+
+The process to change your email depends on whether you signed up with an email and password combination or via Google Single Sign-on (SSO).&#x20;
+
+#### I signed up to Request Finance with an email and password
+
+You can edit the email addresses you used to sign up to Request Finance via "Settings" -> ["Personal Settings"](https://app.request.finance/account/profile).&#x20;
+
+#### I signed up to Request Finance with Google SSO
+
+Please contact us at [support@request.finance](mailto:support@request.finance) and we will manually update your email address.&#x20;
+
+***
+
 ## Approval
 
 ### What is the approval step for?
@@ -391,9 +407,9 @@ By default, you only approve the amount of tokens required to pay the current in
 
 ### Approving with Metamask
 
-When approving with Metamask, please make sure to choose the "Use Default" option in the Metamask prompt to make sure that the approval amount provided by Request Finance is used. Using any other option may prevent you from being able to pay.
+When approving with Metamask, please do not edit the pre-filled approval amount to ensure that the approval amount provided by Request Finance is used. Using any other option may prevent you from being able to pay.
 
-Metamask may display a warning message when doing this. Be assured that you will only pay the amount displayed in the Request Finance app, even when choosing unlimited approval.&#x20;
+Metamask may display a warning message when doing this. Be assured that you will only pay the amount displayed in the Request Finance app, even when choosing the "Max" option.&#x20;
 
 ## Payments
 
