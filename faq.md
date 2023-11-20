@@ -189,6 +189,8 @@ Fees for Crypto to Fiat transfers vary based on your pricing subscription plan a
 * Pro: 1% on payment volume
 * Enterprise: Customizable. Please contact us for more information.
 
+The fees are paid on top of the invoice's total amount, by the payer. Example: if you're on a Pro plan and receive a $ 1'000.00 bill, you will pay in total $ 1'010.00 worth of crypto-currency. Your contractor will receive exactly $ 1'000.00 on his bank account.
+
 #### How do I pay fiat invoices using Crypto to Fiat via Request Finance?
 
 To pay fiat invoices, initiate payments just as you would with crypto invoices. Your contractor will receive the funds in their bank account within 1-3 business days.
