@@ -145,7 +145,7 @@ This is done by logging into your account & clicking on the reject button above 
 
 #### What is Crypto to Fiat transfer? <a href="#crypto-to-fiat" id="crypto-to-fiat"></a>
 
-Crypto to Fiat transfer is a service that enables you as a payer to pay your contractors  in cryptocurrency while they receive fiat currency directly in their bank accounts. For example, you can use USDC, USDT, or DAI to pay your contractors in USD, Euro, or other fiat currencies.
+Crypto to Fiat transfer is a service that enables you to pay your contractors in cryptocurrency while they receive fiat currency directly in their bank accounts. For example, you can use USDC, USDT, or DAI to pay your contractors in USD, Euro, or other fiat currencies.
 
 #### How does Crypto to Fiat transfer work?
 
@@ -193,7 +193,7 @@ The fees are paid on top of the invoice's total amount, by the payer. Example: i
 
 #### How do I pay fiat invoices using Crypto to Fiat via Request Finance?
 
-To pay fiat invoices, initiate payments just as you would with crypto invoices. Your contractor will receive the funds in their bank account within 1-3 business days.
+Ask your vendors to sign up with Request Finance. You can do that by sending them an [InvoiceMe link](https://www.request.finance/post/invoiceme-send-pre-filled-invoice-templates-to-suppliers-save-time-and-avoid-errors). To pay fiat invoices, initiate payments just as you would with crypto invoices. Your contractor will receive the funds in their bank account within 1-3 business days.
 
 #### Can I pay salaries and expenses using Crypto to Fiat?
 
@@ -412,15 +412,6 @@ By default, you only approve the amount of tokens required to pay the current in
 When approving with Metamask, please do not edit the pre-filled approval amount to ensure that the approval amount provided by Request Finance is used. Using any other option may prevent you from being able to pay.
 
 Metamask may display a warning message when doing this. Be assured that you will only pay the amount displayed in the Request Finance app, even when choosing the "Max" option.&#x20;
-
-## Payments
-
-### Why do we ask for slightly more than your payment total?
-
-There are two reasons for this, which are as follows:
-
-1. When you are paying for an invoice denominated in fiat prices are calculated on-chain via ChainLink, we ask for a little extra during each payment to account for any exchange rate discrepancies by the time your transaction gets confirmed. e.g. imagine paying a EUR denominated with DAI and the transaction takes a few minutes to confirm, when we check with ChainLink the EUR/DAI price may have dropped slightly. Because of this, we require a small % extra to cover the full amount. After the transaction has been completed, any excess is sent back directly to the payer.
-2. When you are paying via our swap mechanism the swaps can occur slippage from the exchange (e.g. DAI/USDT swap may cause 0.1% slippage + also fees) so again, we ask for extra. After the transaction has been completed, any excess is sent back directly to the payer.
 
 ## **Referral**
 

@@ -11,6 +11,7 @@
 * [Request Escrow](escrow.md)
 * [FAQ](faq.md)
 * [About Request](faq-1.md)
+* [Crypto to Fiat](https://support.request.finance/essentials/faq#payments-with-crypto-to-fiat)
 
 ## Feature articles
 
