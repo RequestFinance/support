@@ -1,39 +1,6 @@
 # Table of contents
 
-* [Request Finance](README.md)
-
-## Essentials
-
-* [What is Request Finance?](essentials/what-is-request-finance.md)
-* [What is a digital currency invoice?](what-is-a-digital-currency-invoice.md)
-* [Getting Started Guide](getting-started-guide.md)
-* [Currencies Supported](currencies-supported.md)
-* [Request Escrow](escrow.md)
-* [FAQ](faq.md)
-* [About Request](faq-1.md)
-* [Crypto to Fiat](https://support.request.finance/essentials/faq#payments-with-crypto-to-fiat)
-
-## Feature articles
-
-* [Easily pay multiple invoices to different wallets in a few clicks](https://www.request.finance/post/pay-multiple-crypto-invoices-with-batch-payment)
-* [Differences in payment & invoice currencies](https://request.network/en/2020/09/23/send-invoices-in-your-preferred-currency-get-paid-in-cryptocurrency/)
-* [InvoiceMe: Send pre-filled invoice template to supplier](https://www.request.finance/post/invoiceme-send-pre-filled-invoice-templates-to-suppliers-save-time-and-avoid-errors)
-* [Fiat-to-crypto payment: Bill your client in EUR and receive EURe (crypto)](https://www.youtube.com/watch?v=k99Q4bI6i2A)
-* [Non-volatile crypto invoices](https://request.network/en/2020/07/14/taking-volatility-out-of-crypto-businesses-with-dai-invoice-payments/)
-* [Accounting proof invoices](https://request.network/en/2020/07/29/keep-accounting-in-your-native-currency-do-business-in-digital-currencies/)
-* [Earn up to $500 when referring Request Finance](https://www.request.finance/post/earn-referral-rewards-in-stablecoins-with-request-finance)
-
-## Additional Resources
-
-* [Learn about Blockchain](https://request.network/en/academy/)
-* [Developer Docs](https://docs.request.network)
-* [Request Finance bug bounty program](additional-resources/request-finance-bug-bounty-program.md)
-
-## Have a question?
-
-* [Ask us on Discord](https://request.network/discord)
-* [Send us a mail](mailto:support@request.finance)
-* [Schedule a call](https://calendly.com/request-invoicing)
+* [Intro](README.md)
 
 ## Legal
 
@@ -42,3 +9,14 @@
 * [Privacy](privacy.md)
 * [Cookies](cookies.md)
 * [Referral Program Terms & Conditions](legal/referral-program-terms-and-conditions.md)
+
+## Have a Question?
+
+* [FAQ](https://help.request.finance/)
+* [Send us a mail](mailto:support@request.finance)
+* [Schedule a call](https://www.request.finance/demo)
+
+## Additional Resources
+
+* [Developer Docs](https://docs.request.network)
+* [Bug Bounty Program](https://help.request.finance/en/articles/8623679-bug-bounty-program-at-request)

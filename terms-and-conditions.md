@@ -73,9 +73,7 @@ You can find more about our Services [here](https://www.request.finance/). Our S
 
 ### Our fees
 
-The fees for our Services are indicated and updated [on this page](https://www.request.finance/pricing) (table included hereunder for your convenience) and/or before any transaction and/or in the quotation made for your particular needs. The fees, which are indicated before the transactions, are deducted directly from your wallet whenever you use our Services. Request reserves the right to modify its prices at any time while guaranteeing the application of the fees in force on the day you use the Services. Request reserves the right to offer promotional offers on its Services from time to time. Any promotional offer will be subject to these T\&Cs, which will prevail in case of disagreement or inconsistency between the terms of the promotional offer and those of the T\&Cs.
-
-<figure><img src=".gitbook/assets/Pricing Table June 2023.png" alt=""><figcaption></figcaption></figure>
+The fees for our Services are indicated and updated [on this page](https://www.request.finance/pricing) and/or before any transaction and/or in the quotation made for your particular needs. The fees, which are indicated before the transactions, are deducted directly from your wallet whenever you use our Services. Request reserves the right to modify its prices at any time while guaranteeing the application of the fees in force on the day you use the Services. Request reserves the right to offer promotional offers on its Services from time to time. Any promotional offer will be subject to these T\&Cs, which will prevail in case of disagreement or inconsistency between the terms of the promotional offer and those of the T\&Cs.
 
 ### Rights regarding our content - All rights reserved <a href="#docs-internal-guid-e1918169-7fff-8612-d04c-15c306a436a3" id="docs-internal-guid-e1918169-7fff-8612-d04c-15c306a436a3"></a>
 

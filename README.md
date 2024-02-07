@@ -1,42 +1,33 @@
----
-description: Welcome to the Request Finance support page!
----
+# Intro
 
-# Request Finance
+## What is Request? <a href="#h_65efafe340" id="h_65efafe340"></a>
 
-{% hint style="info" %}
-This support page contains **guides,** **in-depth product information** and **frequently answered questions** (FAQ) about [Request Finance](https://app.request.finance/). For developers who wish to implement Request, we have separate documentation [here](https://docs.request.finance/).
-{% endhint %}
+Request is an all-in-one finance web application for companies, contractors, and DAOs to easily manage crypto and fiat invoices, bills, salaries, and expenses in a fast, non-custodial, and compliant way.
 
-This space contains everything you need to know about accepting digital currencies as a freelancer or business utilizing Request Finance. You'll find a getting started guide that walks you through using the product step-by-step, in-depth information on what you can do, links to popular articles on our blog & frequently asked questions.
+As a company, you can use Request to:
 
-## How to navigate this documentation
+* Safely pay and get paid in crypto and fiat.
+* Avoid costly double payments.
+* Keep a paper record of each transaction for audits.
+* Save time and gas fees with batch payments.
+* Use a single, powerful platform to manage all your finances, whether it's crypto or fiat.
 
-We've structured the documentation page into four groups:
+As a freelancer, you can use Request to:
 
-* Essential information about the product
-* Popular articles about product features
-* Additional resources you might find interesting
-* Ways to get in contact with us
+* Send beautiful invoices to your clients.
+* Get paid in crypto and fiat.
+* Keep track of your invoices.
 
-To get started, we advise you to go through the following pages chronologically:
+## Who uses Request? <a href="#h_0927c017f8" id="h_0927c017f8"></a>
 
-{% content-ref url="essentials/what-is-request-finance.md" %}
-[what-is-request-finance.md](essentials/what-is-request-finance.md)
-{% endcontent-ref %}
+From contractors and small companies to corporates — Request is used by a range of leaders in the web3 industry. With four fixed plans, including a Free plan and a custom offer, we cater to each. You can find our plans [here](https://www.request.finance/pricing).
 
-{% content-ref url="what-is-a-digital-currency-invoice.md" %}
-[what-is-a-digital-currency-invoice.md](what-is-a-digital-currency-invoice.md)
-{% endcontent-ref %}
+## Is Request for you? <a href="#h_c45f00b30a" id="h_c45f00b30a"></a>
 
-{% content-ref url="getting-started-guide.md" %}
-[getting-started-guide.md](getting-started-guide.md)
-{% endcontent-ref %}
+[Start a free trial](https://www.request.finance/pricing) to find out. No commitment or credit card is required.
 
-{% content-ref url="faq.md" %}
-[faq.md](faq.md)
-{% endcontent-ref %}
+## Important Links <a href="#h_65efafe340" id="h_65efafe340"></a>
 
-{% content-ref url="faq-1.md" %}
-[faq-1.md](faq-1.md)
-{% endcontent-ref %}
+* [Legals](broken-reference)&#x20;
+* [FAQ](https://help.request.finance/en/)
+* [Get support](mailto:support@request.finance)
