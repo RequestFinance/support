@@ -9,6 +9,7 @@
 * [Privacy](privacy.md)
 * [Cookies](cookies.md)
 * [Referral Program Terms & Conditions](legal/referral-program-terms-and-conditions.md)
+* [Transaction Cover Terms & Conditions (“Transaction Cover”)](legal/transaction-cover-terms-and-conditions-transaction-cover.md)
 
 ## Have a Question?
 

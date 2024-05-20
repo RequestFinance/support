@@ -1,5 +1,7 @@
 # Terms & Conditions
 
+PLEASE READ THE FOLLOWING TERMS & CONDITIONS CAREFULLY. BY ACCESSING AND/OR USING OUR WEBSITES AND SERVICES, YOU HEREBY AGREE TO BE BOUND BY THESE TERMS AND CONDITIONS AND ALL TERMS INCORPORATED HEREIN BY REFERENCE. IT IS YOUR RESPONSIBILITY TO READ THE TERMS AND CONDITIONS BEFORE PROCEEDING TO USE THIS SITE. IF YOU DO NOT EXPRESSLY AGREE TO ALL OF THE TERMS AND CONDITIONS, THEN PLEASE DO NOT ACCESS OR USE OUR WEBSITES OR OUR SERVICES.
+
 ## Who are we? <a href="#docs-internal-guid-f5a1c120-7fff-955f-1f87-9d275129f3b4" id="docs-internal-guid-f5a1c120-7fff-955f-1f87-9d275129f3b4"></a>
 
 Request Finance (hereinafter "Request" or “Request Finance”) is a French “société par actions simplifiée” (simplified joint stock company) with a capital of 1000 euros, whose headquarters is located at 722 Route de Norcier - 74160 Saint-Julien-en-Genevois; registered in the Thonon-les-Bains RCS under No. 880 400 106, and represented by its President, Mr. LASSUYT Christophe.
@@ -9,15 +11,15 @@ The Request protocol is provided by Request Network Stiftung, Baarerstrasse 82, 
 ## What should you know at a glance? <a href="#docs-internal-guid-8d7328fd-7fff-2e0e-c011-b87490d58ef4" id="docs-internal-guid-8d7328fd-7fff-2e0e-c011-b87490d58ef4"></a>
 
 * **Acceptance**. By using our Services, you agree that you have read, understood, and accept all of the Terms & Conditions, [the Cookie Policy](https://support.request.finance/legal/cookies), and [the Privacy Policy](https://support.request.finance/legal/privacy).
-* **“You” or “your”** means you as a professional and the company, organization, and/or entity electronically accessing our Services.
+* **“You” or “your”** means you as a professional and the company (and its employees), organization, and/or entity electronically accessing our Services.
 * **Our DNA**. Request Finance is a professional web application for Companies, DAOs, and professionals to easily manage crypto invoices, salaries, and expenses in a fast and non-custodial way. You will find a non-exhaustive list of our Services [here](https://www.request.finance/).
 * **Privacy**. We respect your privacy, as explained in the [Cookie Policy](https://support.request.finance/legal/cookies) and [Privacy Policy](https://support.request.finance/legal/privacy).&#x20;
 * **DPA**. The DPA attached to these T\&Cs governs the processing of personal data carried out on Your behalf, as a data controller, by Request Finance, as a data processor.
 * **Termination**. You may request to terminate your account anytime at support@request.finance.&#x20;
 * **IP**. All legal rights, including all intellectual property rights, are Request’s property.&#x20;
 * **Disclaimer**. Request does not monitor, authorize or check the correctness or completeness of transactions before you authorize them.
-* **Warranty**. Our Services are provided "as is" and “as available”.
-* **Liability**. To the maximum extent permitted by the applicable laws, Request will not be liable for any damage or loss arising from your use of our Services.
+* **Warranty**. OUR SERVICES ARE PROVIDED "AS IS" AND “AS AVAILABLE”.
+* **Liability**. TO THE MAXIMUM EXTENT PERMITTED BY THE APPLICABLE LAWS, REQUEST WILL NOT BE LIABLE FOR ANY DAMAGE OR LOSS ARISING FROM YOUR USE OF OUR SERVICES.
 * **Law & jurisdiction**. Use of our Services is governed by the laws of France and subject to the exclusive jurisdiction of the commercial court of Paris.
 
 ## What about these Terms & Conditions? <a href="#docs-internal-guid-a7e5b3b8-7fff-c6ee-a25a-959908d2af8c" id="docs-internal-guid-a7e5b3b8-7fff-c6ee-a25a-959908d2af8c"></a>
@@ -36,7 +38,7 @@ To use all features of our Services, you may have to create a user account by pr
 
 If you are a minor or a protected person, you declare and acknowledge that you have obtained the authorization of the holder(s) of your parental authority, your employer, or of your guardian, who agree to be guarantors of the respect of all the provisions of the present T\&Cs, and who is responsible for your use of our Services.
 
-You can terminate your account and stop using our Services anytime by directly contacting Request at the contact details provided in this document. All amounts due and/or paid for any monthly or annual subscription are acquired upon subscription and cannot be refunded. Concerning the:
+You can terminate your account and stop using our Services anytime by directly contacting Request at support@request.finance. All amounts due and/or paid for any monthly or annual subscription are acquired upon subscription and cannot be refunded. Concerning the:
 
 * annual subscription, the contract will be renewed for the same duration and excluding any discount and commercial gesture granted the first year, in the absence of denunciation by you at least two (2) months prior to the anniversary date;
 * monthly subscription, the contract may be terminated at any time without prior notice.
@@ -45,7 +47,7 @@ You can terminate your account and stop using our Services anytime by directly c
 
 You are responsible for keeping your login credentials confidential and safe. For this reason, you must also choose a password that meets the highest standards of strength. We recommend making it long and using a mix of characters. In no event shall Request be liable for the loss or theft of your login Information or its fraudulent use. You are solely responsible for using your account by others and for actions or statements made through it, whether fraudulent or not. You hold Request harmless from any such claim caused by your fault or negligence.
 
-You are required to immediately and unambiguously inform Request via the contact details indicated in this document if you think your personal information, including but not limited to account, access credentials, or personal data, has been violated, unduly disclosed, or stolen.
+You are required to immediately and unambiguously inform Request at privacy@request.finance if you think your personal information, including but not limited to account, access credentials, or personal data, has been violated, unduly disclosed, or stolen.
 
 ### Minimum configuration of your computer <a href="#docs-internal-guid-35f0ca89-7fff-2d81-9294-2fe64e992fad" id="docs-internal-guid-35f0ca89-7fff-2d81-9294-2fe64e992fad"></a>
 
@@ -61,11 +63,11 @@ Request is only bound by an obligation of means concerning the accessibility, op
 
 Request reserves the right, at its sole discretion, to suspend or delete any user account and/or domain name and wallet linked to it that it deems inappropriate, suspect, offensive, or in violation of these T\&Cs at any time and without prior notice. Such suspension or deletion shall not entitle you to any claims for compensation, damages, or reimbursement. The suspension or deletion of the account is without prejudice to any other damages that Request may seek in such a case.
 
-In addition to the above, Request expressly reserves the right to terminate an account in case of inactivity for 24 (twenty-four) consecutive months. This period is calculated from your last connection to your account. You will be informed by email of the upcoming deactivation of your account during the month preceding the deactivation.
+In addition to the above, Request is required by law to delete an account in case of inactivity for 24 (twenty-four) consecutive months. This period is calculated from your last connection to your account. You will be informed by email of the upcoming deactivation of your account during the month preceding the deactivation.
 
-## What are our Services and commitments?
+## What are our Services, fees, and commitments?
 
-Unless otherwise specified or recognizable, all content available on our Services is owned or provided by Request or its licensors. Request undertakes its utmost effort to ensure that the content provided on Request infringes no applicable legal provisions or third-party rights. However, it may not always be possible to achieve such a result. In such cases, without prejudice to any legal prerogatives of any third party to enforce their rights, you are kindly asked to preferably **report related complaints using the contact details provided in this document**.
+Unless otherwise specified or recognizable, all content available on our Services is owned or provided by Request or its licensors. Request undertakes its utmost effort to ensure that the content provided on Request infringes no applicable legal provisions or third-party rights. However, it may not always be possible to achieve such a result. In such cases, without prejudice to any legal prerogatives of any third party to enforce their rights, you are kindly asked to preferably **report related complaints at support@request.finance**.
 
 ### Our Services <a href="#docs-internal-guid-6bad60c1-7fff-5023-7108-a1fefe1d5834" id="docs-internal-guid-6bad60c1-7fff-5023-7108-a1fefe1d5834"></a>
 
@@ -73,7 +75,7 @@ You can find more about our Services [here](https://www.request.finance/). Our S
 
 ### Our fees
 
-The fees for our Services are indicated and updated [on this page](https://www.request.finance/pricing) and/or before any transaction and/or in the quotation made for your particular needs. The fees, which are indicated before the transactions, are deducted directly from your wallet whenever you use our Services. Request reserves the right to modify its prices at any time while guaranteeing the application of the fees in force on the day you use the Services. Request reserves the right to offer promotional offers on its Services from time to time. Any promotional offer will be subject to these T\&Cs, which will prevail in case of disagreement or inconsistency between the terms of the promotional offer and those of the T\&Cs.
+The fees for our Services are indicated and updated [on this page](https://www.request.finance/pricing) and/or before any transaction and/or in the quotation made for your particular needs. If any, the fees, which are indicated before the transactions, are deducted directly from your wallet whenever you use our Services. Request reserves the right to modify its prices at any time while guaranteeing the application of the fees in force on the day you use the Services. Request reserves the right to offer promotional offers on its Services from time to time. Any promotional offer will be subject to these T\&Cs, which will prevail in case of disagreement or inconsistency between the terms of the promotional offer and those of the T\&Cs.
 
 ### Rights regarding our content - All rights reserved <a href="#docs-internal-guid-e1918169-7fff-8612-d04c-15c306a436a3" id="docs-internal-guid-e1918169-7fff-8612-d04c-15c306a436a3"></a>
 
@@ -111,7 +113,7 @@ By using the e-commerce checkout module, you accept:
 *   You, as a data controller, authorize us, as a data processor, to process personal data
 
     controlled by you and provided to us (information about your clients) on your behalf and pursuant to your instructions for the sole purpose of providing our Services. The data will be processed in accordance with the Data Processing Agreement between us. By accepting these T\&Cs, you accept the Data Processing Agreement as well, which can be found on our website;
-* Request reserves the right to suspend, postpone, and/or freeze the Services or to terminate our contract if your actions are violating public order or norms of good morals;
+* Request reserves the right to suspend, postpone, and/or freeze the Services or to terminate our contract if your actions violate public order or norms of good morals;
 * You are personally responsible for compliance of your services and products with the national & international laws and regulations applicable to your activities, especially regarding AML/CFT, KYC/B, competitive law, crypto & blockchain regulations, etc.;
 * Within the framework of the transaction carried out by your customer via our module, the possible legal relations are between you and your customers, and in no case between them and Request Finance (which will remain a third party, only in commercial relationship with you).
 
@@ -146,7 +148,7 @@ YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE SERVICES IS AT YOUR SOLE
 * ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE THAT MAY BE TRANSMITTED TO OR THROUGH OUR SERVICES;
 * THE DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT OF ANY USER OR THIRD PARTY USING OUR SERVICES.
 
-IN ANY CASE, IN NO EVENT SHALL REQUEST, AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, DIRECTORS, AGENTS, CO-BRANDERS, PARTNERS, SUPPLIERS, AND EMPLOYEES BE LIABLE FOR ANY CLAIMS, PROCEEDINGS, LIABILITIES, OBLIGATIONS, DAMAGES, LOSSES, OR COSTS IN AN AMOUNT EXCEEDING, TO THE FULLEST EXTENT PROVIDED BY LAW, (a) 100 EUROS; OR (b) THE AMOUNTS PAID BY CUSTOMER TO REQUEST, IF ANY, IN CONNECTION WITH THE SERVICES IN THE 12 MONTH PERIOD PRECEDING THIS APPLICABLE CLAIM.
+IN NO EVENT WILL REQUEST AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, DIRECTORS, AGENTS, CO-BRANDERS, PARTNERS, SUPPLIERS, AND EMPLOYEES- AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT UNDER ANY LEGAL OR EQUITABLE THEORY, INCLUDING BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, AND OTHERWISE EXCEED 1 TIMES THE TOTAL AMOUNTS PAID TO REQUEST UNDER THIS AGREEMENT IN THE 3 MONTHS PERIOD PRECEDING THE EVENT GIVING RISE TO THE CLAIM OR $100, WHICHEVER IS LESS.
 
 THIS LIMITATION OF LIABILITY SECTION SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW IN THE APPLICABLE JURISDICTION WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR ANY OTHER BASIS, EVEN IF THE COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES. THEREFORE THE ABOVE LIMITATIONS OR EXCLUSIONS MAY NOT APPLY IN THESE CASES.
 
@@ -192,6 +194,7 @@ The transaction details you submit via our Services may not be completed or subs
 
 By using our Services, you:
 
+* agree you will pay our fees, in time and accordingly to these T\&Cs, otherwise we may revoke your rights to the Services without prior notice;
 *   agree to use it in good faith and not to make any use of the Services that would be
 
     contrary to or violate any laws, regulations, or any third-party rights;
@@ -204,9 +207,7 @@ By using our Services, you:
 *   won’t use our Services to scam, bribe, or participate in any fraud aimed at a third party or
 
     another user of our Services;
-*   are solely responsible for the information you upload or provide Request and undertake
-
-    to update it when necessary;
+* are solely responsible for the information you upload or provide Request and undertake to furnish and update factual, correct, current, and complete information with regards to yourself as may be requested. If anyone knowingly provides any information of a false, untrue, inaccurate or incomplete nature, Request will have sufficient grounds and rights to suspend and/or terminate your account;
 *   must be a legally incorporated and existing company or a natural person of legal age in
 
     its jurisdiction. You also agree to provide on-demand, legitimate and lawful
@@ -238,6 +239,17 @@ By using our Services, you:
 
 Request’s failure to assert any right or provision under these T\&Cs shall not constitute a waiver of these last. No waiver shall be considered a further or continuing waiver of such term.
 
+### Partners Policy
+
+Request works with partners to provide you with some services and products. Below, and for your convenience only, is a list of links referring to our partners' T\&Cs for such services and products:&#x20;
+
+* Pay.so Core: [Here](https://cheqxyz.notion.site/Terms-Conditions-Pay-so-Core-b1fbe854499a4acdb376d03665649ee2)&#x20;
+* OpenCover: [Here](https://app.gitbook.com/o/-LBPEk9k7ap5J4UBioon/s/-MJ21-Ms-rAz8W-gZk95/\~/changes/130/legal/transaction-cover-terms-and-conditions-transaction-cover)
+
+### Foreign access
+
+Our websites and Services are controlled, operated, and administered by Request from France. If you access them from a location outside of France, you are responsible for compliance with all local laws. You agree that you will not use Request’s content accessed through our websites and Services in any country or in any manner prohibited by any applicable laws, restrictions or regulations.&#x20;
+
 ### Privacy policy
 
 To learn more about our use of personal data, you can refer to our [Privacy Policy](https://support.request.finance/legal/privacy).&#x20;
@@ -260,7 +272,7 @@ These T\&Cs, with the Cookie policy and Privacy policy, are the entire contract 
 
 THESE T\&CS ARE GOVERNED BY FRENCH LAW. THE EXCLUSIVE COMPETENCE TO DECIDE ON ANY CONTROVERSY RESULTING FROM OR CONNECTED TO THESE T\&CS LIES WITH THE COMMERCIAL COURT OF PARIS.
 
-WHILE YOUR RIGHT TO TAKE LEGAL ACTION SHALL ALWAYS REMAIN UNAFFECTED, IN THE EVENT OF ANY CONTROVERSY REGARDING THE USE OF OUR SERVICES, YOU MUST ALWAYS CONTACT REQUEST AT THE CONTACT DETAILS PROVIDED IN THIS DOCUMENT. REQUEST WILL PROCESS THE COMPLAINT WITHOUT UNDUE DELAY AND WITHIN 30 DAYS OF RECEIVING IT.
+WHILE YOUR RIGHT TO TAKE LEGAL ACTION SHALL ALWAYS REMAIN UNAFFECTED, IN THE EVENT OF ANY CONTROVERSY REGARDING THE USE OF OUR SERVICES, YOU MUST ALWAYS CONTACT REQUEST AT SUPPORT@REQUEST.FINANCE. REQUEST WILL PROCESS THE COMPLAINT WITHOUT UNDUE DELAY AND WITHIN 30 DAYS OF RECEIVING IT.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -303,6 +315,8 @@ The Processor shall comply with GDPR in the processing of Company Personal Data.
 
 In particular but without prejudice to the generality of the foregoing, the Company acknowledges and agrees that it will be solely responsible for: (i) the accuracy, quality, and legality of data and the means by which it acquired it; (ii) complying with all necessary transparency and lawfulness requirements under applicable Data Protection Laws for the collection and use of the Company Personal Data, including obtaining any necessary consents and authorizations; (iii) ensuring it has the right to transfer or provide access to, the Company Personal Data to the Processor and SubProcessors. The Company will inform the Processor without undue delay if it is not able to comply with its responsibilities under this section or applicable Data Protection Laws.
 
+The Company shall ensure that the processing of Personal Data in accordance with its instructions will not cause Company to be in breach of the Data Protection Laws. The Company shall not provide or make available to Processor any Personal Data in violation of the Agreement or otherwise inappropriate for the nature of the Services, and shall indemnify the Processor from all claims and losses in connection therewith.
+
 #### 3. Processor Personnel
 
 The Processor shall take reasonable steps to ensure the reliability of any employee, agent, or Subprocessor who may have access to the Company Personal Data, ensuring in each case that access is strictly limited to those individuals who need to know/access the relevant Company Personal Data, and to comply with applicable laws, ensuring that all such individuals are subject to confidentiality undertakings or professional or statutory obligations of confidentiality.
@@ -321,7 +335,7 @@ The Company agrees the Processor may engage Subprocessors to process Company Per
 
 #### 6. Data Subject Rights
 
-Taking into account the nature of the processing, the Processor shall assist the Company, insofar as possible, to fulfill the Company’s obligations, as reasonably understood by the Company, to respond to requests to exercise Data Subject rights under the Data Protection Laws.
+Taking into account the nature of the processing, the Processor shall assist the Company, insofar as this is possible, for the fulfillment of the Company’s obligations, as reasonably understood by the Company, to respond to requests to exercise Data Subject rights under the Data Protection Laws. The Company will be responsible for responding to such request, including, where necessary, by using the functionality of the Services. The Company is solely responsible for ensuring that Data Subject Requests for erasure, restriction or cessation of processing, or withdrawal of consent to processing of any Personal Data are communicated to the Data Processor, and, if applicable, for ensuring that a record of consent to processing is maintained with respect to each Data Subject.
 
 The Processor shall:
 
@@ -348,11 +362,30 @@ ArParties shall ensure that the personal data are adequately protected. To achie
 
 #### 11. Audit
 
-Subject to this section, the Processor shall make available to the Company on request all information necessary to demonstrate compliance with this Agreement.\
+Subject to this section, the Processor shall make available to the Company on request all information necessary to demonstrate compliance with this Agreement.
 
+#### 12. Processor’s Role as a Controller.&#x20;
+
+The Data Processor will process its accounts data and usage data as a controller (i) to manage the relationship with the Company; (ii) to carry out its core business operations, such as accounting, audits, tax preparation and filing and compliance purposes; (iii) to monitor, investigate, prevent and detect fraud, security incidents and other misuse of the Services, and to prevent harm to Company; (iv) for identity verification purposes; (v) to comply with legal or regulatory obligations applicable to the processing and retention of Personal Data to which it is subject; and (vi) as otherwise permitted under Data Protection Laws and in accordance with this DPA and the Agreement. Processor may also process usage data as a controller to provide, optimize, and maintain the Services, to the extent permitted by Data Protection Laws.
+
+#### 13. Details of Processing
+
+The Processor will process the Company’s Personal Data as necessary to provide the Services under the Agreement, for the purposes specified in the Agreement and this DPA, and in accordance with Company’s instructions as set forth in this DPA. The nature of processing includes, without limitation:&#x20;
+
+* Receiving data, including collection, accessing, retrieval, recording, and data entry;
+* Protecting data, including restricting, encrypting, and security testing;&#x20;
+* Holding data, including storage, organization, and structuring;
+* Erasing data, including destruction and deletion;
+* Analyzing data, including product usage assessment;
+* Sharing data, including disclosure to subprocessors as permitted in this DPA.
+
+Processor will process Company’s Personal Data as long as required (i) to provide the Services to it under the Agreement; (ii) for its legitimate business needs; or (iii) by applicable law or regulation.
+
+Processor processes Personal Data contained in account data, usage data, and any Personal Data provided by the Company or collected by the Data Processor in order to provide the Services or as otherwise set forth in the Agreement or this DPA. Categories of Personal Data include name, email, job title, username, device identifiers, IP address, background check verification records (at discretion of Processor), etc.
 
 ## **Previous Terms & Conditions**
 
 You can find our previous Terms & Conditions here:&#x20;
 
-* [Valid till 21st June 2023](https://uploads-ssl.webflow.com/606beb3b434b8b21edd72827/6486e4e7d4b5647da1f309da\_Terms%20%26%20Conditions%2002\_2023%20.pdf)
+* [Valid from 21st of June 2023 till 31st of May 2024](https://uploads-ssl.webflow.com/606beb3b434b8b21edd72827/664b1699298eb085fc4f19de\_Terms%20%26%20Conditions%20-%20valid%20from%20the%2021st%20of%20June%202023%20till%20the%2031st%20of%20May%202024.pdf)
+* [Valid till 21st of June 2023](https://uploads-ssl.webflow.com/606beb3b434b8b21edd72827/6486e4e7d4b5647da1f309da\_Terms%20%26%20Conditions%2002\_2023%20.pdf)
