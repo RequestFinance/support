@@ -34,7 +34,7 @@ Request reserves the right to amend or otherwise modify these T\&Cs at any time.
 
 ### Account registration and termination
 
-To use all features of our Services, you may have to create a user account by providing all required data and information and keeping it updated. Failure to do so can cause the unavailability of some Services. If you forget your password, you must click on "Forgot your password?" and enter your e-mail address. You will then receive an email with instructions to set a new password.
+To use all features of our Services, you may have to create a user account by providing all required data and information and keeping it updated. Failure to do so can cause the unavailability of some Services. If you forget your password, you must click on "Forgot your password?" and enter your e-mail address. You will then receive an email with instructions to set a new password. Insofar as the creation of an account allows access to all of our Services; Request reserves the right to extend the validity of your account to all of our Services, websites, or applications when you create an account on any of our Services, websites, or applications.
 
 If you are a minor or a protected person, you declare and acknowledge that you have obtained the authorization of the holder(s) of your parental authority, your employer, or of your guardian, who agree to be guarantors of the respect of all the provisions of the present T\&Cs, and who is responsible for your use of our Services.
 
