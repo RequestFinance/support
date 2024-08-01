@@ -54,7 +54,7 @@ The Reward will be paid in the cryptocurrency you specified in the Request Finan
 
 ## What will the referee get?&#x20;
 
-Using your link, the referee will get a free month on the selected subscription plan.&#x20;
+Using your link, the referee will get a 45-day free trial on the selected subscription plan.&#x20;
 
 ## What other legal information should you know?
 
