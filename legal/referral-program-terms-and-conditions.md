@@ -40,13 +40,11 @@ You will be notified once the referee completes the above steps and are eligible
 
 The Rewards are as follows:&#x20;
 
-| When the referee subscribes and pays a | You get a one-time payment of  |
-| -------------------------------------- | ------------------------------ |
-| Free plan                              | Nothing                        |
-| Starter plan                           | $40 in cryptocurrency          |
-| Growth plan                            | $125 in cryptocurrency         |
-| Pro plan                               | $250 in cryptocurrency         |
-| Enterprise plan                        | $500 in cryptocurrency         |
+| When the referee subscribes and pays a | You get a one-time payment of        |
+| -------------------------------------- | ------------------------------------ |
+| Free plan                              | Nothing                              |
+| Basic plan                             | $150 in cryptocurrency               |
+| Pro/Premium plan                       | Custom; up to $500 in cryptocurrency |
 
 Your Reward(s) will be paid directly to the wallet you indicated in the Request Finance web app within 30 days after your referee fulfills the requirements.
 
