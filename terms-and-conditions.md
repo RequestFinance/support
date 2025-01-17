@@ -6,6 +6,8 @@ PLEASE READ THE FOLLOWING TERMS & CONDITIONS CAREFULLY. BY ACCESSING AND/OR USIN
 
 Request Finance (hereinafter "Request" or “Request Finance”) is a French “société par actions simplifiée” (simplified joint stock company) with a capital of 1000 euros, whose headquarters is located at 722 Route de Norcier - 74160 Saint-Julien-en-Genevois; registered in the Thonon-les-Bains RCS under No. 880 400 106, and represented by its President, Mr. LASSUYT Christophe.
 
+The crypto-to-fiat services, also covered by these T\&Cs, are provided by Request Technologies UAB a private limited liability company registered in the Republic of Lithuania with the company registration number 306291868, with a registered office Gedimino avn. 20, Vilnius, the Republic of Lithuania, registered as a Virtual Asset Service Provider (VASP) in the Lithuanian Legal Entities Register. Request Technologies UAB is supervised by the Bank of Lithuania (hereinafter "Request Technologies"). Request Technologies UAB services in the text will be used as subsidiaries services.
+
 The Request protocol is provided by Request Network Stiftung, Baarerstrasse 82, ℅ Abafin Treuhand AG - 6302 Zug, Switzerland.
 
 ## What should you know at a glance? <a href="#docs-internal-guid-8d7328fd-7fff-2e0e-c011-b87490d58ef4" id="docs-internal-guid-8d7328fd-7fff-2e0e-c011-b87490d58ef4"></a>
@@ -24,7 +26,7 @@ The Request protocol is provided by Request Network Stiftung, Baarerstrasse 82, 
 
 ## What about these Terms & Conditions? <a href="#docs-internal-guid-a7e5b3b8-7fff-c6ee-a25a-959908d2af8c" id="docs-internal-guid-a7e5b3b8-7fff-c6ee-a25a-959908d2af8c"></a>
 
-These Terms & Conditions (hereinafter "T\&Cs" or “Terms & Conditions”) govern the use of our “Services”. Services include (a) the access and use of Request websites (including its subdomains) and applications, (b) tools, reporting, and related technologies, (c) all software, features, files, source code, scripts, content, instruction sets, Application Program Interfaces (API) as well as any related documentation, (d) any future or other related service or contractual relationship with Request.&#x20;
+These Terms & Conditions (hereinafter "T\&Cs" or “Terms & Conditions”) govern the use of our “Services”. Services include (a) the access and use of Request websites (including its subdomains and subsidiaries services) and applications, (b) tools, reporting, and related technologies, (c) all software, features, files, source code, scripts, content, instruction sets, Application Program Interfaces (API) as well as any related documentation, (d) any future or other related service or contractual relationship with Request.&#x20;
 
 By using our Services, you agree that you have read, understood, and accepted all of the T\&Cs, the [Cookie Policy](https://support.request.finance/legal/cookies), and the [Privacy Policy](https://support.request.finance/legal/privacy) incorporated herein by reference and amended from time to time. You must not use the Services if you don’t agree with those terms. You are responsible for ensuring that all persons who access or use the Services through your device, company account, or internet connection are aware of those documents and that they comply with them.
 
@@ -38,7 +40,7 @@ To use all features of our Services, you may have to create a user account by pr
 
 If you are a minor or a protected person, you declare and acknowledge that you have obtained the authorization of the holder(s) of your parental authority, your employer, or of your guardian, who agree to be guarantors of the respect of all the provisions of the present T\&Cs, and who is responsible for your use of our Services.
 
-You can terminate your account and stop using our Services anytime by directly contacting Request at support@request.finance. All amounts due and/or paid for any monthly or annual subscription are acquired upon subscription and cannot be refunded. Concerning the:
+You can terminate your account and stop using our Services anytime (unless we or our partners suspect you are doing so to evade investigation) by directly contacting Request at support@request.finance. All amounts due and/or paid for any monthly or annual subscription are acquired upon subscription and cannot be refunded. Concerning the:
 
 * annual subscription, the contract will be renewed for the same duration and excluding any discount and commercial gesture granted the first year, in the absence of denunciation by you at least two (2) months prior to the anniversary date;
 * monthly subscription, the contract may be terminated at any time without prior notice.
@@ -100,6 +102,39 @@ Through our Services, you may have access to external resources or services prov
 ### API usage terms
 
 Any use of our API service, including the API through a third-party product/service that accesses our Services, is bound by these T\&Cs. You expressly understand and agree that Request bears no responsibility and shall not be held liable for any damages or losses resulting from the incorrect use of our API or your use of any third-party products/services that access data through our API. You always remain responsible for the integration and use of our API.
+
+### Crypto-to-Fiat
+
+Request Technologies offers and uses an API, relying on Payment service providers (“PsP”), to facilitate exchanges between cryptocurrency (”Crypto”) and traditional currency (”Fiat”) and handle fiat payouts through SWIFT or local payment methods such as SEPA in many countries around the world. Request Technologies offers its services to business users or to other businesses (”Partners”) who want to offer fiat capabilities to their customers (”End Users”). Payments are conducted by creating “Offramps”. Creating an Offramp involves a Partner or business user notifying Request Technologies that it or an End User wants a specific amount of Fiat (”Destination Amount”) to arrive in a specific bank account (”Destination Bank”). Request Technologies returns a “Deposit Address”- a cryptocurrency wallet address dedicated to the business user or End User- to which the business user or End User transfers Crypto, and an “Exchange Rate” specifying the amount of Crypto required to fulfill the Destination Amount. Upon successful deposit, Request Technologies can choose to accept or reject the transaction based on a number of risk factors. If accepted, Request Technologies will endeavor to fulfill the delivery of the Destination Amount to the Destination Bank through its PsP partners. You authorize us to share your Data and Offramp information with our PsP partners.
+
+You may not cancel an Offramp after we have commenced processing it. If you cancel your Offramp and you have not provided sufficient information in order for us to return your funds, we will hold your funds as required by law. You are solely responsible for reviewing your Offramp receipts for accuracy and for monitoring your Offramp history for any errors or any potentially fraudulent activity. You hereby waive your right to dispute an Offramp. You are responsible for ensuring that you- in your respective capacity as either an End User or a Partner- submit the appropriate information when you create an Offramp. In the event that the Partner creates an Offramp on behalf of an End User with details different from those submitted by the End User, any actions of remediation are the responsibility of the Partner.
+
+Request Technologies can reject the Offramp in advance of or after the transfer of Crypto to the Deposit Address has been made. Some of the reasons for rejection include, but are not limited to: a change in the underlying value of the Fiat or Crypto currency, too much time passing between the creation of an Offramp and the completion of the Crypto deposit, suspicions on the identity of the sender or the recipient, or suspicions around the nature of the transaction.
+
+By accessing these services, you represent and warrant to us that: (a) you are at least 18 years old; (b) you have not previously been suspended or removed from the services; (c) your registration and your use of the services is in compliance with any and all applicable laws and regulations; and (d) you answered our KYC/KYB checks accurately and without deception. If you are an entity, organization, or company, the individual accepting these Terms on your behalf represents and warrants that they have the authority to bind you to these Terms and you agree to be bound by these Terms. If your identity information or usage of the service reveals that you are not eligible to use the service (because you are connected with a prohibited jurisdiction or otherwise), then you accept that we can close your account and prevent you from re-joining the service.&#x20;
+
+As a regulated service, we will monitor use of your account to ensure it is in compliance with our legal guidelines (”AML Compliance Program”) on an ongoing basis to prevent financial crimes.
+
+### KYC, KYB, KYT & AML
+
+To grant you access to some of our services (Crypto-to-fiat, etc.), we may, at our sole discretion or as otherwise required by law, conduct appropriate Know-Your-Business (KYB) and/or Anti-Money Laundering (AML) procedures, for which you will need to register in full and provide us with specified documents and information to prove and establish your identity.&#x20;
+
+During registration, you may need to provide, including but not limited to, your full name and/or the full legal name of the entity that you represent or acting on behalf of, whenever applicable, residential address or incorporation/business address, date of birth or date of incorporation, nationality, contact number, and email address.&#x20;
+
+The KYC/KYB documentation that we may request may include, but not limited to the following:
+
+* Proof of identity or incorporation, including any relevant business registration documents, annual returns etc.;
+* Proof of address/financial documents, such as bank statements;
+* Articles of Association & shareholding chart;
+* Proof of source of funds or wealth, for example investment statements or SAFE agreements.&#x20;
+
+We may suspend, terminate or reject your account or the business relationship until a satisfactory identification document or documentary evidence on the source of funds or wealth is provided. If any of your KYB documentation expires or is no longer valid, we have the right to request additional valid and non-expired KYB documentation from you.&#x20;
+
+You agree to allow your information (individual or corporate) to be disclosed to Request Technologies’s service providers for the purposes of KYB verification and any other screening checks. You further agree, represent, and warrant that by providing us your information, including information on any related or connected parties, you undertake that the disclosure of any personal data to Request Technologies is for our purpose and is within the scope of the consent given to you by such related or connected parties.
+
+We only authorize Offramps using funds belonging to the user. You are not allowed to use funds that do not belong to you to place Offramps, and you cannot place Offramps on behalf of a third party. Each time you place an Offramp, you are promising that you own the funds used by you to execute the Offramp, and that the funds are not the direct or indirect proceeds of any criminal or fraudulent activity. To respect the best standards in the field of AML, we are processing KYT controls for every new Offramp you will process. Then, we may limit the amount and frequency of your Offramps in a given time period. These limits may depend on when you opened your account, the Personal Data you provided us, and a variety of other risk factors.
+
+You will not use the Request Technologies services to undertake or enable by you or any third party (the “Prohibited Activities List”): unlawful or abusive activity, fraud, unlawful gambling, intellectual property infringement, investment or credit services, check cashing, bail bonds, collections agencies, counterfeit or unauthorized goods, drugs, and drug paraphernalia (including pseudo pharmaceuticals), substances designed to mimic illegal drugs, illegal adult content and services, multi-level marketing, unfair, predatory or deceptive practices, money services, and any business that Request Technologies believes poses elevated financial risk, legal liability, or violate card network rules or bank policies. Request Technologies may update this Prohibited Activities List at any time upon notice to you.
 
 ### E-commerce checkout
 
@@ -190,6 +225,15 @@ Request enables you to operate transactions directly on a supporting blockchain 
 
 The transaction details you submit via our Services may not be completed or substantially delayed due to activity or lack thereof on the blockchain used to process the transaction. Once transaction details have been submitted through your wallet, Request cannot assist you in canceling or modifying your transaction details. Request is not an international payroll or accounting provider and does not provide compliance solutions for payroll and accounting processing. You are solely responsible for compliance with all local laws and regulations. Request makes no warranties that using its Services to facilitate transactions, involving digital assets, enables you to meet any such obligations.
 
+### What we don’t offer?&#x20;
+
+By accessing or using our Services, you understand that:
+
+* Request Finance is an unregulated platform based on DeFi;
+* Request Technologies is merely a VASP technology service and is not a bank, a PsP, or a money transmitter. We extensively use third parties PsPs to deliver our crypto-to-fiat services. These partners are solely responsible for the safety and safe handling of the funds.
+
+We do not provide a payment service according to Directive 2015/2366/EC on payment services in the internal European market. When you accept these Terms of Service, you consent to us using third parties to provide you with a payment service.
+
 ## What about you?&#x20;
 
 By using our Services, you:
@@ -241,10 +285,16 @@ Request’s failure to assert any right or provision under these T\&Cs shall not
 
 ### Partners Policy
 
-Request works with partners to provide you with some services and products. Below, and for your convenience only, is a list of links referring to our partners' T\&Cs for such services and products:&#x20;
+Request works with partners to provide you with some services and products. By using these specific services, you accept their T\&Cs. Below, and for your convenience only, is a list of links referring to our partners' T\&Cs for such services and products:
 
-* Pay.so Core: [Here](https://cheqxyz.notion.site/Terms-Conditions-Pay-so-Core-b1fbe854499a4acdb376d03665649ee2)&#x20;
-* OpenCover: [Here](https://app.gitbook.com/o/-LBPEk9k7ap5J4UBioon/s/-MJ21-Ms-rAz8W-gZk95/\~/changes/130/legal/transaction-cover-terms-and-conditions-transaction-cover)
+* For Crypto-to-Fiat:&#x20;
+  * Reap - [https://reap.global/terms-conditions](https://reap.global/terms-conditions)
+  * Bridge - [https://www.bridge.xyz/legal](https://www.bridge.xyz/legal)
+  * Koywe - [https://www.koywe.com/EN/terms](https://www.koywe.com/EN/terms)
+  * Kraken - [https://www.kraken.com/legal](https://www.kraken.com/legal)
+  * Safeheron - [https://support.safeheron.com/help-center/product-and-solution/support/safeheron-user-and-privacy-agreement#id-1.-acceptance-of-terms](https://support.safeheron.com/help-center/product-and-solution/support/safeheron-user-and-privacy-agreement#id-1.-acceptance-of-terms)
+  * Triple-A - [https://www.triple-a.io/privacy-and-terms-policy](https://www.triple-a.io/privacy-and-terms-policy)
+* For insurance with OpenCover: [Here](https://app.gitbook.com/o/-LBPEk9k7ap5J4UBioon/s/-MJ21-Ms-rAz8W-gZk95/~/changes/130/legal/transaction-cover-terms-and-conditions-transaction-cover)
 
 ### Foreign access
 
@@ -387,5 +437,6 @@ Processor processes Personal Data contained in account data, usage data, and any
 
 You can find our previous Terms & Conditions here:&#x20;
 
-* [Valid from 21st of June 2023 till 31st of May 2024](https://uploads-ssl.webflow.com/606beb3b434b8b21edd72827/664b1699298eb085fc4f19de\_Terms%20%26%20Conditions%20-%20valid%20from%20the%2021st%20of%20June%202023%20till%20the%2031st%20of%20May%202024.pdf)
-* [Valid till 21st of June 2023](https://uploads-ssl.webflow.com/606beb3b434b8b21edd72827/6486e4e7d4b5647da1f309da\_Terms%20%26%20Conditions%2002\_2023%20.pdf)
+* [Valid from 1st of June 2024 till 3rd of February 2025](https://cdn.prod.website-files.com/606beb3b434b8b21edd72827/67877e6d1ff1df189e3e7b86_Terms%20%26%20Conditions%20-%20Valid%20from%20the%201st%20of%20June%202024%20till%20the%203rd%20of%20February%202025.pdf)
+* [Valid from 21st of June 2023 till 31st of May 2024](https://uploads-ssl.webflow.com/606beb3b434b8b21edd72827/664b1699298eb085fc4f19de_Terms%20%26%20Conditions%20-%20valid%20from%20the%2021st%20of%20June%202023%20till%20the%2031st%20of%20May%202024.pdf)
+* [Valid till 21st of June 2023](https://uploads-ssl.webflow.com/606beb3b434b8b21edd72827/6486e4e7d4b5647da1f309da_Terms%20%26%20Conditions%2002_2023%20.pdf)
