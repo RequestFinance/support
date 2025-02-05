@@ -6,7 +6,7 @@ PLEASE READ THE FOLLOWING TERMS & CONDITIONS CAREFULLY. BY ACCESSING AND/OR USIN
 
 Request Finance (hereinafter "Request" or “Request Finance”) is a French “société par actions simplifiée” (simplified joint stock company) with a capital of 1000 euros, whose headquarters is located at 722 Route de Norcier - 74160 Saint-Julien-en-Genevois; registered in the Thonon-les-Bains RCS under No. 880 400 106, and represented by its President, Mr. LASSUYT Christophe.
 
-The crypto-to-fiat services, also covered by these T\&Cs, are provided by Request Technologies UAB a private limited liability company registered in the Republic of Lithuania with the company registration number 306291868, with a registered office Gedimino avn. 20, Vilnius, the Republic of Lithuania, registered as a Virtual Asset Service Provider (VASP) in the Lithuanian Legal Entities Register. Request Technologies UAB is supervised by the Bank of Lithuania (hereinafter "Request Technologies"). Request Technologies UAB services in the text will be used as subsidiaries services.
+The crypto-to-fiat services, also covered by these T\&Cs, are provided by Request Technologies UAB a private limited liability company registered in the Republic of Lithuania with the company registration number 306291868, with a registered office Gedimino avn. 20, Vilnius, the Republic of Lithuania (hereinafter "Request Technologies"). Request Technologies UAB services in the text will be used as subsidiaries services.
 
 The Request protocol is provided by Request Network Stiftung, Baarerstrasse 82, ℅ Abafin Treuhand AG - 6302 Zug, Switzerland.
 
@@ -73,7 +73,35 @@ Unless otherwise specified or recognizable, all content available on our Service
 
 ### Our Services <a href="#docs-internal-guid-6bad60c1-7fff-5023-7108-a1fefe1d5834" id="docs-internal-guid-6bad60c1-7fff-5023-7108-a1fefe1d5834"></a>
 
-You can find more about our Services [here](https://www.request.finance/). Our Services are provided "as is", “as available” and without any other guarantees than those mentioned in those T\&Cs. You are using the Services at your own risk. No advice or information, whether oral or written, obtained during your use of the Services is likely to create any warranty.
+You can find more about our Services [here](https://www.request.finance/). Our Services are provided "as is", “as available” and without any other guarantees than those mentioned in those T\&Cs. No advice or information, whether oral or written, obtained during your use of the Services is likely to create any warranty.
+
+Our services include custody and administration of crypto, execution of orders for crypto-assets on behalf of clients, and transfer services for crypto-assets.
+
+#### Custody of crypto-assets
+
+Custody and administration of crypto-assets on behalf of clients’ is safekeeping or controlling, on behalf of clients, of crypto-assets or of the means of access to such crypto-assets, where applicable in the form of private cryptographic keys.
+
+Request Technologies will provide you information regarding: (i) the nature of services provided, (ii) the summary of custody policy upon your request; (iii) communication methods; (iv) security measures, (v) applicable fees; and (vi) governing law.
+
+Request Technologies undertakes to facilitate the exercise of client rights related to crypto-assets and ensure any changes to underlying technology or client rights are properly recorded. Request Technologies also undertakes to provide clients with a position statement at least every three months, detailing their crypto-assets, balances, value and transactions.&#x20;
+
+Request Technologies undertakes to ensure the timely return of crypto-assets to clients and segregate client holdings from its own, both legally and operationally.
+
+#### Execution of orders for crypto-assets
+
+Execution of orders for crypto-assets on behalf of clients’ is the conclusion of agreements, on behalf of clients, to purchase or sell one or more crypto-assets or the subscription on behalf of clients for one or more crypto-assets and includes the conclusion of contracts to sell crypto-assets at the moment of their offer to the public or admission to trading.
+
+Request Technologies undertakes to take all necessary steps to ensure the best possible result for clients when executing orders, considering factors like price, costs, speed, and other relevant conditions. However, this obligation does not apply if orders are executed based on specific client instructions.
+
+To comply with the above-mentioned requirements Request Technologies shall implement an order execution policy that ensures prompt, fair handling of orders and prevents misuse of client information. Request Technologies undertakes to inform its Clients about this policy in clear terms, receive a consent to it, and be notified of any significant changes.
+
+Request Technologies must demonstrate compliance with the policy upon client or authority request and obtain prior consent for executing orders outside trading platforms. Regular monitoring and updates to the execution policy are required to ensure optimal results, with clients being informed of any material changes.
+
+#### Transfer services for crypto
+
+Transfer services for crypto-assets on behalf of clients are the provision of services for transferring crypto-assets from one distributed ledger address or account to another on behalf of a natural or legal person.
+
+Request Technologies shall include the following information in the agreement for providing crypto transfer services: the identification details of the parties involved, a clear explanation of the transfer service, specifics about the security measures used, the applicable fees, and the governing law.
 
 ### Our fees
 
@@ -105,7 +133,7 @@ Any use of our API service, including the API through a third-party product/serv
 
 ### Crypto-to-Fiat
 
-Request Technologies offers and uses an API, relying on Payment service providers (“PsP”), to facilitate exchanges between cryptocurrency (”Crypto”) and traditional currency (”Fiat”) and handle fiat payouts through SWIFT or local payment methods such as SEPA in many countries around the world. Request Technologies offers its services to business users or to other businesses (”Partners”) who want to offer fiat capabilities to their customers (”End Users”). Payments are conducted by creating “Offramps”. Creating an Offramp involves a Partner or business user notifying Request Technologies that it or an End User wants a specific amount of Fiat (”Destination Amount”) to arrive in a specific bank account (”Destination Bank”). Request Technologies returns a “Deposit Address”- a cryptocurrency wallet address dedicated to the business user or End User- to which the business user or End User transfers Crypto, and an “Exchange Rate” specifying the amount of Crypto required to fulfill the Destination Amount. Upon successful deposit, Request Technologies can choose to accept or reject the transaction based on a number of risk factors. If accepted, Request Technologies will endeavor to fulfill the delivery of the Destination Amount to the Destination Bank through its PsP partners. You authorize us to share your Data and Offramp information with our PsP partners.
+Request Technologies offers and uses an API, relying on Payment service providers (“PsP”) and other Virtual Asset Service Providers (“VASP”), to facilitate exchanges between cryptocurrency (”Crypto”) and traditional currency (”Fiat”) and handle fiat payouts through SWIFT or local payment methods such as SEPA in many countries around the world. Request Technologies offers its services to business users or to other businesses (”Partners”) who want to offer fiat capabilities to their customers (”End Users”). Payments are conducted by creating “Offramps”. Creating an Offramp involves a Partner or business user notifying Request Technologies that it or an End User wants a specific amount of Fiat (”Destination Amount”) to arrive in a specific bank account (”Destination Bank”). Request Technologies returns a “Deposit Address”- a cryptocurrency wallet address dedicated to the business user or End User- to which the business user or End User transfers Crypto, and an “Exchange Rate” specifying the amount of Crypto required to fulfill the Destination Amount. Upon successful deposit, Request Technologies can choose to accept or reject the transaction based on a number of risk factors. If accepted, Request Technologies will endeavor to fulfill the delivery of the Destination Amount to the Destination Bank through its PsP partners. You authorize us to share your Data and Offramp information with our PsP partners.
 
 You may not cancel an Offramp after we have commenced processing it. If you cancel your Offramp and you have not provided sufficient information in order for us to return your funds, we will hold your funds as required by law. You are solely responsible for reviewing your Offramp receipts for accuracy and for monitoring your Offramp history for any errors or any potentially fraudulent activity. You hereby waive your right to dispute an Offramp. You are responsible for ensuring that you- in your respective capacity as either an End User or a Partner- submit the appropriate information when you create an Offramp. In the event that the Partner creates an Offramp on behalf of an End User with details different from those submitted by the End User, any actions of remediation are the responsibility of the Partner.
 
@@ -117,7 +145,7 @@ As a regulated service, we will monitor use of your account to ensure it is in c
 
 ### KYC, KYB, KYT & AML
 
-To grant you access to some of our services (Crypto-to-fiat, etc.), we may, at our sole discretion or as otherwise required by law, conduct appropriate Know-Your-Business (KYB) and/or Anti-Money Laundering (AML) procedures, for which you will need to register in full and provide us with specified documents and information to prove and establish your identity.&#x20;
+To grant you access to some of our services (Crypto-to-fiat, etc.), we may, at our sole discretion or as otherwise required by law, conduct appropriate Know-Your-Customer & Know-Your-Business (KYC/KYB) and/or Anti-Money Laundering (AML) procedures, for which you will need to register in full and provide us with specified documents and information to prove and establish your identity.&#x20;
 
 During registration, you may need to provide, including but not limited to, your full name and/or the full legal name of the entity that you represent or acting on behalf of, whenever applicable, residential address or incorporation/business address, date of birth or date of incorporation, nationality, contact number, and email address.&#x20;
 
@@ -126,31 +154,18 @@ The KYC/KYB documentation that we may request may include, but not limited to th
 * Proof of identity or incorporation, including any relevant business registration documents, annual returns etc.;
 * Proof of address/financial documents, such as bank statements;
 * Articles of Association & shareholding chart;
-* Proof of source of funds or wealth, for example investment statements or SAFE agreements.&#x20;
+* Proof of source of funds or wealth, for example investment statements or SAFE agreements;
+* Information regarding beneficial owners;
+* Purpose of business relationship;
+* Source of funds and source of wealth.
 
-We may suspend, terminate or reject your account or the business relationship until a satisfactory identification document or documentary evidence on the source of funds or wealth is provided. If any of your KYB documentation expires or is no longer valid, we have the right to request additional valid and non-expired KYB documentation from you.&#x20;
+We may suspend, terminate or reject your account or the business relationship until a satisfactory identification document or documentary evidence on the source of funds or wealth is provided. If any of your KYC/KYB documentation expires or is no longer valid, we have the right to request additional valid and non-expired KYC/KYB documentation from you.&#x20;
 
-You agree to allow your information (individual or corporate) to be disclosed to Request Technologies’s service providers for the purposes of KYB verification and any other screening checks. You further agree, represent, and warrant that by providing us your information, including information on any related or connected parties, you undertake that the disclosure of any personal data to Request Technologies is for our purpose and is within the scope of the consent given to you by such related or connected parties.
+You agree to allow your information (individual or corporate) to be disclosed to Request Technologies’s service providers for the purposes of KYC/KYB verification and any other screening checks. You further agree, represent, and warrant that by providing us your information, including information on any related or connected parties, you undertake that the disclosure of any personal data to Request Technologies is for our purpose and is within the scope of the consent given to you by such related or connected parties.
 
 We only authorize Offramps using funds belonging to the user. You are not allowed to use funds that do not belong to you to place Offramps, and you cannot place Offramps on behalf of a third party. Each time you place an Offramp, you are promising that you own the funds used by you to execute the Offramp, and that the funds are not the direct or indirect proceeds of any criminal or fraudulent activity. To respect the best standards in the field of AML, we are processing KYT controls for every new Offramp you will process. Then, we may limit the amount and frequency of your Offramps in a given time period. These limits may depend on when you opened your account, the Personal Data you provided us, and a variety of other risk factors.
 
 You will not use the Request Technologies services to undertake or enable by you or any third party (the “Prohibited Activities List”): unlawful or abusive activity, fraud, unlawful gambling, intellectual property infringement, investment or credit services, check cashing, bail bonds, collections agencies, counterfeit or unauthorized goods, drugs, and drug paraphernalia (including pseudo pharmaceuticals), substances designed to mimic illegal drugs, illegal adult content and services, multi-level marketing, unfair, predatory or deceptive practices, money services, and any business that Request Technologies believes poses elevated financial risk, legal liability, or violate card network rules or bank policies. Request Technologies may update this Prohibited Activities List at any time upon notice to you.
-
-### E-commerce checkout
-
-By using the e-commerce checkout module, you accept:
-
-*   It is strictly prohibited to use it for any of the following: to conduct or engage in any
-
-    illegal, or unlawful activity; to hide or disguise the proceeds of any illegal or unlawful
-
-    activity; to engage in any fraudulent or malicious activity;
-*   You, as a data controller, authorize us, as a data processor, to process personal data
-
-    controlled by you and provided to us (information about your clients) on your behalf and pursuant to your instructions for the sole purpose of providing our Services. The data will be processed in accordance with the Data Processing Agreement between us. By accepting these T\&Cs, you accept the Data Processing Agreement as well, which can be found on our website;
-* Request reserves the right to suspend, postpone, and/or freeze the Services or to terminate our contract if your actions violate public order or norms of good morals;
-* You are personally responsible for compliance of your services and products with the national & international laws and regulations applicable to your activities, especially regarding AML/CFT, KYC/B, competitive law, crypto & blockchain regulations, etc.;
-* Within the framework of the transaction carried out by your customer via our module, the possible legal relations are between you and your customers, and in no case between them and Request Finance (which will remain a third party, only in commercial relationship with you).
 
 ### Maintenance and support&#x20;
 
