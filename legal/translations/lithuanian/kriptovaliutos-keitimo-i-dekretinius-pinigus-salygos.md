@@ -156,7 +156,7 @@ Negalite naudotis „Request Technologies“ teikiamomis kriptovaliutos keitimo 
 
 ### Priežiūra ir palaikymas&#x20;
 
-Priežiūra taisant klaidas ir atnaujinant informaciją
+**Priežiūra taisant klaidas ir atnaujinant informaciją**
 
 Priežiūros taisant klaidas tikslas yra ištaisyti visas anomalijas (kurios suprantamos kaip klaidos arba sutrikimai), kurias galima rasti mūsų teikiamose kriptovaliutos keitimo į dekretinius pinigus paslaugose. Reikia nurodyti, kad tai nesusiję su anomalijomis, kurios gali atsirasti dėl su mūsų teikiamomis kriptovaliutos keitimo į dekretinius pinigus paslaugomis susijusių kriptovaliutos piniginių, keitimo sąskaitų, saugojimo sprendimų, API arba bet kokio trečiosios šalies produkto ir (arba) paslaugos, arba jų komponento.
 
@@ -166,13 +166,13 @@ Jūs turite pranešti „Request“ apie bet kokią jūsų rastą anomaliją per
 
 Nėra teisės reikalauti išlaikyti ankstesnes mūsų teikiamų kriptovaliutos keitimo į dekretinius pinigus paslaugų versijas arba atlikti jų priežiūrą taisant klaidas.
 
-Techninis palaikymas
+**Techninis palaikymas**
 
 Be anomalijų taisymo ir bet kokių klausimų, susijusių su mūsų teikiamomis kriptovaliutos keitimo į dekretinius pinigus paslaugomis, „Request“ taip pat teikia techninį palaikymą pagalbos ir konsultacijų forma. Toks palaikymas gali būti teikiamas per pokalbių funkciją programėlėje arba el. paštu adresu support@request.finance.
 
 ### Atsakomybė ir nuostolių atlyginimas
 
-Garantijos nebuvimas&#x20;
+**Garantijos nebuvimas**&#x20;
 
 JŪS AIŠKIAI SUPRANTATE IR SUTINKATE, KAD KRIPTOVALIUTOS KEITIMO Į DEKRETINIUS PINIGUS PASLAUGOMIS NAUDOJATĖS VIEN SAVO RIZIKA. PLAČIAUSIA TAIKOMŲ ĮSTATYMŲ LEIDŽIAMA APIMTIMI „REQUEST“, JOS DUKTERINĖS ĮMONĖS, SU JA SUSIJĘ ASMENYS, JOS PAREIGŪNAI, VADOVAI, ATSTOVAI, PREKIŲ ŽENKLŲ PARTNERIAI, KITI PARTNERIAI, TIEKĖJAI IR DARBUOTOJAI JOKIU ATVEJU NEATSAKO UŽ:
 
@@ -201,7 +201,7 @@ BE TO, VADOVAUJANTIS PRANCŪZIJOS CIVILINIO KODEKSO 1218 STRAIPSNIU, „REQUEST�
 
 ŠIOS SĄLYGOS NESUKURIA IR DĖL JŲ NEATSIRANDA JOKIOS „REQUEST“ FIDUCIARINĖS PAREIGOS. PLAČIAUSIA ĮSTATYMŲ LEIDŽIAMA APIMTIMI PRIPAŽĮSTATE IR SUTINKATE, KAD „REQUEST“ NETURI JOKIŲ FIDUCIARINIŲ PAREIGŲ ARBA ATSAKOMYBĖS NEI JUMS, NEI JOKIAI KITAI ŠALIAI.
 
-Kriptovaliutų rizika&#x20;
+**Kriptovaliutų rizika**&#x20;
 
 Naudodamiesi mūsų teikiamomis kriptovaliutos keitimo į dekretinius pinigus paslaugomis, pareiškiate, kad suprantate su kriptografinėmis sistemomis susijusią joms būdingą riziką, taip pat garantuojate, kad suprantate, kaip naudotis konkretiems tinklams būdingais kriptografiniais žetonais, protokolais ir blokų grandinės pagrindu veikiančiomis programinės įrangos sistemomis, ir su tuo susijusius ypatumus. Naudodamiesi mūsų teikiamomis kriptovaliutos keitimo į dekretinius pinigus paslaugomis, pripažįstate ir sutinkate, kad: i) „Request“ ir su ja susiję subjektai nėra atsakingi už pagrindinių kriptografinių sistemų, programinės įrangos ir tinklų veikimą; ii) nėra jokių garantijų dėl tokių kriptografinių sistemų, programinės įrangos ir tinklų funkcionalumo, saugumo ir galimybės jais naudotis; ir iii) pagrindinių protokolų veikimo taisyklės (taip vadinamos „atšakos“ („forks“)) gali staiga pasikeisti ir tokios atšakos gali turėti esminės įtakos kriptovaliutos keitimo į dekretinius pinigus paslaugoms. Bet kokiam naudojimuisi arba sąveikai su kriptografinėmis sistemomis reikia gerai suprasti taikomą kriptografiją ir informatiką, kad būtų galima įvertinti joms būdingą riziką. Pripažįstate, kad „Request“ gali savo nuožiūra nuspręsti nepalaikyti (arba nustoti palaikyti) atšakų pagrindu veikiančių tinklų arba bet kokio tinklo be jokio išankstinio įspėjimo. Taip pat pripažįstate ir sutinkate, kad „Request“ neprisiima jokios atsakomybės už jokius pagrindinius programinės įrangos protokolus – veikiančius tiek atšakų pagrindu, tiek kitokiu pagrindu. Mūsų kriptovaliutos keitimo į dekretinius pinigus paslaugos teikiamos iš dalies remiantis trečiųjų šalių ir atviro kodo programine įranga, įskaitant Ethereum blokų grandinę, taip pat atitinkamu tolesniu jos kūrimu ir palaikymu. Nėra jokios garantijos, kad tos trečiosios šalys ir toliau teiks savo programinės įrangos palaikymą arba kad atviro kodo programinė įranga ir toliau bus prižiūrima. Tai gali turėti esminės neigiamos įtakos mūsų teikiamoms kriptovaliutos keitimo į dekretinius pinigus paslaugoms.
 
