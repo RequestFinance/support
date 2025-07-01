@@ -25,7 +25,7 @@
 
 ## Have a Question?
 
-* [FAQ](https://help.request.finance/)
+* [FAQ (English)](https://help.request.finance/)
 * [Send us a mail](mailto:support@request.finance)
 * [Schedule a call](https://www.request.finance/demo)
 
