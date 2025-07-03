@@ -1,0 +1,11 @@
+# Kaip suteikti simbolinį patvirtinimą?
+
+Patvirtinimo reikia, kai pirmą norėdami panaudoti žetoną, kurio niekada nenaudojote, arba kai išnaudojate patvirtintą žetono sumą iš ankstesnio patvirtinimo. Daugiau informacijos apie tai, kodėl reikalingas žetono patvirtinimas, galite sužinoti [čia.](https://help.request.finance/en/articles/8622249-what-is-the-approval-step-for)
+
+Galimos trys patvirtinimo veiksmo parinktys:
+
+| Patvirtinta suma                                                                           | Poveikis                                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Neribotas (rekomenduojama): patvirtinate vienkartinį žetono naudojimą be jokių apribojimų. | Galite pereiti prie mokėjimo veiksmo. Jums nereikės tvirtinti žetonų jokiems būsimiems mokėjimams su šiuo žetonu. Daugiau apie neriboto žetonų patvirtinimo naudojimo privalumus sužinokite [čia.](https://help.request.finance/en/articles/8622250-limited-vs-unlimited-token-approval) |
+| Pasirinktinė suma: patvirtinate žetono naudojimą konkrečiai sumai.                         | Galite pereiti prie mokėjimo etapo, jei patvirtinta suma apima mokėjimui reikalingą sumą.                                                                                                                                                                                                |
+| Nulis: netvirtinate žetono naudojimo.                                                      | Negalite pereiti prie mokėjimo etapo. Daugiau informacijos apie tai, kodėl reikalingas žetono patvirtinimas, rasite [čia.](https://help.request.finance/en/articles/8622249-what-is-the-approval-step-for)                                                                               |
