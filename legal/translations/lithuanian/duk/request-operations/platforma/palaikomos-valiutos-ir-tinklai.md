@@ -1,77 +1,77 @@
 ---
-description: The list of currencies and networks supported on Request
+description: '"Request" palaikomų valiutų ir tinklų sąrašas'
 ---
 
-# Supported currencies and networks
+# Palaikomos valiutos ir tinklai
 
-## Supported fiat currencies <a href="#h_9c87101216" id="h_9c87101216"></a>
+## Palaikomos tradicinės valiutos  <a href="#h_9c87101216" id="h_9c87101216"></a>
 
-Supported fiat currencies that you can use to pay and get paid in.
+Palaikomos tradicinės valiutos, kuriomis galite atsiskaityti ir gauti mokėjimus.
 
-For fiat currencies supported for off-ramping, please refer to [this article](https://help.request.finance/en/articles/8607154-supported-currencies-and-countries-for-crypto-to-fiat-payouts).
+Dėl tradicinių valiutų, kurios yra palaikomos "Crypto-to-fiat" funkcijai, patikrinkite [šį straipsnį](https://help.request.finance/en/articles/8607154-supported-currencies-and-countries-for-crypto-to-fiat-payouts).
 
-| Symbol | Name               |
-| ------ | ------------------ |
-| USD    | US Dollar          |
-| EUR    | Euro               |
-| GBP    | Pound Sterling     |
-| CHF    | Swiss Franc        |
-| SGD    | Singapore Dollar   |
-| AUD    | Australian Dollar  |
-| BRL    | Brazilian Real     |
-| CAD    | Canadian Dollar    |
-| ILS    | New Israeli Sheqel |
-| INR    | Indian Rupee       |
-| JPY    | Yen                |
-| KRW    | Won                |
-| THB    | Baht               |
-| IDR    | Rupiah             |
-| NZD    | New Zealand Dollar |
-| NOK    | Norwegian Krone    |
-| TRY    | Turkish Lira       |
-| HKD    | Hong Kong Dollar   |
-| CNY    | Chinese Yuan       |
+| Simbolis | Pavadinimas                   |
+| -------- | ----------------------------- |
+| USD      | US doleriai                   |
+| EUR      | Eurai                         |
+| GBP      | Svarai                        |
+| CHF      | Šveicarijos frankai           |
+| SGD      | Singapūro doleriai            |
+| AUD      | Australijos doleriai          |
+| BRL      | Brazilijos realai             |
+| CAD      | Kanados doleriai              |
+| ILS      | Izraelio šekeliai             |
+| INR      | Indijos rupijos               |
+| JPY      | Jenos                         |
+| KRW      | Vonai                         |
+| THB      | Batai                         |
+| IDR      | Rupijos                       |
+| NZD      | Naujosios Zelandijos doleriai |
+| NOK      | Norvegijos kronos             |
+| TRY      | Turkijos liros                |
+| HKD      | Honkongo doleriai             |
+| CNY      | Kinijos juaniai               |
 
-## Supported networks <a href="#h_b27c6064d6" id="h_b27c6064d6"></a>
+## Palaikomi tinklai <a href="#h_b27c6064d6" id="h_b27c6064d6"></a>
 
-Supported networks that you can use to pay and get paid on.
+Palaikomi tinklai, kuriuos galite naudoti mokėjimams ir mokėjimų gavimui.
 
-| Network      | Payments are automatically detected\* | Batch Payments are supported\*\*                                                                                                               |
-| ------------ | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Aleo Network | ✓                                     | ✓                                                                                                                                              |
-| Arbitrum One | ✓                                     | ✓                                                                                                                                              |
-| Avalanche    | ✓                                     | ✓                                                                                                                                              |
-| Base         | ✓                                     | ✓                                                                                                                                              |
-| Beam         | X                                     | X                                                                                                                                              |
-| Bitcoin      | ✓                                     | X                                                                                                                                              |
-| BNB Chain    | ✓                                     | ✓                                                                                                                                              |
-| Celo         | ✓                                     | ✓                                                                                                                                              |
-| Core         | ✓                                     | ✓                                                                                                                                              |
-| Ethereum     | ✓                                     | ✓                                                                                                                                              |
-| Fuse         | ✓                                     | ✓                                                                                                                                              |
-| GnosisChain  | ✓                                     | ✓                                                                                                                                              |
-| ICON         | X                                     | X                                                                                                                                              |
-| Moonbeam     | ✓                                     | ✓                                                                                                                                              |
-| NEAR         | ✓                                     | X                                                                                                                                              |
-| Optimism     | ✓                                     | ✓                                                                                                                                              |
-| Polygon      | ✓                                     | ✓                                                                                                                                              |
-| Starknet     | ✓                                     | ✓                                                                                                                                              |
-| Solana       | ✓                                     | ✓ ([limited to few payments](https://help.request.finance/en/articles/9726782-why-can-t-i-include-many-payments-in-a-batch-payment-on-solana)) |
-| Sonic        | ✓                                     | ✓                                                                                                                                              |
-| Ton          | ✓                                     | X                                                                                                                                              |
-| Tron         | ✓                                     | ✓                                                                                                                                              |
-| Zilliqa      | X                                     | X                                                                                                                                              |
-| zkSync Era   | ✓                                     | ✓                                                                                                                                              |
+| Tinklas      | Mokėjimai automatiškai aptinkami\* | Palaikomi grupiniai mokėjimai\*\*                                                                                                         |
+| ------------ | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Aleo Network | ✓                                  | ✓                                                                                                                                         |
+| Arbitrum One | ✓                                  | ✓                                                                                                                                         |
+| Avalanche    | ✓                                  | ✓                                                                                                                                         |
+| Base         | ✓                                  | ✓                                                                                                                                         |
+| Beam         | X                                  | X                                                                                                                                         |
+| Bitcoin      | ✓                                  | X                                                                                                                                         |
+| BNB Chain    | ✓                                  | ✓                                                                                                                                         |
+| Celo         | ✓                                  | ✓                                                                                                                                         |
+| Core         | ✓                                  | ✓                                                                                                                                         |
+| Ethereum     | ✓                                  | ✓                                                                                                                                         |
+| Fuse         | ✓                                  | ✓                                                                                                                                         |
+| GnosisChain  | ✓                                  | ✓                                                                                                                                         |
+| ICON         | X                                  | X                                                                                                                                         |
+| Moonbeam     | ✓                                  | ✓                                                                                                                                         |
+| NEAR         | ✓                                  | X                                                                                                                                         |
+| Optimism     | ✓                                  | ✓                                                                                                                                         |
+| Polygon      | ✓                                  | ✓                                                                                                                                         |
+| Starknet     | ✓                                  | ✓                                                                                                                                         |
+| Solana       | ✓                                  | ✓ ([tik keli mokėjimai](https://help.request.finance/en/articles/9726782-why-can-t-i-include-many-payments-in-a-batch-payment-on-solana)) |
+| Sonic        | ✓                                  | ✓                                                                                                                                         |
+| Ton          | ✓                                  | X                                                                                                                                         |
+| Tron         | ✓                                  | ✓                                                                                                                                         |
+| Zilliqa      | X                                  | X                                                                                                                                         |
+| zkSync Era   | ✓                                  | ✓                                                                                                                                         |
 
-_\*For most networks, we automatically detect payments and update your payment status. For the networks without payment detection, you can still use the network to pay/get paid and manually update the status when a payment is made._
+_\*_&#x44;augumoje tinklų mes automatiškai aptinkame mokėjimus ir atnaujiname jūsų mokėjimo būseną. Tinkluose, kuriuose mokėjimai neaptinkami, vis tiek galite naudotis tinklu mokėjimams atlikti/gauti ir rankiniu būdu atnaujinti būseną, kai mokėjimas atliktas.
 
-_\*\*Batch payments enable you to make multiple payments in a single go._
+_\*\*_&#x47;rupiniai mokėjimai leidžia atlikti kelis mokėjimus vienu metu.
 
-## Supported cryptocurrencies <a href="#h_765748b8e3" id="h_765748b8e3"></a>
+## Palaikomos kriptovaliutos <a href="#h_765748b8e3" id="h_765748b8e3"></a>
 
-Supported cryptocurrencies that you can use to pay and get paid in.
+Palaikomos kriptovaliutos, kurias galite naudoti mokėjimams ir atsiskaitymams.
 
-| Symbol          | Network      | Contract                                                                          |
+| Simbolis        | Tinklas      | Adresas                                                                           |
 | --------------- | ------------ | --------------------------------------------------------------------------------- |
 | ALEO            | Aleo Network |                                                                                   |
 | vUSDC           | Aleo Network | 6088188135219746443092391282916151282477828391085949070550825603498725268775field |
