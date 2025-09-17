@@ -194,5 +194,5 @@
 
 ## Additional Resources
 
-* [Developer Docs](https://docs.request.network)
+* [Developer Docs](https://docs.request.finance/)
 * [Bug Bounty Program](https://help.request.finance/en/articles/8623679-bug-bounty-program-at-request)
