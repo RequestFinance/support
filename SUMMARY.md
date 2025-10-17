@@ -5,9 +5,9 @@
 ## Legal
 
 * [Legal notice](legal/legal-notice.md)
-* [Terms & Conditions](terms-and-conditions.md)
-* [Privacy](privacy.md)
-* [Cookies](cookies.md)
+* [Terms & Conditions](legal/terms-and-conditions.md)
+* [Privacy](legal/privacy.md)
+* [Cookies](legal/cookies.md)
 * [Crypto-to-Fiat Product Terms & Conditions](legal/crypto-to-fiat-product-terms-and-conditions.md)
 * [Referral Program Terms & Conditions](legal/referral-program-terms-and-conditions.md)
 * [Transaction Cover Terms & Conditions (“Transaction Cover”)](legal/transaction-cover-terms-and-conditions-transaction-cover.md)
