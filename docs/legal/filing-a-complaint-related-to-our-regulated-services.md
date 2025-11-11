@@ -52,87 +52,83 @@ This assessment of the complaints-handling data aims to achieve procedural and s
 
 **1.a. Personal data of the Applicant**
 
-| Last Name / Legal entity Name |            |                           |                                      |                                              |
-| ----------------------------- | ---------- | ------------------------- | ------------------------------------ | -------------------------------------------- |
-|                               | First Name | Registration of ID number | <p>LEI code</p><p>(if available)</p> | <p>Client reference</p><p>(if available)</p> |
-|                               |            |                           |                                      |                                              |
+| Last Name / Legal entity Name | First Name | Registration of ID number | LEI code (if available) | Client reference (if available) |
+| ----------------------------- | ---------- | ------------------------- | ----------------------- | ------------------------------- |
+|                               |            |                           |                         |                                 |
 
-| <p>Address: street, number floor</p><p>(for firms registered office)</p> | Postcode | City | Country |
-| ------------------------------------------------------------------------ | -------- | ---- | ------- |
-|                                                                          |          |      |         |
+| Address: street, number floor (for firms registered office) | Postcode | City | Country |
+| ----------------------------------------------------------- | -------- | ---- | ------- |
+|                                                             |          |      |         |
 
-| Telephone |   | Email |   |
-| --------- | - | ----- | - |
+| Telephone | Email |
+| --------- | ----- |
+|           |       |
 
 **1.b Contact details (if different from 1.a)**
 
-| <p>Last Name /</p><p>Legal entity Name</p> | First Name |
-| ------------------------------------------ | ---------- |
-|                                            |            |
+| Last Name / Legal entity Name | First Name |
+| ----------------------------- | ---------- |
+|                               |            |
 
-| <p>Address: street, number floor</p><p>(for firms registered office)</p> | Postcode | City | Country |
-| ------------------------------------------------------------------------ | -------- | ---- | ------- |
-|                                                                          |          |      |         |
+| Address: street, number floor (for firms registered office) | Postcode | City | Country |
+| ----------------------------------------------------------- | -------- | ---- | ------- |
+|                                                             |          |      |         |
 
-| Telephone |   | Email |   |
-| --------- | - | ----- | - |
+| Telephone | Email |
+| --------- | ----- |
+|           |       |
 
 **2.a Personal data of the legal representative** (if applicable) (a power of attorney or other official document as proof of the appointment of the representative)
 
-| Last Name | <p>First Name /</p><p>Legal entity Name</p> | Registration number and LEI code (if available) |
-| --------- | ------------------------------------------- | ----------------------------------------------- |
-|           |                                             |                                                 |
+| Last Name | First Name / Legal entity Name | Registration number and LEI code (if available) |
+| --------- | ------------------------------ | ----------------------------------------------- |
+|           |                                |                                                 |
 
-| <p>Address: street, number floor</p><p>(for firms registered office)</p> | Postcode | City | Country |
-| ------------------------------------------------------------------------ | -------- | ---- | ------- |
-|                                                                          |          |      |         |
+| Address: street, number floor (for firms registered office) | Postcode | City | Country |
+| ----------------------------------------------------------- | -------- | ---- | ------- |
+|                                                             |          |      |         |
 
-| Telephone |   | Email |   |
-| --------- | - | ----- | - |
+| Telephone | Email |
+| --------- | ----- |
+|           |       |
 
 **2.b Contact details** (if different from 2.a)&#x20;
 
-| <p>Last Name /</p><p>Legal entity Name</p> | First Name |
-| ------------------------------------------ | ---------- |
-|                                            |            |
+| Last Name / Legal entity Name | First Name |
+| ----------------------------- | ---------- |
+|                               |            |
 
-| <p>Address: street, number floor</p><p>(for firms registered office)</p> | Postcode | City | Country |
-| ------------------------------------------------------------------------ | -------- | ---- | ------- |
-|                                                                          |          |      |         |
+| Address: street, number floor (for firms registered office) | Postcode | City | Country |
+| ----------------------------------------------------------- | -------- | ---- | ------- |
+|                                                             |          |      |         |
 
-| Telephone |   | Email |   |
-| --------- | - | ----- | - |
+| Telephone | Email |
+| --------- | ----- |
+|           |       |
 
 **3. Information about the complaint**
 
-**3.a Full reference of the crypto-asset service or agreement to which the complaint relates** (i.e. name of the crypto-asset service provider, crypto-asset service reference number, or other references of the relevant transactions…)
+| 3.a Full reference of the crypto-asset service or agreement to which the complaint relates (i.e. name of the crypto-asset service provider, crypto-asset service reference number, or other references of the relevant transactions…) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                                                                                                                       |
 
-|   |
-| - |
-
-**3.b Description of the complaint’s subject-matter**
-
-|   |
-| - |
+| 3.b Description of the complaint’s subject-matter |
+| ------------------------------------------------- |
+|                                                   |
 
 (Please provide documentation supporting the facts mentioned)
 
-&#x20;**3.c Date(s) of the facts that have led to the complaint**
+|  3.c Date(s) of the facts that have led to the complaint |
+| -------------------------------------------------------- |
+|                                                          |
 
-|   |
-| - |
+| 3.d Description of damage, loss or detriment caused (where relevant) |
+| -------------------------------------------------------------------- |
+|                                                                      |
 
-**3.d Description of damage, loss or detriment caused (where relevant)**
-
-|   |
-| - |
-
-**3.e Other comments or relevant information (where relevant)**
-
-|   |
-| - |
-
-&#x20;
+| 3.e Other comments or relevant information (where relevant) |
+| ----------------------------------------------------------- |
+|                                                             |
 
 | In \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | on \_\_\_\_\_\_\_\_\_\_\_ |
 | --------------------------------- | ------------------------- |
