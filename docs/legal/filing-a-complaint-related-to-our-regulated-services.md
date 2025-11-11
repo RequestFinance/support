@@ -52,9 +52,10 @@ This assessment of the complaints-handling data aims to achieve procedural and s
 
 **1.a. Personal data of the Applicant**
 
-| <p>Last Name /</p><p>Legal entity Name</p> | First Name | Registration of ID number | <p>LEI code</p><p>(if available)</p> | <p>Client reference</p><p>(if available)</p> |
-| ------------------------------------------ | ---------- | ------------------------- | ------------------------------------ | -------------------------------------------- |
-|                                            |            |                           |                                      |                                              |
+| Last Name / Legal entity Name |            |                           |                                      |                                              |
+| ----------------------------- | ---------- | ------------------------- | ------------------------------------ | -------------------------------------------- |
+|                               | First Name | Registration of ID number | <p>LEI code</p><p>(if available)</p> | <p>Client reference</p><p>(if available)</p> |
+|                               |            |                           |                                      |                                              |
 
 | <p>Address: street, number floor</p><p>(for firms registered office)</p> | Postcode | City | Country |
 | ------------------------------------------------------------------------ | -------- | ---- | ------- |
