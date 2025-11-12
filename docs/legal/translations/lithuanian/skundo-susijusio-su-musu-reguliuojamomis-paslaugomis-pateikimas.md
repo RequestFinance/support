@@ -56,81 +56,81 @@ Remdamasi duomenų analizės rezultatais, Bendrovė gali įgyvendinti papildomas
 
 **1.a. Pareiškėjo asmens duomenys**
 
-| Pavardė / Juridinio asmens pavadinimas | Vardas | ID numeris | <p>LEI kodas</p><p>(jei yra)</p> | <p>Kliento nuoroda</p><p>(jei yra)</p> |
-| -------------------------------------- | ------ | ---------- | -------------------------------- | -------------------------------------- |
-|                                        |        |            |                                  |                                        |
+| Pavardė / Juridinio asmens pavadinimas | Vardas | ID numeris | LEI kodas (jei yra) | Kliento nuoroda (jei yra) |
+| -------------------------------------- | ------ | ---------- | ------------------- | ------------------------- |
+|                                        |        |            |                     |                           |
 
-| <p>Adresas: gatvė, numeris, aukštas</p><p>(įmonėms -  registruotas buveinės adresas)</p> | Pašto indeksas | Miestas | Šalis |
-| ---------------------------------------------------------------------------------------- | -------------- | ------- | ----- |
-|                                                                                          |                |         |       |
+| Adresas: gatvė, numeris, aukštas (įmonėms -  registruotas buveinės adresas) | Pašto indeksas | Miestas | Šalis |
+| --------------------------------------------------------------------------- | -------------- | ------- | ----- |
+|                                                                             |                |         |       |
 
-| Telefonas |   | El. paštas |   |
-| --------- | - | ---------- | - |
+| Telefonas | El. paštas |
+| --------- | ---------- |
+|           |            |
 
 **1.b Kontaktiniai duomenys (jei skiriasi nuo 1.a)**
 
-| <p>Pavardė /</p><p>Juridinio asmens pavadinimas</p> | Vardas |
-| --------------------------------------------------- | ------ |
-|                                                     |        |
+| Pavardė / Juridinio asmens pavadinimas | Vardas |
+| -------------------------------------- | ------ |
+|                                        |        |
 
-| <p>Adresas: gatvė, numeris, aukštas</p><p>(įmonėms -  registruotas buveinės adresas)</p> | Pašto indeksas | Miestas | Šalis |
-| ---------------------------------------------------------------------------------------- | -------------- | ------- | ----- |
-|                                                                                          |                |         |       |
+| Adresas: gatvė, numeris, aukštas (įmonėms -  registruotas buveinės adresas) | Pašto indeksas | Miestas | Šalis |
+| --------------------------------------------------------------------------- | -------------- | ------- | ----- |
+|                                                                             |                |         |       |
 
-| Telefonas |   | El. paštas |   |
-| --------- | - | ---------- | - |
+| Telefonas | El. paštas |
+| --------- | ---------- |
+|           |            |
 
 **2.a Atstovo (jei taikoma) asmens duomenys** (įgaliojimas arba kitas oficialus dokumentas, patvirtinantis atstovavimą)
 
-| Pavardė | <p>Vardas /</p><p>Juridinio asmens pavadinimas</p> | Registracijos numeris ir LEI kodas (jei yra) |
-| ------- | -------------------------------------------------- | -------------------------------------------- |
-|         |                                                    |                                              |
+| Pavardė | Vardas / Juridinio asmens pavadinimas | Registracijos numeris ir LEI kodas (jei yra) |
+| ------- | ------------------------------------- | -------------------------------------------- |
+|         |                                       |                                              |
 
-| <p>Adresas: gatvė, numeris, aukštas</p><p>(įmonėms -  registruotas buveinės adresas)</p> | Pašto indeksas | Miestas | Šalis |
-| ---------------------------------------------------------------------------------------- | -------------- | ------- | ----- |
-|                                                                                          |                |         |       |
+| Adresas: gatvė, numeris, aukštas (įmonėms -  registruotas buveinės adresas) | Pašto indeksas | Miestas | Šalis |
+| --------------------------------------------------------------------------- | -------------- | ------- | ----- |
+|                                                                             |                |         |       |
 
-| Telefonas |   | El. paštas |   |
-| --------- | - | ---------- | - |
+| Telefonas | El. paštas |
+| --------- | ---------- |
+|           |            |
 
 **2.b Kontaktiniai duomenys** (jei skiriasi nuo 2.a)
 
-| <p>Pavardė /</p><p>Juridinio asmens pavadinimas</p> | Vardas |
-| --------------------------------------------------- | ------ |
-|                                                     |        |
+| Pavardė / Juridinio asmens pavadinimas | Vardas |
+| -------------------------------------- | ------ |
+|                                        |        |
 
-| <p>Adresas: gatvė, numeris, aukštas</p><p>(įmonėms -  registruotas buveinės adresas)</p> | Pašto indeksas | Miestas | Šalis |
-| ---------------------------------------------------------------------------------------- | -------------- | ------- | ----- |
-|                                                                                          |                |         |       |
+| Adresas: gatvė, numeris, aukštas (įmonėms -  registruotas buveinės adresas) | Pašto indeksas | Miestas | Šalis |
+| --------------------------------------------------------------------------- | -------------- | ------- | ----- |
+|                                                                             |                |         |       |
 
-| Telefonas |   | El. paštas |   |
-| --------- | - | ---------- | - |
+| Telefonas | El. paštas |
+| --------- | ---------- |
+|           |            |
 
 **3. Informacija apie skundą**
 
 **3.a Išsami nuoroda į kriptoturto paslaugą ar susitarimą, su kuriuo susijęs skundas** (t. y. kriptoturto paslaugos teikėjo pavadinimas, kriptoturto paslaugos referencinis numeris arba kitos nuorodos į atitinkamus sandorius.
 
-**3.b Skundo dalyko aprašymas**
-
-|   |
-| - |
+| 3.b Skundo dalyko aprašymas |
+| --------------------------- |
+|                             |
 
 (Prašome pateikti dokumentus, patvirtinančius minėtus faktus)
 
-**3.c Faktų, dėl kurių pateiktas skundas, data (-os)**
+| 3.c Faktų, dėl kurių pateiktas skundas, data (-os) |
+| -------------------------------------------------- |
+|                                                    |
 
-|   |
-| - |
+| 3.d Padarytos žalos, nuostolių ar nuostolių aprašymas (jei taikoma) |
+| ------------------------------------------------------------------- |
+|                                                                     |
 
-**3.d Padarytos žalos, nuostolių ar nuostolių aprašymas (jei taikoma)**
-
-|   |
-| - |
-
-**3.e Kitos pastabos ar svarbi informacija (jei reikia)**
-
-|   |
-| - |
+| 3.e Kitos pastabos ar svarbi informacija (jei reikia) |
+| ----------------------------------------------------- |
+|                                                       |
 
 &#x20;
 
