@@ -1,2 +1,0 @@
-# Algų mokėjimai
-

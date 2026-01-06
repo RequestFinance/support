@@ -72,8 +72,7 @@ To sum up the previous table, Request uses Your Data for the following purposes:
 * To comply with our regulatory obligations and in particular the fight against fraud, money laundering and the financing of terrorism,
 * To manage requests to exercise rights under regulations applicable to the processing of personal Data.
 
-\
-
+<br>
 
 Request does not sell or share Your personal information with third parties for direct marketing purposes.
 
@@ -81,8 +80,7 @@ Request does not sell or share Your personal information with third parties for 
 
 Request uses cookies and other identifying technologies on its Services.To learn more about how Request uses cookies, please refer to our [Cookie Policy](https://support.request.finance/legal/cookies).&#x20;
 
-\
-
+<br>
 
 Cookies are small text files stored in Your browser or Device by Websites, apps, online media, and advertisements. Request uses cookies and similar techniques for the following purposes:
 
@@ -160,23 +158,19 @@ Depending on Your location and subject to applicable law, You may have the follo
 * Where the processing of Your Personal Data is based on Your previously given consent, You have the right to withdraw Your consent at any time; and/or
 * Where Request processes Your Personal Data based on our legitimate interests, You may also have the right to object to the processing.&#x20;
 
-\
-
+<br>
 
 To exercise these rights, You can send an e-mail to the address privacy@request.finance. All requests must specify, in the subject line, the reason for the request (exercise of the right of access, opposition, etc.), the address to which the response must be sent, and the company concerned by the request.&#x20;
 
-\
-
+<br>
 
 To exercise Your rights, You must prove Your identity by any means. Where Request has reasonable doubts about Your identity, You may be asked to provide additional information necessary to confirm Your identity.&#x20;
 
-\
-
+<br>
 
 Request will send You its response within a maximum period of one (1) month from the date of receipt of Your request. However, this period may be extended by two (2) months due to the complexity and number of requests.&#x20;
 
-\
-
+<br>
 
 Finally, You can contact the competent supervisory authority for Data protection in Your region. For example, the CNIL for France: www.cnil.fr.
 
@@ -205,12 +199,10 @@ Request implements all technical and organizational measures it deems necessary 
 * Security tests and intrusion tests by independent third parties,
 * Administrative access to our servers is limited to certain people duly identified with our hosting provider.&#x20;
 
-\
-
+<br>
 
 To assess the appropriate security level, Request takes into account, among other things, the nature of the Data and the risks its processing presents. Although we strive to ensure optimal Data protection, we would remind You that transmitting information on the Internet is not entirely secure.
 
-\
-
+<br>
 
 To help us protect Your Data, Request encourages You to use a strong password and never share it with anyone or use the same password with other sites or accounts. If You have reason to believe that Your interaction with our Services is no longer secure (e.g., You feel that the security of Your account has been compromised), please contact Request at privacy@request.finance immediately.

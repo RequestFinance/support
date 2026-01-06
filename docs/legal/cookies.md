@@ -52,8 +52,7 @@ Through browser preferences, it is also possible to delete cookies installed in 
 
 Cookies required for navigation make a website usable by enabling basic functions such as page navigation and access to secure website areas. Our Website cannot function properly without these cookies. We use the following cookies:
 
-\
-
+<br>
 
 | Provider      | Cookies                                                                                       | Purpose                                                                                | Data controller  | Retention                  |
 | ------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ---------------- | -------------------------- |
@@ -98,4 +97,4 @@ We don’t use such cookies.
 
 If you have any questions about this Policy, you can contact us by sending an e-mail to privacy@request.finance.&#x20;
 
-\
+<br>

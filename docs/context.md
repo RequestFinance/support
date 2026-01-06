@@ -28,6 +28,6 @@ From contractors and small companies to corporates — Request is used by a rang
 
 ## Important Links <a href="#h_65efafe340" id="h_65efafe340"></a>
 
-* [Legals](broken-reference)&#x20;
+* [Legals](/broken/pages/-MTZa6qZUlfElifkDnXO)&#x20;
 * [FAQ](https://help.request.finance/en/)
 * [Get support](mailto:support@request.finance)

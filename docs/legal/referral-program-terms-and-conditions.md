@@ -72,4 +72,4 @@ In the event that any provision of these Program Terms is declared invalid, ille
 
 THIS PROGRAM IS GOVERNED BY THE LAWS OF FRANCE AND SUBJECT TO THE EXCLUSIVE JURISDICTION OF THE COMMERCIAL COURT OF PARIS.
 
-\
+<br>
