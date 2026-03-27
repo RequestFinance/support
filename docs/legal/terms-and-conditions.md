@@ -8,8 +8,6 @@ PLEASE READ THE FOLLOWING TERMS & CONDITIONS CAREFULLY. BY ACCESSING AND/OR USIN
 
 Request Finance (hereinafter "Request" or “Request Finance”) is a French “société par actions simplifiée” (simplified joint stock company) with a capital of 1000 euros, whose headquarters is located at 722 Route de Norcier - 74160 Saint-Julien-en-Genevois; registered in the Thonon-les-Bains RCS under No. 880 400 106, and represented by its President, Mr. LASSUYT Christophe.
 
-The crypto-to-fiat services are covered by specific T\&Cs and are provided by Request Technologies UAB, a private limited liability company registered in the Republic of Lithuania with company registration number 306291868 and registered office Gedimino avn. 20, Vilnius, the Republic of Lithuania (hereinafter "Request Technologies"). Request Technologies UAB services in the text will be used as subsidiaries' services.
-
 The Request protocol is provided by Request Network Stiftung, Baarerstrasse 82, ℅ Abafin Treuhand AG - 6302 Zug, Switzerland.
 
 ## What should you know at a glance?
@@ -198,12 +196,9 @@ Request enables you to operate transactions directly on a supporting blockchain 
 
 The transaction details you submit via our Services may not be completed or substantially delayed due to activity or lack thereof on the blockchain used to process the transaction. Once transaction details have been submitted through your wallet, Request cannot assist you in cancelling or modifying your transaction details. Request is not an international payroll or accounting provider and does not provide compliance solutions for payroll and accounting processing. You are solely responsible for compliance with all local laws and regulations. Request makes no warranties that using its Services to facilitate transactions, involving digital assets, enables you to meet any such obligations.
 
-### What we don’t offer?
+### What do we not offer?
 
-By accessing or using our Services, you understand that:
-
-* Request Finance is an unregulated platform based on DeFi;
-* Request Technologies is merely a VASP technology service and is not a bank, a PsP, or a money transmitter. We extensively use third parties PsPs to deliver our crypto-to-fiat services. These partners are solely responsible for the safety and safe handling of the funds.
+By accessing or using our Services, you understand that Request Finance is an unregulated platform based on DeFi.
 
 We do not provide a payment service according to Directive 2015/2366/EC on payment services in the internal European market. When you accept these Terms of Service, you consent to us using third parties to provide you with a payment service.
 
@@ -240,16 +235,15 @@ Request’s failure to assert any right or provision under these T\&Cs shall not
 
 Request works with partners to provide you with some services and products. By using these specific services, you accept their T\&Cs. Below, and for your convenience only, is a list of links referring to our partners' T\&Cs for such services and products:
 
-* For Crypto-to-Fiat:&#x20;
+* For Crypto-to-Fiat/Fiat-to-Crypto:&#x20;
   * Reap - [https://www.reap.co/general-terms](https://www.reap.co/general-terms) and [https://www.reap.co/managed-account-terms](https://www.reap.co/managed-account-terms)&#x20;
-  * Bridge - [https://www.bridge.xyz/legal](https://www.bridge.xyz/legal)
-  * Koywe - [https://www.koywe.com/EN/terms](https://www.koywe.com/EN/terms)
-  * Kraken - [https://www.kraken.com/legal](https://www.kraken.com/legal)
-  * Safeheron - [https://support.safeheron.com/help-center/product-and-solution/support/safeheron-user-and-privacy-agreement#id-1.-acceptance-of-terms](https://support.safeheron.com/help-center/product-and-solution/support/safeheron-user-and-privacy-agreement#id-1.-acceptance-of-terms)
+  * Bridge - [https://www.bridge.xyz/legal/overview](https://www.bridge.xyz/legal/overview)
   * Triple-A - [https://www.triple-a.io/privacy-and-terms-policy](https://www.triple-a.io/privacy-and-terms-policy)
   * Mesta - ​​[https://mesta.xyz/terms](https://mesta.xyz/terms)&#x20;
-* For insurance with OpenCover: [Here](https://app.gitbook.com/o/-LBPEk9k7ap5J4UBioon/s/-MJ21-Ms-rAz8W-gZk95/~/changes/130/legal/transaction-cover-terms-and-conditions-transaction-cover)
+* For Insurance with OpenCover: [Here](https://app.gitbook.com/o/-LBPEk9k7ap5J4UBioon/s/-MJ21-Ms-rAz8W-gZk95/~/changes/130/legal/transaction-cover-terms-and-conditions-transaction-cover)
 * For Business Mastercards with Kulipa: [https://www.kulipa.xyz/t-cs](https://www.kulipa.xyz/t-cs)&#x20;
+* For Global USD Account and Rewards with Bridge: [https://www.bridge.xyz/legal/overview](https://www.bridge.xyz/legal/overview)
+* For Private Payments with Bridge: [https://www.bridge.xyz/legal/overview](https://www.bridge.xyz/legal/overview)
 
 ### Foreign access
 
