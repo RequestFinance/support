@@ -6,7 +6,7 @@ PLEASE READ THE FOLLOWING TERMS & CONDITIONS CAREFULLY. BY ACCESSING AND/OR USIN
 
 ## Who are we?
 
-Request Finance (hereinafter "Request" or “Request Finance”) is a French “société par actions simplifiée” (simplified joint stock company) with a capital of 1000 euros, whose headquarters is located at 722 Route de Norcier - 74160 Saint-Julien-en-Genevois; registered in the Thonon-les-Bains RCS under No. 880 400 106, and represented by its President, Mr. LASSUYT Christophe.
+Request Finance (hereinafter "Request" or “Request Finance”) is a French “société par actions simplifiée” (simplified joint stock company) with a capital of 1000 euros, whose headquarters is located at 888 Route de la Caille, 74350 Allonzier-la-Caille, France; registered in the Thonon-les-Bains RCS under No. 880 400 106, and represented by its President, Mr. LASSUYT Christophe.
 
 The Request protocol is provided by Request Network Stiftung, Baarerstrasse 82, ℅ Abafin Treuhand AG - 6302 Zug, Switzerland.
 
