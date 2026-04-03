@@ -384,6 +384,7 @@ Processor processes Personal Data contained in account data, usage data, and any
 
 You can find our previous Terms & Conditions here:&#x20;
 
+* [Valid from 4th November 2025 till 17th April 2026](https://cdn.prod.website-files.com/606beb3b434b8b21edd72827/69ce823a94c149b4164d3054_General%20T%26Cs%20-%20valid%20from%204th%20November%202025%20till%2017th%20April%202026.pdf)&#x20;
 * [Valid from 3rd of February 2025 till 3rd of November 2025](https://cdn.prod.website-files.com/606beb3b434b8b21edd72827/68f20b566aed2c51ba9372f5_Terms%20%26%20Conditions%20-%20valid%20from%203rd%20of%20February%202025%20till%203rd%20of%20November%202025.pdf)
 * [Valid from 1st of June 2024 till 3rd of February 2025](https://cdn.prod.website-files.com/606beb3b434b8b21edd72827/67877e6d1ff1df189e3e7b86_Terms%20%26%20Conditions%20-%20Valid%20from%20the%201st%20of%20June%202024%20till%20the%203rd%20of%20February%202025.pdf)
 * [Valid from 21st of June 2023 till 31st of May 2024](https://uploads-ssl.webflow.com/606beb3b434b8b21edd72827/664b1699298eb085fc4f19de_Terms%20%26%20Conditions%20-%20valid%20from%20the%2021st%20of%20June%202023%20till%20the%2031st%20of%20May%202024.pdf)
