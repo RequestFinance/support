@@ -14,11 +14,11 @@ The Request protocol is provided by Request Network Stiftung, Baarerstrasse 82, 
 
 * Acceptance. By using our Services, you agree that you have read, understood, and accept all of the Terms & Conditions, [the Cookie Policy](https://support.request.finance/legal/cookies), and [the Privacy Policy](https://support.request.finance/legal/privacy).
 * “You” or “your” means you as a professional and the company (and its employees), organization, and/or entity electronically accessing our Services.
-* Our DNA. Request Finance is a professional web application for Companies, DAOs, and professionals to easily manage crypto invoices, salaries, and expenses in a fast and non-custodial way. You will find a non-exhaustive list of our Services [here](https://www.request.finance/).
+* Our DNA. Request Finance is a professional web application for Companies, DAOs, and professionals to easily manage crypto invoices, salaries, and expenses in a fast and non-custodial way. You will find a non-exhaustive list of our Services [here](https://www.requestfinance.com/).
 * Privacy. We respect your privacy, as explained in the [Cookie Policy](https://support.request.finance/legal/cookies) and [Privacy Policy](https://support.request.finance/legal/privacy).&#x20;
 * DPA. The DPA attached to these T\&Cs governs the processing of personal data carried out on Your behalf, as a data controller, by Request Finance, as a data processor.
 * Partners. Certain services offered through our platform are provided by third-party partners ("Partners"). By accessing or using any such services provided by our Partners, you acknowledge and agree that: (a) the applicable Partner’s terms and conditions (“Partner Terms”) will govern your use of that service; and (b) you have read, understood and accept the applicable Partner Terms. Please refer to the "Partners Policy" section below for details on which Partner Terms apply to each service.
-* Termination. You may request to terminate your account anytime at support@request.finance.&#x20;
+* Termination. You may request to terminate your account anytime at support@requestfinance.com.&#x20;
 * IP. All legal rights, including all intellectual property rights, are Request’s property.&#x20;
 * Disclaimer. Request does not monitor, authorize, or check the correctness or completeness of transactions before you authorize them.
 * Warranty. OUR SERVICES ARE PROVIDED "AS IS" AND “AS AVAILABLE”.
@@ -41,7 +41,7 @@ To use all features of our Services, you may have to create a user account by pr
 
 If you are a minor or a protected person, you declare and acknowledge that you have obtained the authorization of the holder(s) of your parental authority, your employer, or of your guardian, who agree to be guarantors of the respect of all the provisions of the present T\&Cs, and who is responsible for your use of our Services.
 
-You can terminate your account and stop using our Services anytime (unless we or our partners suspect you are doing so to evade investigation) by directly contacting Request at support@request.finance. All amounts due and/or paid for any monthly or annual subscription are acquired upon subscription and cannot be refunded. Concerning the:
+You can terminate your account and stop using our Services anytime (unless we or our partners suspect you are doing so to evade investigation) by directly contacting Request at support@requestfinance.com. All amounts due and/or paid for any monthly or annual subscription are acquired upon subscription and cannot be refunded. Concerning the:
 
 * annual subscription, the contract will be renewed for the same duration and excluding any discount and commercial gesture granted the first year, in the absence of denunciation by you at least two (2) months prior to the anniversary date;
 * monthly subscription, the contract may be terminated at any time without prior notice.
@@ -50,7 +50,7 @@ You can terminate your account and stop using our Services anytime (unless we or
 
 You are responsible for keeping your login credentials confidential and safe. For this reason, you must also choose a password that meets the highest standards of strength. We recommend making it long and using a mix of characters. In no event shall Request be liable for the loss or theft of your login Information or its fraudulent use. You are solely responsible for using your account by others and for actions or statements made through it, whether fraudulent or not. You hold Request harmless from any such claim caused by your fault or negligence.
 
-You are required to immediately and unambiguously inform Request at privacy@request.finance if you think your personal information, including but not limited to account, access credentials, or personal data, has been violated, unduly disclosed, or stolen.
+You are required to immediately and unambiguously inform Request at privacy@requestfinance.com if you think your personal information, including but not limited to account, access credentials, or personal data, has been violated, unduly disclosed, or stolen.
 
 ### Minimum configuration of your computer
 
@@ -70,7 +70,7 @@ In addition to the above, Request is required by law to delete an account in cas
 
 ## What are our Services, fees, and commitments?
 
-Unless otherwise specified or recognizable, all content available on our Services is owned or provided by Request or its licensors. Request undertakes its utmost effort to ensure that the content provided on Request infringes no applicable legal provisions or third-party rights. However, it may not always be possible to achieve such a result. In such cases, without prejudice to any legal prerogatives of any third party to enforce their rights, you are kindly asked to preferably report related complaints at support@request.finance.
+Unless otherwise specified or recognizable, all content available on our Services is owned or provided by Request or its licensors. Request undertakes its utmost effort to ensure that the content provided on Request infringes no applicable legal provisions or third-party rights. However, it may not always be possible to achieve such a result. In such cases, without prejudice to any legal prerogatives of any third party to enforce their rights, you are kindly asked to preferably report related complaints at support@requestfinance.com.
 
 ### Our Services
 
@@ -128,7 +128,7 @@ Request Finance and/or the card program provider may change, suspend or terminat
 
 The purpose of corrective maintenance is to correct all Anomalies (being understood as a bug or a malfunction) that may be found in our Services. It is to be specified that this does not concern the Anomalies that could be due to the crypto wallets, exchange accounts, custody solutions, API, or any third-party product/service or component connected to our Services.
 
-You shall notify Request of any Anomaly you find via the in-app chat or by email at support@request.finance; attempting to give a maximum of useful information so that Request may characterize the incident. Request shall then proceed to the diagnosis of the Anomaly, including verifying whether its origin is related to our Services or not. Request shall inform you of the results of this diagnosis promptly.
+You shall notify Request of any Anomaly you find via the in-app chat or by email at support@requestfinance.com; attempting to give a maximum of useful information so that Request may characterize the incident. Request shall then proceed to the diagnosis of the Anomaly, including verifying whether its origin is related to our Services or not. Request shall inform you of the results of this diagnosis promptly.
 
 Request ensures the evolutionary maintenance of the Services. The nature and the frequency of these updates shall be left at Request’s discretion. You expressly agree that the updates shall be performed automatically and without prior notice.
 
@@ -136,7 +136,7 @@ There is no right to maintain previous versions of our Services or to any correc
 
 #### Technical support
 
-Besides Anomalies and any questions related to our Services, Request provides technical support consisting of assistance and advice. Such support can be provided through the in-app chat or at support@request.finance.
+Besides Anomalies and any questions related to our Services, Request provides technical support consisting of assistance and advice. Such support can be provided through the in-app chat or at support@requestfinance.com.
 
 ### Liability and indemnification
 
@@ -261,7 +261,7 @@ Nothing in these T\&Cs creates any employment, agency, or partnership relationsh
 
 ### Contacts & Notice
 
-Communications relating to the use of our Services must be sent to support@request.finance. You must also give notice to Request at support@request.finance. Such notice shall be deemed given within 24 hours of confirmed transmission.
+Communications relating to the use of our Services must be sent to support@requestfinance.com. You must also give notice to Request at support@requestfinance.com. Such notice shall be deemed given within 24 hours of confirmed transmission.
 
 ### Severability, Language & Entire Agreement
 
@@ -271,7 +271,7 @@ These T\&Cs, with the Cookie policy and Privacy policy, are the entire contract 
 
 THESE T\&CS ARE GOVERNED BY FRENCH LAW. THE EXCLUSIVE COMPETENCE TO DECIDE ON ANY CONTROVERSY RESULTING FROM OR CONNECTED TO THESE T\&CS LIES WITH THE COMMERCIAL COURT OF PARIS.
 
-WHILE YOUR RIGHT TO TAKE LEGAL ACTION SHALL ALWAYS REMAIN UNAFFECTED, IN THE EVENT OF ANY CONTROVERSY REGARDING THE USE OF OUR SERVICES, YOU MUST ALWAYS CONTACT REQUEST AT SUPPORT@REQUEST.FINANCE. REQUEST WILL PROCESS THE COMPLAINT WITHOUT UNDUE DELAY AND WITHIN 30 DAYS OF RECEIVING IT.
+WHILE YOUR RIGHT TO TAKE LEGAL ACTION SHALL ALWAYS REMAIN UNAFFECTED, IN THE EVENT OF ANY CONTROVERSY REGARDING THE USE OF OUR SERVICES, YOU MUST ALWAYS CONTACT REQUEST AT SUPPORT@REQUESTFINANCE.COM. REQUEST WILL PROCESS THE COMPLAINT WITHOUT UNDUE DELAY AND WITHIN 30 DAYS OF RECEIVING IT.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
